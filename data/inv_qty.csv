@@ -1,0 +1,62 @@
+"","prod_name","prod_num","production","coldroom","taproom","tapped","sales","cellar","promotion","sold","unsellable","totals"
+"1","Ahuevo 1/2 barrel",1,0,8,0,0,0,0,0,0,0,8
+"2","Ahuevo 1/6 barrel",2,0,0,0,0,0,0,0,0,0,0
+"3","Amped Fusion 1/6 barrel",3,0,0,0,0,0,0,0,0,0,0
+"4","BA Fur Slipper 1/6 barrel",4,0,0,0,0,0,0,0,0,0,0
+"5","Boatmans 1/2 barrel",5,0,4,0,0,1,4,0,0,0,9
+"6","Boatmans 1/6 barrel",6,0,0,0,0,0,1,0,0,0,1
+"7","Bourbon BA Fur Slipper 1/6",7,0,0,0,0,0,0,0,0,0,0
+"8","Coco Anejo 1/2 barrel",8,0,4,5,2,5,0,0,0,0,16
+"9","Coco Anejo 1/6 barrel",9,0,13,6,0,0,0,0,0,0,19
+"10","Feisty Redhead 1/2 barrel",10,0,5,0,2,0,0,0,0,0,7
+"11","Feisty Redhead 1/6 barrel",11,0,0,0,0,0,0,0,0,0,0
+"12","Feisty Blonde 1/2 barrel",12,0,48,5,2,0,0,0,0,0,55
+"13","Feisty Blonde 1/6 barrel",13,0,40,0,0,0,0,0,0,0,40
+"14","Feisty Blonde Cans",14,0,0,0,0,0,0,0,0,0,0
+"15","Feisty Brunette 1/2 barrel",15,0,0,0,0,0,0,0,0,0,0
+"16","Feisty Brunette 1/6 barrel",16,0,0,0,0,0,0,0,0,0,0
+"17","Fingal 1/2 barrel",17,0,5,0,1,0,0,0,0,0,6
+"18","Fingal 1/6 barrel",18,0,0,0,0,0,0,0,0,0,0
+"19","Fur Slipper 1/2 barrel",19,0,0,1,2,0,1,0,0,0,4
+"20","Fur Slipper 1/6 barrel",20,0,20,0,0,0,0,0,0,0,20
+"21","Fur Slipper Cans",21,0,0,0,0,0,0,0,0,0,0
+"22","Fur Slipper Nitro 1/2 barrel",22,0,0,0,0,0,0,0,0,0,0
+"23","Fur Slipper Nitro 1/6 barrel",23,0,0,0,0,0,0,0,0,0,0
+"24","Go Easy 1/2 barrel",24,0,16,0,1,0,0,0,0,0,17
+"25","Go Easy 1/6 barrel",25,0,20,5,1,0,0,0,0,0,26
+"26","Go Easy Cans",26,0,0,0,0,0,0,0,0,0,0
+"27","Hairpin 1/2 barrel",27,0,0,1,1,0,0,0,0,0,2
+"28","Hairpin 1/6 barrel",28,0,5,1,1,0,0,0,0,0,7
+"29","Hairpin Cans",29,0,49,0,0,0,0,0,0,0,49
+"30","Hop Fusion Tin Tacker",30,0,0,0,0,0,0,0,0,0,0
+"31","Hopfusion Glasses 16oz Snifter Logo 12",31,0,0,0,0,0,0,0,0,0,0
+"32","Hopfusion Glasses Pint Logo 24",32,0,0,0,0,0,0,0,0,0,0
+"33","Le Fauves 1/2 barrel",33,0,0,0,0,0,0,0,0,0,0
+"34","Le Fauves 1/6 barrel",34,0,0,0,0,0,0,0,0,0,0
+"35","Le Fauves 1/6 barrel",35,0,0,0,0,0,0,0,0,0,0
+"36","Orange Blossom Special 1/2 barrel",36,0,16,0,1,0,0,0,0,0,17
+"37","Orange Blossom Special 1/6 barrel",37,0,5,3,0,0,0,0,0,0,8
+"38","Sprockets 1/2 barrel",38,0,19,0,0,0,0,0,0,0,19
+"39","Sprockets 1/6 barrel",39,0,8,0,2,0,0,0,0,0,10
+"40","Steampipe 1/2 barrel",40,0,6,0,0,0,0,0,0,0,6
+"41","Steampipe 1/6 barrel",41,0,0,0,0,0,0,0,0,0,0
+"42","Steampipe Cans",42,0,0,0,0,0,0,0,0,0,0
+"43","Sweet Love 1/6",43,0,0,0,0,0,4,0,0,0,4
+"44","Tejano Lager 1/2 barrel",44,0,17,2,0,0,1,0,0,0,20
+"45","Tejano Lager 1/6 barrel",45,0,15,0,2,0,0,0,0,0,17
+"46","Thorny Blonde 1/2 barrel",46,0,0,0,0,0,0,0,0,0,0
+"47","Thorny Blonde 1/6 barrel",47,0,0,0,0,0,0,0,0,0,0
+"48","Zombie Crack 1/2 barrel",48,0,0,0,0,0,1,0,0,0,1
+"49","Zombie Crack 1/6 barrel",49,0,0,0,0,0,0,0,0,0,0
+"50","Perkins 1/2 barrel",50,0,0,0,0,0,0,0,0,0,0
+"51","Perkins 1/6 barrel",51,0,0,0,0,0,0,0,0,0,0
+"52","Thai Dyed 1/6 barrel",52,0,0,0,1,0,0,0,0,0,1
+"53","Jack of Hearts 1/6 barrel",53,0,0,0,1,0,0,0,0,0,1
+"54","Baliwick 1/6 barrel",54,0,0,0,0,0,0,0,0,0,0
+"55","Feisty Brunette 1/2 barrel",55,0,0,0,0,0,0,0,0,0,0
+"56","Feisty Brunette 1/6 barrel",56,0,0,0,0,0,0,0,0,0,0
+"57","Cinful Slipper 1/6 barrel",57,0,0,0,0,0,3,0,0,0,3
+"58","Jaffa 1/6 barrel",58,0,0,0,0,0,0,0,0,0,0
+"59","BA Feisty Blonde 1/6 barrel",59,0,0,0,0,0,0,0,0,0,0
+"60","BA Boatmans 1/6 barrel",60,0,0,0,2,0,0,0,0,0,2
+"61","Apollo 1/2 barrel",61,0,0,0,2,0,0,0,0,0,2

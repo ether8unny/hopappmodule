@@ -1,0 +1,997 @@
+Customer Num,Company,"Address, City, State & Zip",On-Off Premise,Postal Code,Salesman Assigned,State License Num,County,City,Deliveryman Assigned
+1006,Chilly Mart - Carrolton,"2220 Marsh Lane, #122, Carrollton, TX 75006",Off Premise,75006,Jeff Martin,BQ949864,Dallas,Carrollton,Jose Vital
+1009,Local Pint,"2750 Churchill Drive, Flower Mound, TX 75063",On Premise,75063,Nathan Zaremba,BG952805,Denton,Flower Mound,James Liston
+1010,Haymaker,"1520 Greenville Ave, Dallas, TX 75206",On Premise,75206,Mason Lowe,MB953508,Dallas,Dallas,Joe Fronczek
+1011,Craft Beer Cellar,"6324 Gaston Ave., Dallas, TX 75214",Off Premise,75214,Mason Lowe,BG953081,Dallas,Dallas,James Hall
+1014,44 Bootlegger,"1411 W. Magnolia Ave., Suite 101, Fort Worth, TX 76104",On Premise,76104,Taylor Coward,BG824866,Tarrant,Fort Worth,Joe Fronczek
+1016,Crafty Irishman Public House,"1800 Main St, Dallas, TX 75201",On Premise,75201,Mason Lowe,MB950571,Dallas,Dallas,James Hall
+1017,Social Pie,"5855 Maple Ave., Suite 160, Dallas, TX 75235",On Premise,75235,Harrison Boyland,BG957413,Dallas,Dallas,Ronald Streng
+1021,"Beaker Social Club, Inc. - Pie Tap","2708 N. Henderson Ave., Suite 110, Dallas, TX 75206",On Premise,75206,Mason Lowe,N945683,Dallas,Dallas,Joe Fronczek
+1032,Taps & Caps - Fort Worth,"6115 Camp Bowie Blvd., Fort Worth, TX 76116",On Premise,76116,Nathan Zaremba,BG943308,Tarrant,Fort Worth,Joe Fronczek
+1033,Nerdvana Food & Spirits,"5757 Main Street, Suite 112, Frisco, TX 75034",On Premise,75034,Hudson Boyd,RM961005,Collin,Frisco,Ronald Streng
+1037,Pie Tap Pizza Workshop and Bar,"1212 Oak Lawn Ave, Dallas, TX 75207",On Premise,75207,Harrison Boyland,MB940552,Dallas,Dallas,Joe Fronczek
+1047,Liquor City,"290 E Corporate Dr., Lewisville, TX 75067",Off Premise,75067,Jeff Martin,bf871276,Denton,Lewisville,James Liston
+1061,Twin Peaks - Fort Worth - Fossil Creek,"6650 North Freeway, Fort Worth, TX 76137",On Premise,76137,Nathan Zaremba,MB845188,Tarrant,Fort Worth,Justin Stryker
+1068,Tricky Fish,"1251 State Street, Richardson, TX 75082",On Premise,75082,Harrison Boyland,RM932488,Collin,Richardson,Ronald Streng
+1069,Tom Thumb 3614 - Hampton,"315 S Hampton Road, Dallas, TX 75208",Off Premise,75208,Brandon Byrd,BQ764686,Dallas,Dallas,Joe Fronczek
+1070,Triple D Liquor,"323 W 4th St., Weatherford, TX 76086",Off Premise,76086,Taylor Coward,BF721394,Parker,Weatherford,Ronald Streng
+1083,Ill Minster,"2600 Cedar Springs Rd., Dallas, TX 75219",On Premise,75219,Harrison Boyland,MB964523,Dallas,Dallas,Joe Fronczek
+1089,Arlington Liquor Store,"426 E Lamar Blvd, Arlington, TX 76011",Off Premise,76011,Justin Page,P909245,Tarrant,Arlington,James Liston
+1090,Big Country Liquor Beer & Wine,"6619 Forest Hill Dr., Forest Hill, TX 76140",Off Premise,76140,Justin Page,P645017,Tarrant,Forest Hill,Jose Vital
+1091,Tom Thumb 3570 - Gaston,"7331 Gaston Avenue, Dallas, TX 75214",Off Premise,75214,Brandon Byrd,BQ961475,Dallas,Dallas,James Hall
+1092,Tom Thumb 3569 - Oak Lawn,"3878 Oak Lawn Avenue, Dallas, TX 75219",Off Premise,75219,Brandon Byrd,BQ963877,Dallas,Dallas,James Hall
+1093,Tom Thumb 3571 - River Run,"1751 River Run, Fort Worth, TX 76107",Off Premise,76107,Justin Page,BQ963216,Tarrant,Fort Worth,Joe Fronczek
+1107,Dallas Craft Company - Colleyville,"5120 HWY 121, Colleyville, TX 76034",On Premise,76034,Nathan Zaremba,RM951519,Tarrant,Colleyville,Justin Stryker
+1109,On Tap,"200 N. Mesquite Street, Arlington, TX 76011",On Premise,76011,Taylor Coward,BG930162,Tarrant,Arlington,James Liston
+1112,Public School 972,"14854 Montfort Drive, Addison, TX 75254",On Premise,75254,Harrison Boyland,MB931724,Dallas,Addison,Jose Vital
+1114,The Backyard on Bell,"410 N. Bell Avenue, Denton, TX 76209",On Premise,76209,Nathan Zaremba,MB943784,Denton,Denton,James Liston
+1118,LG Taps,"3619 Greenville Ave., Dallas, TX 75206",On Premise,75206,Mason Lowe,MB966899,Dallas,Dallas,Joe Fronczek
+1119,Bluffview Growler,"3850 W. NW Hwy., Dallas, TX 75220",On Premise,75220,Mason Lowe,BG964775,Dallas,Dallas,Ronald Streng
+1128,Target 2425 - Ridgemar,"751 Alta Mere Dr., Fort Worth, TX 76116",Off Premise,76116,Justin Page,BQ695986,Tarrant,Fort Worth,Joe Fronczek
+1132,Target 2008 - Lake Worth,"6604 Lake Worth Blvd, Lake Worth, TX 76135",Off Premise,76135,Justin Page,BQ609739,Tarrant,Lake Worth,Ronald Streng
+1133,Flamingo Liquor & Wine - Dallas,"4125 Fairmount Street, Dallas, TX 75219",Off Premise,75219,Brandon Byrd,BF941770,Dallas,Dallas,James Hall
+1136,Bar 2909,"2909 Morton Street, Fort Worth, TX 76107",On Premise,76107,Taylor Coward,MB937166,Tarrant,Fort Worth,Joe Fronczek
+1139,HEB 423 Waco Wooded Acres,"1301 Wooded Acres, Waco, TX 76710",Off Premise,76710,Mark Molkenbuhr,BF422850,McLennan,Waco,David Cash
+1141,Book Club Cafe,"107 E Kaufman St., Rockwall, TX 75087",On Premise,75087,Hudson Boyd,BG929321,Rockwall,Rockwall,Jose Vital
+1142,Baker St. Pub and Grill,"6333 Camp Bowie Blvd, Fort Worth, TX 76116",On Premise,76116,Taylor Coward,MB579698,Tarrant,Fort Worth,Joe Fronczek
+1145,Rotolo's Pizzeria - Longview,"3407 N Fourth Street, Longview, TX 75605",On Premise,75605,Ronnie Esposito,RM955176,Gregg,Longview,East Texas Drivers
+1154,BuzzBrews - Victory Park,"2300 Victory Park, Dallas, TX 75219",On Premise,75219,Harrison Boyland,MB936417,Dallas,Dallas,James Hall
+1159,HEB 672 Valley Mills,"1821 S Valley Mills Dr., Waco, TX 76711",Off Premise,76711,Mark Molkenbuhr,BF812195,McLennan,Waco,East Texas Drivers
+1160,HEB 583 Woodway,"9100 Woodway Dr., Woodway, TX 76712",Off Premise,76712,Mark Molkenbuhr,BQ560175,McLennan,Woodway,East Texas Drivers
+1169,Haystack - Dallas,"3838 Oak Lawn Ave, Dalla, TX 75219",On Premise,75219,Harrison Boyland,MB970324,Dallas,Dalla,James Hall
+1172,Heritage Pizza,"3750 Plano Parkway, The Colony, TX 75056",On Premise,75056,Hudson Boyd,BG967878,Denton,The Colony,James Liston
+1179,HEB 631 Granbury,"3804 US-377, Granbury, TX 76049",Off Premise,76049,Justin Page,BF782723,Hood,Granbury,Joe Fronczek
+1189,Bubble & Squeak,"425 Pinson Rd, Forney, TX 75126",Off Premise,75126,Brandon Byrd,BF968744,Kaufman,Forney,East Texas Drivers
+1194,Bread Winners Cafe - Trophy Club,"3000 Hwy 114 E, Trophy Club, TX 76262",On Premise,76262,Nathan Zaremba,RM960642,Tarrant,Trophy Club,Justin Stryker
+1198,Target 2042 - 7th Street,"301 Carroll Street, Fort Worth, TX 76107",Off Premise,76107,Justin Page,BQ609734,Tarrant,Fort Worth,Joe Fronczek
+1199,America Gardens,"2833-37 Morton Street, Fort Worth, TX 76107",On Premise,76107,Taylor Coward,MB957791,Tarrant,Fort Worth,Manny Chavez
+1200,EJ Wills Gastro Pub,"18208 Preston Road, Dallas, TX 75252",On Premise,75252,Hudson Boyd,RM953358,Dallas,Dallas,Jose Vital
+1207,Rotolo's Pizzeria - Tyler,"8970 S. Broadway Ave., Tyler, TX 75703",On Premise,75703,Ronnie Esposito,RM883727,Smith,Tyler,East Texas Drivers
+1236,Cane Rosso - W Magnolia Ave,"815 W Magnolia Ave, Fort Worth, TX 76104",On Premise,76104,Taylor Coward,MB927976,Tarrant,Fort Worth,Joe Fronczek
+1237,Caskey's Bar and Grill - W Hickory St,"1206 W Hickory St, Denton, TX 76201",On Premise,76201,Nathan Zaremba,MB952662,Denton,Denton,James Liston
+1238,Fixture - Kitchen and Social Lounge - W Magnolia A,"401 W Magnolia Ave, Fort Worth, TX 76104",On Premise,76104,Taylor Coward,MB905218,Tarrant,Fort Worth,Joe Fronczek
+1240,LSA Burger Co. - W Hickory St,"113 W Hickory St, Denton, TX 76201",On Premise,76201,Nathan Zaremba,RM839263,Denton,Denton,James Liston
+1241,Oni Ramen - W 7th St,"2801 W 7th St, Forth Worth, TX 76107",On Premise,76107,Taylor Coward,MB972766,Tarrant,Forth Worth,Joe Fronczek
+1242,Terra Mediterranean Grill - Crockett ST,"2973 Crockett St, Fort Worth, TX 76107",On Premise,76107,Taylor Coward,MB739599,Tarrant,Fort Worth,Joe Fronczek
+1243,Tributary Cafe - Race St,"2813 Race St, Fort Worth, TX 76111",On Premise,76111,Taylor Coward,MB960210,Tarrant,Fort Worth,Joe Fronczek
+1246,Sugarbacon - McKinney,"216 W. Virginia Street, McKinney, TX 75069",On Premise,75069,Hudson Boyd,RM901412,Collin,McKinney,Ronald Streng
+1248,Varsity Tavern,"1005 Norwood Street, Fort Worth, TX 76107",On Premise,76107,Taylor Coward,MB925257,Tarrant,Fort Worth,Joe Fronczek
+1252,World Market #6399 - Addison,"13912 Dallas Parkway, Dallas, TX 75240",Off Premise,75240,Brandon Byrd,BQ952284,Dallas,Dallas,Jose Vital
+1253,Tom Thumb 3312 - W 7th St,"2400 W 7th St, Fort Worth, TX 76107",Off Premise,76107,Justin Page,BG964279,Tarrant,Fort Worth,Joe Castro
+1258,Neighbors Food N Brews - Richardson,"508 W Lookout Dr, Richardson, TX 75080",Off Premise,75080,Brian Schick,BQ971446,Collin,Richardson,Ronald Streng
+1265,Radisson Fort Worth North,"2540 Meacham Blvd., Fort Worth, TX 76106",On Premise,76106,Taylor Coward,MB661028,Tarrant,Fort Worth,Joe Fronczek
+1268,Happiest Hour,"2616 Olive Street, Dallas, TX 75201",On Premise,75201,Harrison Boyland,MB918752,Dallas,Dallas,Joe Fronczek
+1277,Fox & Hound - Dallas,"18918 Midway Road, Dallas, TX 75287",On Premise,75287,Hudson Boyd,N260044,Collin,Dallas,Michael Weldon
+1281,Prohibition Chicken - Lewisville,"201 W Church St, Lewisville, TX 75057",On Premise,75057,Nathan Zaremba,RM974213,Denton,Lewisville,James Liston
+1301,6S Spirits - Trophy Club,"2003 E Highway 114 STE 425, Trophy Club, TX 76262",Off Premise,76262,Jeff Martin,BF915826,Denton,Trophy Club,Justin Stryker
+1302,6S Liquor - Little Elm,"26411 Hwy 380 Suite B, Little Elm, TX 76227",Off Premise,76227,Jeff Martin,BF947009,Denton,Little Elm,Michael Weldon
+1307,"OV-10 Bronco Association, Inc.","3300 Ross Avenue, Fort Worth, TX 76106",On Premise,76106,House Accounts DFW,SB2926594,Tarrant,Fort Worth,James Liston
+1309,The Sunshine Club,"902 W Division St, Arlington, TX 76012",On Premise,76012,Taylor Coward,MB214978,Tarrant,Arlington,James Liston
+1310,Come and Take It,"301 E. Larkin Street, Athens, TX 75751",On Premise,75751,Ronnie Esposito,BQ829051,Henderson,Athens,East Texas Drivers
+1311,Dough Bro's Italian Kitchen - The Colony,"2851 Plano Pkwy, The Colony, TX 75056",On Premise,75056,Hudson Boyd,MB967679,Denton,The Colony,James Liston
+1316,Henderson Kitchen & Tap,"2730 S. Central Expwy., McKinney, TX 75070",On Premise,75070,Hudson Boyd,RM974509,Collin,McKinney,Ronald Streng
+1317,Lakeway Liquor - Gainesville,"7750 E US Highway 82, Gainesville, TX 76240",Off Premise,76240,Brian Schick,BF649839,Cooke,Gainesville,James Liston
+1319,Free Play Arcade - Arlington,"400 E South St, Arlington, TX 76010",On Premise,76010,Taylor Coward,MB968834,Tarrant,Arlington,James Liston
+1321,Denton County Brewing Company,"200 E McKinney St, Denton, TX 76201",On Premise,76201,Nathan Zaremba,BG942111,Denton,Denton,James Liston
+1324,Tom Thumb 3854 - WD Tate,"4000 William D Tate Ave., Grapevine, TX 76051",Off Premise,76051,Jeff Martin,BQ970270,Tarrant,Grapevine,Justin Stryker
+1326,Target 2145 - S. Loop 288,"1801 S. Loop 288, Denton, TX 76205",Off Premise,76205,Jeff Martin,BQ648231,Denton,Denton,James Liston
+1328,Bread Winners Cafe - Fort Worth,"1612 S University Dr, Fort Worth, TX 76107",On Premise,76107,Taylor Coward,MB978142,Tarrant,Fort Worth,Joe Fronczek
+1329,Total Wine #521 - Allen,"190 East Stacy Rd, Allen, TX 75002",Off Premise,75002,Torie Shelton,BF969026,Collin,Allen,Ronald Streng
+1330,The Franchise Grill & Bar,"3000 Custer Rd #345, Plano, TX 75075",On Premise,75075,Hudson Boyd,RM702183,Collin,Plano,Ronald Streng
+1331,Lava Cantina - The Colony,"5805 Grandscape Blvd, The Colony, TX 75056",On Premise,75056,Hudson Boyd,MB834517,Denton,The Colony,James Liston
+1334,Caps & Flasks,"109 N. Davis Street, Sulphur Springs, TX 75482",On Premise,75482,Ronnie Esposito,RM949395,Hopkins,Sulphur Springs,East Texas Drivers
+1344,Imperial Ale & Spirits,"717 S Interstate 35 E #132, Denton, TX 76205",Off Premise,76205,Jeff Martin,BF898358,Denton,Denton,James Liston
+1345,Dukes Travel Plaza,"Dukes Travel Plaza, Canton, TX 75103",Off Premise,75103,Ronnie Esposito,BQ972836,Van Zandt,Canton,East Texas Drivers
+1347,Stan's Lakeview Draft House,"4847 Main St, The Colony, TX 75056",On Premise,75056,Hudson Boyd,MB893985,Denton,The Colony,James Liston
+1349,Tom Thumb 3853 - Hardin Blvd - McKinney,"3001 Hardin Blvd, McKinney, TX 75070",Off Premise,75070,Brian Schick,BQ970269,Collin,McKinney,Ronald Streng
+1350,Target 1922 - Burleson,"200 NW John Jones Drive, Burleson, TX 76028",Off Premise,76028,Justin Page,BQ651551,Johnson,Burleson,Jose Vital
+1351,Tarrant Liquor,"5250 N. Tarrant Pkwy., Fort Worth, TX 76137",Off Premise,76137,Jeff Martin,BF968387,Tarrant,Fort Worth,Justin Stryker
+1377,Brookshire Grocery #135 - Mt. Pleasant,"308 Ferguson rd, Mount Pleasant, TX 75455",Off Premise,75455,Justin Page,BQ967428,Titus,Mount Pleasant,Jose Vital
+1378,Brookshire Grocery #74 - Greenville,"6410 Wesley St, Greenville, TX 75401",Off Premise,75401,Torie Shelton,BQ711768,Hunt,Greenville,East Texas Drivers
+1380,Target 1517 - Flower Mound,"5959 Long Prairie Road, Flower Mound, TX 75028",Off Premise,75028,Jeff Martin,BQ529591,Denton,Flower Mound,James Liston
+1381,Brookshire Grocery #52 - Commerce,"1603 Culver Street, Commerce, TX 75428",Off Premise,75428,Torie Shelton,BQ567045,Hunt,Commerce,East Texas Drivers
+1383,Brookshire Grocery #126 - Springtown,"501 Hwy 199 E, Springtown, TX 76082",Off Premise,76082,Jeff Martin,BQ764490,Parker,Springtown,Justin Stryker
+1384,Brookshire Grocery #73 - Celina,"675 Sunset Boulevard, Celina, TX 75009",Off Premise,75009,Brian Schick,BQ638237,Collin,Celina,Ronald Streng
+1386,Brookshire Grocery #133 - Joshua,"1001 Joshua Station Boulevard, Joshua, TX 76058",Off Premise,76058,Justin Page,BQ795622,Johnson,Joshua,Jose Vital
+1387,Brookshire Grocery #79 - Farmersville,"1705 W Audie Murphy Parkway, Farmersville, TX 75442",Off Premise,75442,Brian Schick,BQ739137,Collin,Farmersville,Jose Vital
+1388,Brookshire Grocery #94 - Granbury,"1301 S Morgan Street, Granbury, TX 76048",Off Premise,76048,Justin Page,BQ574852,Hood,Granbury,Joe Fronczek
+1389,Brookshire Grocery #124 - Lake Worth,"6708 Lake Worth Boulevard, Lake Worth, TX 76135",Off Premise,76135,Justin Page,BQ604066,Tarrant,Lake Worth,Justin Stryker
+1390,Brookshire Grocery #125 - Azle,"511 N Stewart Street, Azle, TX 76020",Off Premise,76020,Jeff Martin,BQ568625,Tarrant,Azle,Ronald Streng
+1391,Lekka Henderson,"1921 N. Henderson Ave., Dallas, TX 75206",On Premise,75206,Mason Lowe,MB976468,Dallas,Dallas,Joe Fronczek
+1396,Super 1 Foods #615 - Greenville,"4811 Wesley St, Greenville, TX 75401",Off Premise,75401,Torie Shelton,BQ711769,Hunt,Greenville,East Texas Drivers
+1400,Pie 3.14 Everyday Eatery,"2560 King Arthur Blvd., Lewisville, TX 75056",On Premise,75056,Nathan Zaremba,RM872137,Denton,Lewisville,Michael Weldon
+1402,The Central Station,"103 N. Main Street, Gladewater, TX 75647",On Premise,75647,Ronnie Esposito,BG977122,Gregg,Gladewater,East Texas Drivers
+1405,Applejack's Liquor - Denton,"345 E. Hickory Street, Denton, TX 76201",Off Premise,76201,Jeff Martin,BF977307,Denton,Denton,Michael Weldon
+1406,Brookshire Grocery #106 - Seagoville,"125. Hall Road, Seagoville, TX 75159",Off Premise,75159,Ronnie Esposito,BQ828152,Dallas,Seagoville,East Texas Drivers
+1407,Brookshire Grocery #119 - Weatherford,"601 W Palo Pinto, Weatherford, TX 76086",Off Premise,76086,Taylor Coward,BQ715045,Parker,Weatherford,Ronald Streng
+1408,Brookshire Grocery #97 - Aledo,"5118 IH 20E South, Aledo, TX 76008",Off Premise,76008,Taylor Coward,BQ613958,Parker,Aledo,Ronald Streng
+1409,Brookshire Grocery #35 - Kaufman,"2235 S Washington, Kaufman, TX 75142",Off Premise,75142,Brandon Byrd,BQ580229,Kaufman,Kaufman,East Texas Drivers
+1411,Cowburners,"109 N. Johnson Street, Mineloa, TX 75773",On Premise,75773,Ronnie Esposito,BG966485,Wood,Mineloa,East Texas Drivers
+1413,Brookshire Grocery #89 - Forney,"427 Pinson Road, Forney, TX 75126",Off Premise,75126,Brandon Byrd,BQ796253,Kaufman,Forney,Jose Vital
+1414,Brookshire Grocery #129 - Denton,"719 IH 35E South, Denton, TX 76205",Off Premise,76205,Jeff Martin,BQ578595,Denton,Denton,James Liston
+1416,Brookshire Grocery #108 - Red Oak,"105 E Ovilla Rd, Red Oak, TX 75154",Off Premise,75154,Brandon Byrd,BQ751012,Ellis,Red Oak,Joe Fronczek
+1417,Brookshire Grocery #87 - Quinlan,"8934 HWY 34 SOUTH, Quinlan, TX 75474",Off Premise,75474,Torie Shelton,BQ764902,Hunt,Quinlan,East Texas Drivers
+1425,City Works - Frisco,"3680 The Star Blvd., Frisco, TX 75034",On Premise,75034,Hudson Boyd,RM981575,Collin,Frisco,Ronald Streng
+1428,Wild Pitch - Fort Worth,"4701 Citylake Blvd. W, Fort Worth, TX 76132",On Premise,76132,Taylor Coward,RM974348,Tarrant,Fort Worth,Joe Fronczek
+1430,The Colonnade Executive Lounge,"15305 Dallas Parkway Suite 125, Addison, TX 75001",On Premise,75001,Harrison Boyland,MB726778,Dallas,Addison,Jose Vital
+1441,Tom Thumb 2557 - Gainsville,"206 N. Grand, Grainsville, TX 76240",Off Premise,76240,Brian Schick,BQ528916,Cooke,Grainsville,James Liston
+1442,Total Wine #513 - Plano Pkwy,"6400 W Plano Pkwy, Plano, TX 75093",Off Premise,75093,Torie Shelton,BF962761,Collin,Plano,Ronald Streng
+1443,Athens Boathouse Restaurant,"5401 Marina Drive, Athens, TX 75752",On Premise,75752,Ronnie Esposito,RM974426,Henderson,Athens,East Texas Drivers
+1445,Skinner's Grocery & Market,"1708 Judson Road, Longview, TX 75605",Off Premise,75605,Ronnie Esposito,BF681479,Gregg,Longview,East Texas Drivers
+1446,Spirit of a Hero Foundation,"2221 Justin Road, Flower Mound, TX 75028",On Premise,75028,None,TB3041924,Denton,Flower Mound,Charles_3
+1447,Guitars & Growlers,"581 W. Campbell Road, Richardson, TX 75080",On Premise,75080,Harrison Boyland,BG979792,Dallas,Richardson,Jose Vital
+1449,Pinstack - Irving,"2750 W. IH635, Irving, TX 75063",On Premise,75063,Nathan Zaremba,RM932899,Dallas,Irving,Ronald Streng
+1454,Mad Batter Baker,"15615 Quorum Drive, Addison, TX 75001",On Premise,75001,Harrison Boyland,BG989600,Dallas,Addison,Jose Vital
+1455,Wolfgang Puck Catering at Union Station,"400 S Houston St, Dallas, TX 75202",On Premise,75202,House Accounts DFW,MB707504,Dallas,Dallas,James Liston
+1456,HEB 426 Waxahachie,"800 N. Highway 77, Waxahachie, TX 75165",Off Premise,75165,Brandon Byrd,BQ715301,Ellis,Waxahachie,David Cash
+1461,Southern Ground Bottle Company Inc - Lindale,"305 East Hubbard St. Suite C, Lindale, TX 75771",On Premise,75771,Ronnie Esposito,BQ965650,Smith,Lindale,East Texas Drivers
+1464,Wise Guys Pizzeria - Roanoke,"311 South Oak Street, Roanoke, TX 76262",On Premise,76262,Nathan Zaremba,BG974313,Denton,Roanoke,Justin Stryker
+1466,Discovery at the Realm,"3600 Windhaven Pkwy., Lewisville, TX 75056",On Premise,75056,Nathan Zaremba,BG952919,Denton,Lewisville,James Liston
+1467,AllGood Cafe,"2934 Main St, Dallas, TX 75226",On Premise,75226,Mason Lowe,BG476898,Dallas,Dallas,Joe Fronczek
+1468,Grub Burger Bar - Tyler,"6421 South Broadway Street, Tyler, TX 75707",On Premise,75707,Ronnie Esposito,RM930659,Smith,Tyler,East Texas Drivers
+1469,Vaughn's Pizzeria and Draft House,"6050 Long Prairie Rd Suite 900, Flower Mound, TX 75028",On Premise,75028,Nathan Zaremba,BG1001681,Denton,Flower Mound,James Liston
+1471,District 30 Gastropub,"3211 Oak Lawn Ave, Dallas, TX 75219",On Premise,75219,Harrison Boyland,MB905671,Dallas,Dallas,Joe Fronczek
+1472,South Tyler Speakeasy,"16884 FM 2493, Tyler, TX 75703",On Premise,75703,Ronnie Esposito,N 555057,Smith,Tyler,East Texas Drivers
+1483,Applejack's Liquor - Lewisville,"495 Hwy 121, Lewisville, TX 75067",Off Premise,75067,Jeff Martin,BF939027,Denton,Lewisville,James Liston
+1485,Scotties #1,"401 W. Hawkins Pkwy., Longview, TX 75605",Off Premise,75605,Ronnie Esposito,BF851762,Gregg,Longview,East Texas Drivers
+1486,Scotties #2,"1155 E. Hawkins Pkwy., Longview, TX 75605",Off Premise,75605,Ronnie Esposito,BF977934,Gregg,Longview,East Texas Drivers
+1487,Harley's #22,"600 E. Marshall Ave., Longview, TX 75601",Off Premise,75601,Ronnie Esposito,P692931,Gregg,Longview,East Texas Drivers
+1488,Harley's #19,"1302 Loop 281 West, Longview, TX 75604",Off Premise,75604,Ronnie Esposito,P692937,Gregg,Longview,East Texas Drivers
+1489,Herb & Dee's Break Room,"1408 W. Marshall Ave., Longview, TX 75604",On Premise,75604,Ronnie Esposito,N921491,Gregg,Longview,East Texas Drivers
+1496,Dough Bro's Italian Kitchen,"5181 Keller Springs, Dallas, TX 75248",On Premise,75248,Harrison Boyland,RM772303,Dallas,Dallas,Jose Vital
+1497,Whistle Britches - Dallas,"6110 Frankford Road, Dallas, TX 75252",On Premise,75252,Hudson Boyd,RM896002,Dallas,Dallas,Jose Vital
+1500,Cigarette Mart - Lewisville,"998 N. Garden Ridge Blvd., Lewisville, TX 75077",Off Premise,75077,Jeff Martin,BQ798936,Denton,Lewisville,James Liston
+1501,Muddy Jake's Sports Grille & Pub,"229 Main St, Sulphur Springs, TX 75482",On Premise,75482,Ronnie Esposito,RM857153,Hopkins,Sulphur Springs,East Texas Drivers
+1504,Museum Hospitality Inc. - Kimbell Art Museum,"3333 Camp Bowie Blvd., Fort Worth, TX 76107",On Premise,76107,Taylor Coward,BG440055,Tarrant,Fort Worth,Joe Fronczek
+1507,Scotties - Rockwall,"2860 Ridge Road, Rockwall, TX 75032",Off Premise,75032,Brandon Byrd,BF693288,Rockwall,Rockwall,James Hall
+1513,WFM #10627 - Irving,"6741 N. MacArthur Blvd., Irving, TX 75039",Off Premise,75039,Justin Page,BG941010,Dallas,Irving,Michael Weldon
+1514,Cheer Spirits & Liquor - Longhorn Rd,"1201 Longhorn Rd Suite 125, Fort Worth, TX 76179",Off Premise,76179,Justin Page,BF977479,Tarrant,Fort Worth,Justin Stryker
+1517,Big Papa's Liquor - Longview,"880 E Loop 281, Longview, TX 75605",Off Premise,75605,Ronnie Esposito,BF759422,Gregg,Longview,East Texas Drivers
+1518,3 Flights Up,"2832 Eldorado Pkwy, Little Elm, TX 75068",On Premise,75068,Hudson Boyd,BG971775,Denton,Little Elm,James Liston
+1519,Cooter's Spirits,"300 W. Walcott, Jefferson, TX 75657",Off Premise,75657,Ronnie Esposito,BF759224,Marion,Jefferson,East Texas Drivers
+1520,Auntie Skinners Riverboat Club,"107 W. Austin Street, Jefferson, TX 75657",On Premise,75657,Ronnie Esposito,RM818638,Marion,Jefferson,East Texas Drivers
+1523,Panther Quick Stop,"4405 GIlmer Road, Longview, TX 75604",Off Premise,75604,Ronnie Esposito,BQ976205,Gregg,Longview,East Texas Drivers
+1524,Twisted Sisters Wine & Finds,"104 E. Market Street, Mabank, TX 75147",Off Premise,75147,Ronnie Esposito,BG976924,Kaufman,Mabank,East Texas Drivers
+1525,Hopdoddy - Fort Worth,"2300 W. 7th Street, Fort Worth, TX 76107",On Premise,76107,Taylor Coward,MB987209,Tarrant,Fort Worth,Joe Fronczek
+1528,Roast Social Kitchen - Tyler,"1125 E 5th St, Tyler, TX 75701",On Premise,75701,Ronnie Esposito,RM910339,Smith,Tyler,East Texas Drivers
+1530,Thumbs Up Liquor & Tobacco - Sherman,"1711 N FM 1417, Sherman, TX 75092",Off Premise,75092,Brian Schick,BF985824,Grayson,Sherman,Jose Vital
+1532,Houston's Discount,"8886 Hwy 34 South, Quinline, TX 75474",Off Premise,75474,Brandon Byrd,BF770746,Hunt,Quinline,Jose Vital
+1533,Gilmer Beer Barn,"1002 Hwy 154 West, Gilmer, TX 75644",Off Premise,75644,Ronnie Esposito,BQ953024,Upshur,Gilmer,East Texas Drivers
+1534,The Chuggin Monk,"2301 N. Collins Street, Arlington, TX 76011",On Premise,76011,Taylor Coward,MB869171,Tarrant,Arlington,Ronald Streng
+1539,Spec's #80 - Wichita Falls,"4319 Kemp Blvd., Wichita Falls, TX 76308",Off Premise,76308,Nathan Zaremba,BF987341,Wichita,Wichita Falls,James Liston
+1542,Allen Liquor 4 U,"1210 E. Main Street, Allen, TX 75002",Off Premise,75002,Brian Schick,BF949111,Collin,Allen,Ronald Streng
+1543,The Lazy Moose,"1404 West Magnolia Ave., Fort Worth, TX 76104",On Premise,76104,Taylor Coward,MB961330,Tarrant,Fort Worth,Joe Fronczek
+1548,Harlowe MXM,"2823 Main Street, Dallas, TX 75226",On Premise,75226,Mason Lowe,MB973529,Dallas,Dallas,Joe Fronczek
+1549,Ellen's Southern Kitchen,"1701 N. Market Street, Dallas, TX 75202",On Premise,75202,Mason Lowe,MB819540,Dallas,Dallas,James Hall
+1550,Stop & Get One,"6940 Baker Blvd., Richland Hills, TX 76118",Off Premise,76118,Justin Page,BQ493311,Tarrant,Richland Hills,Justin Stryker
+1551,Raymond's Liquor Stop,"8111 Hwy 287, Arlington, TX 76001",Off Premise,76001,Justin Page,BF908242,Tarrant,Arlington,James Liston
+1553,The Boardroom Whisky and Cigar Lounge,"1708 8th Avenue, Fort Worth, TX 76110",On Premise,76110,Taylor Coward,MB9797498,Tarrant,Fort Worth,Joe Fronczek
+1561,Reggis Liquor #32,"7355 N. Beach Street, Fort Worth, TX 76137",Off Premise,76137,Jeff Martin,BF980461,Tarrant,Fort Worth,Justin Stryker
+1563,1836 Texas Kitchen,"2467 Crow Road, Tyler, TX 75703",On Premise,75703,Ronnie Esposito,RM972197,Smith,Tyler,East Texas Drivers
+1565,Northside Remedy,"215 N MAIN STREET, Weatherford, TX 76086",On Premise,76086,Taylor Coward,N 982410,Parker,Weatherford,Ronald Streng
+1566,Pecan Point Brewing - Texarkana,"213 Main St., Texarkana, TX 75501",On Premise,75501,Ronnie Esposito,RM872401,Bowie,Texarkana,East Texas Drivers
+1571,Total Wine #523 - Alliance Center,"3101 Texas Sage Trail, Fort Worth, TX 76117",Off Premise,76117,Jack Stephenson,BF991075,Tarrant,Fort Worth,James Liston
+1575,Cork & Growler,"8979 FM 423, Frisco, TX 75034",On Premise,75034,Hudson Boyd,BG992056,Collin,Frisco,Ronald Streng
+1576,Shop Smoke N Beverage,"2011 W Spring Creek Parkway, Suite 50, Plano, TX 75023",Off Premise,75023,Brian Schick,BF892652,Collin,Plano,Ronald Streng
+1580,Hooters - FW DT,"150 Throckmorton Street, Fort Worth, TX 76102",On Premise,76102,Taylor Coward,MB978190,Tarrant,Fort Worth,James Liston
+1581,Big Papa's Cafe - Longview,"880 E Loop 281, Longview, TX 75605",On Premise,75605,Ronnie Esposito,BF759432,Gregg,Longview,East Texas Drivers
+1598,Diamond Shamrock - Tyler,"2431 Loop 323 E SE, Tyler, TX 75701",Off Premise,75701,Ronnie Esposito,BQ831125,Smith,Tyler,East Texas Drivers
+1599,University Pub,"3019 s University Drive, Fort Worth, TX 76102",On Premise,76102,Taylor Coward,MB435354,Tarrant,Fort Worth,Jose Vital
+1600,Reservoir,"1001 FOCH STREET, Fort Worth, TX 76107",On Premise,76107,Taylor Coward,MB818149,Tarrant,Fort Worth,Ronald Streng
+1601,Hops and Vines - Irving,"313 E Las Colinas Blvd, Irving, TX 75039",On Premise,75039,Nathan Zaremba,BG983829,Dallas,Irving,Joe Fronczek
+1602,Nancy's Liquor,"1302 W. Kennedale Pkwy, Kennedale, TX 76060",Off Premise,76060,Justin Page,BF967219,Tarrant,Kennedale,Joe Fronczek
+1616,Chicken Moto - Richardson,"2069 N Central Expressway Suite 200, Richardson, TX 75080",On Premise,75080,Harrison Boyland,BG954483,Dallas,Richardson,Joe Fronczek
+1617,The Alcove - Sulphur Springs,"101 N Gilmer St., Sulphur Springs, TX 75482",On Premise,75482,Ronnie Esposito,BH964272,Hopkins,Sulphur Springs,East Texas Drivers
+1618,Twin Liquor #96 - Anna,"801 CRD 286 Building 4 Suites 401-08, Anna, TX 75409",Off Premise,75409,House Accounts DFW,BF1021348,Collin,Anna,Ronald Streng
+1619,Double Eagle Liquor,"8455 Boat Club Road #150, Fort Worth, TX 76179",Off Premise,76179,Jeff Martin,P 983273,Tarrant,Fort Worth,James Hall
+1620,Craft Corner - Flint,"18910 FM 2493, Flint, TX 75762",On Premise,75762,Ronnie Esposito,BQ827151,Smith,Flint,East Texas Drivers
+1623,T.B.D Kitchen - Lewisville,"2560 King Arthur Blvd, Lewisville, TX 75056",On Premise,75056,Nathan Zaremba,RM923467,Denton,Lewisville,Ronald Streng
+1625,Brookshire Grocery #64 - Mabank,"1200 S 3rd Street, Mabank, TX 75147",Off Premise,75147,Ronnie Esposito,BQ567435,Henderson,Mabank,East Texas Drivers
+1628,Old Chicago - Tyler,"405 W Southwest Loop 323, Tyler, TX 75701",On Premise,75701,Ronnie Esposito,RM955992,Smith,Tyler,East Texas Drivers
+1631,THE MARKET AT LAKESIDE,"2500 LAKESIDE PARKWAY, Flower Mound, TX 75022",Off Premise,75022,Jeff Martin,BQ974052,Denton,Flower Mound,James Liston
+1632,ACE High Liquor - Winona,"319 S Main St, Winona, TX 75792",Off Premise,75792,Ronnie Esposito,P901048,Smith,Winona,East Texas Drivers
+1633,Meals on Wheels and Senior Services,"2133 Summer Lee Dr, Rockwall, TX 75087",On Premise,75087,House Accounts DFW,SB2784664,Rockwall,Rockwall,James Liston
+1636,State Draft House - Flower Mound,"1050 Flower Mound rd, Flower Mound, TX 75028",On Premise,75028,Nathan Zaremba,RM988592,Denton,Flower Mound,Edgard Olvera
+1643,Walk-On's Bistreaux & Bar - Tyler,"6525 S Broadway Ave., Tyler, TX 75703",On Premise,75703,Ronnie Esposito,RM991082,Smith,Tyler,East Texas Drivers
+1644,Reggis Liquor #75 - Sherman,"2916 Hwy 75 North Suite 100, Sherman, TX 75090",Off Premise,75090,Brian Schick,BF987502,Grayson,Sherman,Jose Vital
+1645,Truelove - Waco,"414 Franklin Ave., Waco, TX 76701",On Premise,76701,Mark Molkenbuhr,MB762038,McLennan,Waco,James Liston
+1646,Chapman's River Bend Liquor - Waco,"5102 N 19th Street Suite 101, Waco, TX 76708",Off Premise,76708,Mark Molkenbuhr,BF418895,McLennan,Waco,James Liston
+1648,Still on the Corner - Gainesville,"1030 E California St., Gainesville, TX 76240",Off Premise,76240,Brian Schick,BF532599,Cooke,Gainesville,James Liston
+1649,Driggs Liquor #3 - Denison,"3000 s Woodlawn, Denison, TX 75020",Off Premise,75020,Brian Schick,BF056308,Grayson,Denison,Jose Vital
+1653,Barrel And Bones - The Colony,"2801 Plano Pkwy Suite 140, The Colony, TX 75056",On Premise,75056,Hudson Boyd,MB984390,Denton,The Colony,James Liston
+1654,Shax Liquor - Little Elm,"26730 US-380 Suite 200, Little Elm, TX 75068",Off Premise,75068,Jeff Martin,BF855230,Denton,Little Elm,James Liston
+1659,Quick Track - Melissa,"2436 Sam Rayburn Hwy, Melissa, TX 75454",Off Premise,75454,Brian Schick,BQ8825588,Collin,Melissa,James Liston
+1661,Main Street Beer and Wine - Crowley,"105 S Crowley Rd, Crowley, TX 76036",Off Premise,76036,Justin Page,BQ908998,Tarrant,Crowley,James Liston
+1662,Target 2283 - Longview,"3092 N Eastman Rd., Longview, TX 75605",Off Premise,75605,Ronnie Esposito,BQ851256,Gregg,Longview,East Texas Drivers
+1666,Zoli's NY PIzza - Addison,"14910 Midway Rd., Addison, TX 75001",On Premise,75001,Harrison Boyland,MB844986,Dallas,Addison,Ronald Streng
+1678,Pinstack - Allen,"635 N Central Expy, Allen, TX 75013",On Premise,75013,Hudson Boyd,RM967638,Collin,Allen,Ronald Streng
+1684,Woody Creek BBQ,"1776 Mall Circle, Fort Worth, TX 76116",On Premise,76116,Taylor Coward,BG744652,Tarrant,Fort Worth,Joe Fronczek
+1688,R.G. Liquor Beer And Wine - Plano,"5301 Alma Drive Suite B, Plano, TX 75023",Off Premise,75023,Brian Schick,BF980725,Collin,Plano,Ronald Streng
+1689,Fresh Brookshire's #801 - Tyler,"6991 Old Jacksonville Hwy, Tyler, TX 75703",Off Premise,75703,Ronnie Esposito,BQ827625,Smith,Tyler,East Texas Drivers
+1691,Paradise Liquor - Denton,"6504 Hwy 380 E Crossroads, Denton, TX 76227",Off Premise,76227,Jeff Martin,BF976953,Denton,Denton,Michael Weldon
+1693,McGarrities Saloon - Jefferson,"208 W Dallas St., Jefferson, TX 75657",On Premise,75657,Ronnie Esposito,RM936198,Marion,Jefferson,East Texas Drivers
+1697,MH Cafe - Addison,"3870 Ponte Ave., Addison, TX 75001",On Premise,75001,Harrison Boyland,RM883509,Dallas,Addison,Ronald Streng
+1700,Silver Grizzly - Longview,"100 W Tyler St., Longview, TX 75601",On Premise,75601,Ronnie Esposito,BG963712,Gregg,Longview,East Texas Drivers
+1701,Target 2516 - Allen (Stacy Rd.),"150 E Stacy Rd. Suite 2402, Allen, TX 75002",Off Premise,75002,Brian Schick,BQ714353,Collin,Allen,Ronald Streng
+1706,30 Burger - Texarkana,"4719 Texas Blvd., Texarkana, TX 75503",On Premise,75503,Ronnie Esposito,BG969077,Bowie,Texarkana,East Texas Drivers
+1707,Heritage Wine & Spirits - Longview,"2000 N Eastman Rd., Longview, TX 75601",Off Premise,75601,House Accounts DFW,BF963122,Gregg,Longview,East Texas Drivers
+1708,Golden Eagle Beer and Wine - Diana,"1970 Us Highway 259 Suite 102, Diana, TX 75640",Off Premise,75640,Ronnie Esposito,BQ932492,Upshur,Diana,East Texas Drivers
+1720,Lone Star Liquor - Lone Star,"304 N Main St., Lone Star, TX 75668",Off Premise,75668,Ronnie Esposito,BF781750,Morris,Lone Star,East Texas Drivers
+1721,Embassy Suites - DFW Airport North,"2401 Bass Pro Dr, Grapevine, TX 76051",On Premise,76051,Nathan Zaremba,MB456005,Tarrant,Grapevine,Ronald Streng
+1729,Roots Coffee - Richland Hills,"9101 TX-26 #101, Richland Hills, TX 76180",On Premise,76180,Nathan Zaremba,BG970053,Tarrant,Richland Hills,Justin Stryker
+1739,Weatherford DT Business Alliance,"315 Santa Fe Dr. Amphitheater, Weatherford, TX 76086",On Premise,76086,Taylor Coward,TB2788310,Parker,Weatherford,Ronald Streng
+1743,Marty B's - Bartonville,"2664 FM 407 E, Bartonville, TX 76226",On Premise,76226,Nathan Zaremba,RM997637,Denton,Bartonville,Ronald Streng
+1749,Double H Package Store - Quitman,"304 Richards ST, Quitman, TX 75783",Off Premise,75783,Ronnie Esposito,BF919149,Wood,Quitman,East Texas Drivers
+1751,Half Pint Taproom & Restoration Hall,"817 Ohio Ave., Witchitafalls, TX 76301",On Premise,76301,Nathan Zaremba,MB984885,Wichita,Witchitafalls,Jose Vital
+1756,Industry Alley - Dallas,"1711 S Lamar St., Dallas, TX 75215",On Premise,75215,Mason Lowe,MB914899,Dallas,Dallas,James Hall
+1758,Euless Food Store,"305 W Euless Blvd., Euless, TX 76040",Off Premise,76040,Justin Page,BQ977653,Tarrant,Euless,Ronald Streng
+1760,The Draft in Kingwood,"23692 Eastex Fwy Suite D, Kingwood, TX 77339",On Premise,77339,Jami Ontiveros,MB1008631,Harris,Kingwood,Joe Fronczek
+1764,Communion Cafe - Richardson,"514 Lockwood Dr., Richardson, TX 75080",On Premise,75080,Harrison Boyland,RM982937,Dallas,Richardson,Jose Vital
+1767,Best Burger Barn - Denison,"100 W Chestnut St., Denison, TX 75021",On Premise,75021,Brian Schick,MB930988,Grayson,Denison,Jose Vital
+1769,The Liquor Outpost - Fort Worth,"4300 Western Center Blvd., Fort Worth, TX 76137",On Premise,76137,Jeff Martin,BF982637,Tarrant,Fort Worth,Ronald Streng
+1771,Northside Drafthouse and Eatery - Richardson,"3000 Northside Blvd. Suite 800, Richardson, TX 75080",On Premise,75080,Harrison Boyland,RM995368,Collin,Richardson,Jose Vital
+1773,City Works -FW,"5288 MONAHANS AVENUE, Fort Worth, TX 76109",On Premise,76109,Taylor Coward,MB995047,Tarrant,Fort Worth,Joe Fronczek
+1776,The Den - Quitman,"101 E Lipscomb St., Quitman, TX 75783",On Premise,75783,Ronnie Esposito,RM997040,Wood,Quitman,East Texas Drivers
+1778,Jimmy Nardello's - Mount Pleasany,"103 N Madison Ave., Mount Pleasant, TX 75455",On Premise,75455,Ronnie Esposito,BG967929,Titus,Mount Pleasant,East Texas Drivers
+1779,The Farmer's Wife - Mount Pleasant,"210 N Madison Ave., Mount Pleasant, TX 75455",On Premise,75455,Ronnie Esposito,BQ967934,Titus,Mount Pleasant,East Texas Drivers
+1782,The Heights - Dallas,"2015 Abrams Pkwy, Dallas, TX 75214",On Premise,75214,Mason Lowe,MB905202,Dallas,Dallas,Joe Fronczek
+1795,Hopkins Icehouse - Texarkana,"4030 Gibson Ln., Texarkana, TX 75503",Off Premise,75503,Ronnie Esposito,RM921524,Bowie,Texarkana,East Texas Drivers
+1796,Hemingway's Watering Hole - Waco,"4700 Bosque Blvd., Waco, TX 76710",On Premise,76710,Mark Molkenbuhr,MB467371,McLennan,Waco,Michael Weldon
+1798,Urban Alchemy - Arlington,"403 E Main St., Arlington, TX 76010",On Premise,76010,Taylor Coward,BG991648,Tarrant,Arlington,Joe Fronczek
+1799,Yard House - Irving,"320 W Las Colinas Blvd. 120, Irving, TX 75039",On Premise,75039,Nathan Zaremba,MB986536,Dallas,Irving,Jose Vital
+1800,FullClip Craft - Distributors,"3148 Quebec, Dallas, TX 75247",Off Premise,75247,House Accounts DFW,BB881941,Dallas,Dallas,Joe Fronczek
+1801,Sunshine #3 - Sherman,"201 S Dewey Ave., Sherman, TX 75090",Off Premise,75090,Brian Schick,BQ611207,Grayson,Sherman,Joe Fronczek
+1803,Duke's Icehouse - Addison,"1601 Addison Rd., Addison, TX 75001",On Premise,75001,Harrison Boyland,MB999848,Dallas,Addison,Jose Vital
+1809,Sky Cinema - Dripping Springs,"166 Hargraves St., Suite A100, AUSTIN, TX 78737",On Premise,78737,Josh Jennings,BG999077,Travis,AUSTIN,Joe Castro
+1810,Black Jack Package - Cumby,"227 I 30 Northeast, Comby, TX 75433",Off Premise,75433,Ronnie Esposito,BF549381,Hopkins,Comby,East Texas Drivers
+1811,Big Hops Shaenfield - San Antonio,"7915 W. Loop 1604 N #112, San Antonio, TX 78254",On Premise,78254,Josh Jennings,BG1001394,Bexar,San Antonio,Joe Castro
+1812,Liquor King - Greenville Ave,"105 Greenville Ave., Allen, TX 75002",Off Premise,75002,Brian Schick,BF1000061,Collin,Allen,Ronald Streng
+1813,Off the Record - FW,"715 W Magnolia, Fort Worth, TX 76104",On Premise,76104,Taylor Coward,MB631004,Tarrant,Fort Worth,Jose Vital
+1814,Liquor King - E Exchange,"1512 E Exchange Pkwy, Allen, TX 75002",Off Premise,75002,Brian Schick,BF1000059,Collin,Allen,Ronald Streng
+1815,Market Street #685 - Legacy Dr.,"4268 Legacy Dr., Frisco, TX 75034",Off Premise,75034,Brian Schick,BG1004438,Denton,Frisco,Edgard Olvera
+1816,Cambria - Elm St.,"1907 Elm St., Dallas, TX 75201",On Premise,75201,Mason Lowe,MB1007505,Dallas,Dallas,James Hall
+1824,Red Brick Tavern - Conroe,"119 Simonton, Conroe, TX 77301",On Premise,77301,Jami Ontiveros,MB782956,Montgomery,CONROE,David Cash
+1826,Local Boys Liquor - Wichita Falls,"2731 Southwest Pkwy, Wichita Falls, TX 76308",Off Premise,76308,Nathan Zaremba,BF861393,Wichita,Wichita Falls,Jose Vital
+1831,Avery Ranch Golf Club,"10500 Avery club Dr., Austin, TX 78717",On Premise,78717,Joshua Perez,MB952349,Travis,AUSTIN,Manny Chavez
+1832,Teravista Golf Club,"4333 Terravista Club Dr., ROUND ROCK, TX 78665",On Premise,78665,Joshua Perez,MB1012061,Williamson,ROUND ROCK,Manny Chavez
+1833,Twilite Lounge - Wort Worth,"212 Lipscomb St., Fort Worth, TX 76104",On Premise,76104,Taylor Coward,MB989723,Tarrant,Fort Worth,Joe Fronczek
+1834,Pacific Yard House - Conroe,"101 Metcalf St., CONROE, TX 77301",On Premise,77301,Jami Ontiveros,MB987126,Montgomery,CONROE,David Cash
+1837,Mojo's Sports Grille - Houston,"18323 W Lake Houston Pkwy, HOUSTON, TX 77346",On Premise,77346,Jami Ontiveros,MB786177,Harris,HOUSTON,David Cash
+1838,Brookshire Grocery #51 - Rice RD.,"100 Rice Road, Tyler, TX 75703",Off Premise,75703,Ronnie Esposito,BQ827628,Smith,Tyler,East Texas Drivers
+1840,Brookshire Grocery #9 - Roseland Blvd,"2020 Roseland Boulevard, Tyler, TX 75701",Off Premise,75701,Ronnie Esposito,BQ827629,Smith,Tyler,East Texas Drivers
+1841,Brookshire Grocery #28 - E 5th St.,"2734 E 5th Street, Tyler, TX 75707",Off Premise,75707,Ronnie Esposito,BQ828053,Smith,Tyler,East Texas Drivers
+1842,Brookshire Grocery #45 - S Wheeler,"3354 Gilmer Rd., Longview, TX 75604",Off Premise,75604,Ronnie Esposito,BQ843813,Gregg,Longview,East Texas Drivers
+1843,Brookshire Grocery #3 - S Main,"521 S Main St., Lindale, TX 75771",Off Premise,75771,Ronnie Esposito,BQ935451,Smith,Lindale,East Texas Drivers
+1844,Brookshire Grocery #32 - HWY 243,"880 HWY 243 East, Canton, TX 75103",Off Premise,75103,Ronnie Esposito,BQ969177,Van Zandt,Canton,East Texas Drivers
+1845,Brookshire Grocery #61 - HWY 110,"601 HWY 110 North, Whitehouse, TX 75791",Off Premise,75791,Ronnie Esposito,BQ843812,Smith,Whitehouse,East Texas Drivers
+1846,Brookshire Grocery #43 - HWY 90,"402 E Main Pine Acres, Atlanta, TX 75551",Off Premise,75551,Ronnie Esposito,BQ968806,Cass,Atlanta,East Texas Drivers
+1847,Brookshire Grocery #84 - E MAin,"703 HWY 31 East, Chandler, TX 75758",Off Premise,75758,Ronnie Esposito,BQ827413,Henderson,Chandler,East Texas Drivers
+1848,Brookshire Grocery #39 - HWY 155,"20100 HWY 155 South, Flint, TX 75762",Off Premise,75762,Ronnie Esposito,BQ827150,Smith,Flint,East Texas Drivers
+1850,Brookshire Grocery #8 - HWY 259,"747 HWY 259 North, Kilgore, TX 75662",Off Premise,75662,Ronnie Esposito,BQ540641,Gregg,Kilgore,East Texas Drivers
+1853,Brookshire Grocery #31 - N Pacific St,"1224 N Pacific Street, Mineola, TX 75773",Off Premise,75773,Ronnie Esposito,BQ778088,Wood,Mineola,East Texas Drivers
+1854,Brookshire Grocery #71 - W Duval St,"506 W Duval Street, Troup, TX 75789",Off Premise,75789,Ronnie Esposito,BQ778094,Smith,Troup,East Texas Drivers
+1855,Brookshire Grocery #16 - Mount Pleasant,"308 Ferguson Road, Mount Pleasant, TX 75455",Off Premise,75455,Ronnie Esposito,BQ967428,Titus,Mount Pleasant,East Texas Drivers
+1856,Brookshire Grocery #44,"200 W Henderson St., Overton, TX 75684",Off Premise,75684,Ronnie Esposito,BF521224,Smith,Overton,East Texas Drivers
+1857,Brookshire Grocery #58 - HWY 37,"306 HWY 37 South, Mount Vernon, TX 75457",Off Premise,75457,Ronnie Esposito,BQ842940,FranklinOrig,Mount Vernon,East Texas Drivers
+1859,Kyle's Kwik Stop #5 - Judson Rd,"1401 Judson rd, Longview, TX 75601",Off Premise,75601,Ronnie Esposito,BG808909,Gregg,Longview,East Texas Drivers
+1864,Super 1 Foods #612 - E Marshall Ave,"1217 E Marshall Ave, Longveiw, TX 75601",Off Premise,75601,Ronnie Esposito,BQ540510,Gregg,Longveiw,East Texas Drivers
+1865,Super 1 Foods #606 - Loop 281,"2301 Loop 281 W, Longveiw, TX 75604",Off Premise,75604,Ronnie Esposito,BQ844038,Gregg,Longveiw,East Texas Drivers
+1866,Super 1 Foods #605 - Troup HWY,"3828 Troup HWY, Tyler, TX 75703",Off Premise,75703,Ronnie Esposito,BQ827626,Smith,Tyler,East Texas Drivers
+1868,Super 1 Foods #625 - Loop 323,"113 N NW Loop 323, Tyler, TX 75702",Off Premise,75702,Ronnie Esposito,BQ827630,Smith,Tyler,East Texas Drivers
+1869,Super 1 Foods #642 - Centennial Pkwy,"172 Centennial Pkwy, Tyler, TX 75703",Off Premise,75703,Ronnie Esposito,BQ924196,Smith,Tyler,East Texas Drivers
+1870,Empire Craft Beer and Wine - Allen,"1205 W McDermott Dr., Suite 100, TX 75013",Off Premise,75013,Brian Schick,BF100422,Collin,Suite 100,Ronald Streng
+1871,Brews Brothers - Galveston,"2404 Strand St., Galveston, TX 77550",On Premise,77550,Jami Ontiveros,BQ840673,Galveston,Galveston,David Cash
+1872,Parden My French - Galveston,"2317 Strand St., Galveston, TX 77550",On Premise,77550,Jami Ontiveros,BQ932149,Galveston,Galveston,David Cash
+1875,J. Henry's Draught - Galveston,"1105 Clear Lake City Blvd., Houston, TX 77062",On Premise,77062,Jami Ontiveros,BG901103,Harris,HOUSTON,David Cash
+1879,Hardwood beer and Wine - Bedford,"2906 Brown Trail, Bedford, TX 76021",Off Premise,76021,Justin Page,BF996708,Tarrant,Bedford,Justin Stryker
+1883,Tom Thumb #3652 - Timbers Rd.,"745 Cross Timbers Rd., Flower Mound, TX 75028",Off Premise,75028,Jeff Martin,BQ455445,Denton,Flower Mound,Ronald Streng
+1886,Duff's Famous Wings,"2787 E Southlake BLVD, Southlake, TX 76092",On Premise,76092,Nathan Zaremba,MB829089,Tarrant,Southlake,Justin Stryker
+1887,New Main Brewing,"3533 Marathon St, Pantego, TX 76013",On Premise,76013,Taylor Coward,BP1000868,Tarrant,Pantego,James Liston
+1889,Spec's #123 - Denton South,"2315 Colorado Blvd., Denton, TX 76205",Off Premise,76205,Jack Stephenson,BF996567,Denton,Denton,Michael Weldon
+1890,Fielding's Wood Grill,"1699 Research Forest Dr., Shenandoah, TX 77380",On Premise,77380,Jami Ontiveros,MB852975,Montgomery,Shenandoah,David Cash
+1893,Pig Liquors - San Antonio,"519 S Presa, San Antonio, TX 78205",Off Premise,78205,House Accounts DFW,BF744783,Bexar,San Antonio,Joe Castro
+1898,Purple Tako - The Colony,"6855 Windhaven Pkwy, The Colony, TX 75056",On Premise,75056,Nathan Zaremba,RM998644,Denton,The Colony,Ronald Streng
+1901,Molly's Pub - Houston,"29801-03 Loop 494, HOUSTON, TX 77339",On Premise,77339,Jami Ontiveros,N 432291,Montgomery,HOUSTON,David Cash
+1902,Mama's Pizza - Fort Worth,"5800 Camp Bowie Ft. Worth,, Fort Worth, TX 76107",On Premise,76107,Taylor Coward,BG699978,Tarrant,Fort Worth,Jose Vital
+1905,Albertsons #4112 - Longview,"3603 McCann Rd., Longview, TX 75604",Off Premise,75604,Ronnie Esposito,BQ844123,Gregg,Longview,East Texas Drivers
+1906,Fizola Market - Cedar Park,"700 N Vista Ridge Blvd., CEDAR PARK, TX 78613",On Premise,78613,Joshua Perez,BQ866569,Williamson,CEDAR PARK,Manny Chavez
+1909,OffRhodes Craft Beer Station - Landa St.,"133 Landa St., NEW BRAUNFELS, TX 78130",On Premise,78130,Josh Jennings,BG993449,Comal,NEW BRAUNFELS,Manny Chavez
+1911,Tapped - Spring,"20444 Kuykendahl Rd., SPRING, TX 77379",On Premise,77379,Jami Ontiveros,BG969467,Harris,SPRING,David Cash
+1912,Thistle Draftshop - Spring,"5210 FM 2920, SPRING, TX 77388",On Premise,77388,Jami Ontiveros,BG964621,Harris,SPRING,David Cash
+1913,Craft Grill Restaurant - Tomball,"25219 Kuykendahl Rd., Tomball, TX 77375",On Premise,77375,Jami Ontiveros,MB922190,Harris,Tomball,David Cash
+1914,Fielding's Local Kitchen - The Woodlands,"26400 Kuykendahl Rd., THE WOODLANDS, TX 77375",On Premise,77375,Jami Ontiveros,MB908254,Montgomery,THE WOODLANDS,David Cash
+1923,Eskimo Hut - Austin,"1045 Norwood Park Blvd, AUSTIN, TX 78653",On Premise,78653,Joshua Perez,BG958476,Travis,AUSTIN,Manny Chavez
+1938,Kwik Serv - Woodson Rd.,"27328 Woodson Rd., Oak Ridge North, TX 77385",On Premise,77385,Jami Ontiveros,BF740754,Montgomery,Oak Ridge North,David Cash
+1945,Cosmic Coffee and Beer Garden - Austin,"121 Pickle Rd., AUSTIN, TX 78704",On Premise,78704,Tim Vela,MB872381,Travis,AUSTIN,Manny Chavez
+1946,AJ Spirits Wine & Gifts - Little Elm,"1725 E Eldorado Pkwy, Little Elm, TX 75068",Off Premise,75068,Jeff Martin,BF980730,Denton,Little Elm,Michael Weldon
+1949,Nobi Public House - Webster,"241 E Nasa Pkwy, Webster, TX 77598",On Premise,77598,Jami Ontiveros,BG825144,Harris,Webster,David Cash
+1953,Mom's Store #5 - Austin,"10900 US 290, AUSTIN, TX 78737",Off Premise,78737,Josh Jennings,BF715153,Travis,AUSTIN,Joe Castro
+1954,Dukes - Mount Vernon,"300 IH 30 East, Mount Vernon, TX 75103",Off Premise,75103,Ronnie Esposito,BQ1004210,FranklinOrig,Mount Vernon,East Texas Drivers
+1955,The Four Five - Austin,"5212 Manchaca Rd, AUSTIN, TX 78745",On Premise,78745,Tim Vela,BQ1005293,Travis,AUSTIN,Joe Castro
+1961,The Hop Stop - Humble,"802 E 1st Street, Humble, TX 77338",On Premise,77338,Jami Ontiveros,BG925376,Harris,Humble,David Cash
+1962,Green Door Public House - Dallas,"600 S Harwood St., Dallas, TX 75201",On Premise,75201,Mason Lowe,MB258785,Dallas,Dallas,Joe Fronczek
+1963,Alamo Drafthouse - Lake Highlands,"6770 Abrams RD, Dallas, TX 75231",On Premise,75231,Mason Lowe,MB1009004,Dallas,Dallas,Joe Fronczek
+1969,Anvil Brewing - Pittsburg,"115 Compress St, Pittsburg, TX 75686",On Premise,75686,Ronnie Esposito,BG986379,Camp,Pittsburg,East Texas Drivers
+1973,Cane Island Bar and Grill -Katy,"4747 FM 1463 Ste 100, KATY, TX 77494",On Premise,77494,Jami Ontiveros,MB971842,Fortbend,KATY,David Cash
+1981,Oscar's Pub - FW,"6323 Camp Bowie Blvd, Fort Worth, TX 76116",On Premise,76116,Taylor Coward,MB727739,Tarrant,Fort Worth,Jose Vital
+1983,Landmark - Fort Worth,"3008 Bledsoe St., Fort Worth, TX 76107",On Premise,76107,Taylor Coward,MB856691,Tarrant,Fort Worth,Joe Fronczek
+1987,Brew 30 - Cypress,"15914 Telge Rd., CYPRESS, TX 77429",On Premise,77429,Jami Ontiveros,BG1001733,Harris,CYPRESS,David Cash
+1988,Crystal Springs Liquor - Winona,"528 S Main St, Winona, TX 75792",Off Premise,75792,Ronnie Esposito,BF755977,Smith,Winona,East Texas Drivers
+1991,Main at South Side - FW,"1002 S Main Street, Fort Worth, TX 76104",On Premise,76104,Taylor Coward,MB978777,Tarrant,Fort Worth,Jose Vital
+1997,Barnett's Pub - Waco,"420 Franklin Ave., Waco, TX 76701",On Premise,76701,Mark Molkenbuhr,MB773193,McLennan,Waco,Ronald Streng
+1998,Center Court Pizza & Brew - Wilderness Oak,"20711 Wilderness Oak, Suite 113, TX 78258",On Premise,78258,Josh Jennings,MB918614,Bexar,Suite 113,Manny Chavez
+2009,Liquor Den - Fort Worth,"6621 N Beach St., Fort Worth, TX 76137",Off Premise,76137,Jeff Martin,BF982238,Tarrant,Fort Worth,James Liston
+2010,NewTex Wine & Spirits - Humble,"20669 W Lake Houston Pkwy, Humble, TX 77346",On Premise,77346,Jami Ontiveros,BF927346,Harris,Humble,Alton Dugas
+2015,Zippy J's #14 - W Marshall,"1470 W Marshall Ave, Longview, TX 75604",Off Premise,75604,Ronnie Esposito,BQ1006535,Gregg,Longview,East Texas Drivers
+2016,The Brass Tap - Roanoke,"856 E Highway 114, Roanoke, TX 76262",On Premise,76262,Nathan Zaremba,MB996486,Denton,Roanoke,Ronald Streng
+2021,Brookshire Grocery #13 - Sulphur Springs,"809 Gilmer Rd., Sulphur Springs, TX 75482",Off Premise,75482,Ronnie Esposito,BQ827467,Hopkins,Sulphur Springs,East Texas Drivers
+2024,The Yard - Fort Worth,"3017 Morton St,, Fort Worth, TX 76107",On Premise,76107,Taylor Coward,MB1010975,Tarrant,Fort Worth,Jose Vital
+2029,Crows Liquors - Fort Worth,"9510 White Settlement Rd., Fort Worth, TX 76108",Off Premise,76108,Justin Page,BF117628,Tarrant,Fort Worth,Jose Vital
+2031,Bru City - Arlington,"1004 N Collins St., Arlington, TX 76011",On Premise,76011,Taylor Coward,BG999976,Tarrant,Arlington,Justin Stryker
+2032,Brookshire Grocery #11 - Athens,"807 E. Tyler St., Athens, TX 75751",Off Premise,75751,Ronnie Esposito,BQ777581,Henderson,Athens,East Texas Drivers
+2033,Brookshire Grocery #68 - Seven Points,"210 S Seven Points Boulevard, Seven Points, TX 75143",Off Premise,75143,Ronnie Esposito,BQ572701,Henderson,Seven Points,East Texas Drivers
+2035,Brookshire Grocery #14 - Paris,"925 Clarksville Street, Paris, TX 75460",Off Premise,75460,Ronnie Esposito,BQ725739,Lamar,Paris,East Texas Drivers
+2036,Brookshire Grocery #72 - New Boston,"210 N MCCOY BOULEVARD, NEW BOSTON, TX 75570",Off Premise,75570,Ronnie Esposito,BQ929935,Bowie,NEW BOSTON,East Texas Drivers
+2037,Super 1 Foods #618 - Texarkana,"2610 RICHMOND ROAD, Texarkana, TX 75503",Off Premise,75503,Ronnie Esposito,BQ893357,Bowie,Texarkana,East Texas Drivers
+2039,JACOB'S LIQUOR - Sachse,"7340 HWY 78 SUITE 100, Sachse, TX 75048",Off Premise,75048,Brian Schick,BF1008648,Collin,Sachse,Jose Vital
+2041,Golf Center of Arlington,"1301 NE GREEN OAKS BOULEVARD, Arlington, TX 76006",On Premise,76006,Taylor Coward,BG873219,Tarrant,Arlington,James Liston
+2043,Super 1 Foods #641,"208 N Central Expy, McKinney, TX 75070",Off Premise,75070,Brian Schick,BQ566511,Collin,McKinney,Ronald Streng
+2047,Brookshire Grocery #69 - Midlothian,"1400 E Main St., Midlothian, TX 76065",Off Premise,76065,Brandon Byrd,BQ682253,Ellis,Midlothian,Jose Vital
+2049,Brookshire Grocery #60 - Quitman,"502 E Goode St., Quitman, TX 75783",Off Premise,75783,Ronnie Esposito,BQ875777,Wood,Quitman,East Texas Drivers
+2050,Brookshire Grocery #4 - Emory,"959 E Lennon Dr., Emory, TX 75440",Off Premise,75440,Torie Shelton,BQ724762,Rains,Emory,East Texas Drivers
+2051,Brookshire Grocery #110 - Jefferson,"404 E Broadway St., Jefferson, TX 75657",Off Premise,75657,Ronnie Esposito,BQ574146,Marion,Jefferson,East Texas Drivers
+2053,Bread Basket - Ridge Parkway,"1800 Scofield Ridge Pkwy, AUSTIN, TX 78727",On Premise,78727,Tim Vela,BF981173,Travis,AUSTIN,Manny Chavez
+2055,Civil Pour,"8061 WALNUT HILL LANE SUITE 924, Dallas, TX 75231",On Premise,75231,Harrison Boyland,BG1013970,Dallas,Dallas,Joe Fronczek
+2066,Brookshire Grocery #80 - Gilmore,"1800 N Wood, Gilmer, TX 75644",Off Premise,75644,Ronnie Esposito,BQ875234,Upshur,Gilmer,East Texas Drivers
+2067,Colonial Country Club - Fort Worth,"3735 Country Club Circle, Fort Worth, TX 76109",On Premise,76109,Taylor Coward,MB068949,Tarrant,Fort Worth,Jose Vital
+2068,Hopdoddy - Euless,"1200 Chisom Trail, Euless, TX 76039",On Premise,76039,Nathan Zaremba,MB1013338,Tarrant,Euless,Justin Stryker
+2070,The Rim Craft Drafts & Eats - Burleson,"295 E Renfro St., Burleson, TX 76028",On Premise,76028,Justin Page,RM1011438,Johnson,Burleson,James Liston
+2071,The Space - Fort Worth,"1309 S Adams ST., Fort Worth, TX 76104",On Premise,76104,Taylor Coward,BG913145,Tarrant,Fort Worth,James Liston
+2073,Spectrum Events,"395 Purcey St, Fort Worth, TX 76102",On Premise,76102,House Accounts DFW,BG476085,Tarrant,Fort Worth,None
+2074,Market Street #696 - Mansfield,"3145 E Broad St., Mansfield, TX 76063",Off Premise,76063,Justin Page,BG1008075,Tarrant,Mansfield,Jose Vital
+2075,Bread Basket - Jones RD.,"2623 Jones Rd., AUSTIN, TX 78745",On Premise,78745,Tim Vela,BQ289903,Travis,AUSTIN,Manny Chavez
+2078,The Craftcade,"615 S Jennings Ave, Fort Worth, TX 76104",On Premise,76104,Taylor Coward,MB1004045,Tarrant,Fort Worth,Joe Fronczek
+2090,Mom's Store #8 - Hwy 71,"9341 Hwy 71 West, AUSTIN, TX 78735",Off Premise,78735,Josh Jennings,BF989163,Travis,AUSTIN,Manny Chavez
+2092,Celebration Association - Festival Account,"125 Davis Street S, Sulphur Springs, TX 75482",On Premise,75482,House Accounts DFW,SB 2935061,Hopkins,Sulphur Springs,None
+2094,Nosh and Bottle - Irving,"370 West Las Colinas Blvd., Irving, TX 75039",Off Premise,75039,Nathan Zaremba,BG1015850,Dallas,Irving,Jose Vital
+2095,San Antonio Botanical Garden Society,"555 Funston Place, San Antonio, TX 78209",On Premise,78209,Josh Jennings,SB 3024321,Bexar,San Antonio,Joe Castro
+2096,Brookshire Grocery #77 - Corsicana,"800 N Main St., Corsicana, TX 75110",Off Premise,75110,Ronnie Esposito,BQ564814,Navarro,Corsicana,East Texas Drivers
+2097,Bread Basket - Justin Lane,"2213 Justin Lane, AUSTIN, TX 78757",Off Premise,78757,Tim Vela,BF645532,Travis,AUSTIN,Manny Chavez
+2103,Grrrowler's - The Colony,"5800 Windhaven Pkwy, The Colony, TX 75093",On Premise,75093,Hudson Boyd,BG1003887,Denton,The Colony,Ronald Streng
+2104,Spec's #27 - Dripping Springs,"166 Hargraves Dr., DRIPPING SPRINGS, TX 78737",Off Premise,78737,Josh Jennings,BF987265,Travis,DRIPPING SPRINGS,Manny Chavez
+2110,Cannon Chinese Kitchen - Fort Worth,"304 W Cannon St., Fort Worth, TX 76104",On Premise,76104,Taylor Coward,MB897574,Tarrant,Fort Worth,Joe Fronczek
+2113,Growler USA - The Colony,"6520 Cascades CT., The Colony, TX 75056",On Premise,75056,Hudson Boyd,BG1014846,Denton,The Colony,James Liston
+2115,Bastrop Beer Co. - Bastrop,"1008 Main St., BASTROP, TX 78602",On Premise,78602,Josh Jennings,BG1008849,Bastrop,BASTROP,Manny Chavez
+2116,Growler Express - Buda,"1567 Main St., BUDA, TX 78610",On Premise,78610,Josh Jennings,BG1010705,Hays,BUDA,Manny Chavez
+2130,Tricky Fish- FW,"5917 Convair, Fort Worth, TX 76109",On Premise,76109,Taylor Coward,MB1022380,Tarrant,Fort Worth,Jose Vital
+2132,Tiger Farms Market - Burleson,"1411 SW Wilshire Blvd., Burleson, TX 76028",Off Premise,76028,Justin Page,BQ1012349,Johnson,Burleson,Jose Vital
+2135,Liquor Mart - Nacozdoches,"1501 N Street, Nacogdoches, TX 75965",Off Premise,75965,Ronnie Esposito,P 1011999,Nacogdoches,Nacogdoches,East Texas Drivers
+2136,Bar Keeps - Nacogdoches,"3308 N Street, Nacogdoches, TX 75965",On Premise,75965,Ronnie Esposito,MB1004973,Nacogdoches,Nacogdoches,East Texas Drivers
+2137,Maklemore's Ale-House - Nacogdoches,"2304 North St, Nacogdoches, TX 75965",On Premise,75965,Ronnie Esposito,MB862005,Nacogdoches,Nacogdoches,East Texas Drivers
+2150,Spec's #168 - Little Elm,"27100 US HWY 380, Little Elm, TX 75068",Off Premise,75068,Jack Stephenson,BF1016797,Denton,Little Elm,Ronald Streng
+2151,Chili's #326 - Longview,"2800 Judson Rd,, Longview, TX 75605",On Premise,75605,Ronnie Esposito,RM668939,Gregg,Longview,East Texas Drivers
+2168,Back Porch Draft House - Wichita Falls,"4214 Kell BLVD, Wichita Falls, TX 76309",On Premise,76309,Nathan Zaremba,MB872375,Wichita,Wichita Falls,James Liston
+2174,Brookshire's Grocery #19 - Wills Point,"1105 W S Commerce ST., Wills Point, TX 75169",Off Premise,75169,Ronnie Esposito,BQ726829,Van Zandt,Wills Point,East Texas Drivers
+2175,Underdog Pub - Houston,"4212 Washington Ave., HOUSTON, TX 77007",On Premise,77007,Jami Ontiveros,MB826060,Harris,HOUSTON,David Cash
+2177,Las Ranitas - Richardson,"812 S Central Expressway, Richardson, TX 75080",On Premise,75080,Harrison Boyland,RM1018644,Dallas,Richardson,Joe Fronczek
+2178,Brookshire Grocery #30 - Palestine,"2107 LOOP 256 SOUTH, Palestine, TX 75801",Off Premise,75801,Ronnie Esposito,BQ574860,Anderson,Palestine,East Texas Drivers
+2180,A & R Liquor - Spring,"18514 Kuykendahl Rd, SPRING, TX 77379",Off Premise,77379,Jami Ontiveros,BF468310,Harris,SPRING,David Cash
+2185,Kung Fu Saloon - Fort Worth,"2818 Morton St., Fort Worth, TX 76107",On Premise,76107,Taylor Coward,MB968101,Tarrant,Fort Worth,Jose Vital
+2186,Linden Public House - Linden,"401 E Houston St., Linden, TX 75563",On Premise,75563,Ronnie Esposito,BG998936,Cass,Linden,East Texas Drivers
+2188,Velvet Taco - Preston Rd.,"11700 Preston Rd., Dallas, TX 75230",On Premise,75230,Harrison Boyland,RM1015657,Dallas,Dallas,Joe Fronczek
+2194,Sky Creek Ranch - Keller,"600 Promontory DR., Keller, TX 76248",On Premise,76248,Jeff Martin,MB971308,Tarrant,Keller,Ronald Streng
+2195,Kock's Liquor - Wichita Fall's,"4505 Kemp BLVD, Wichita Fall's, TX 76308",Off Premise,76308,Nathan Zaremba,P 544079,Wichita,Wichita Fall's,James Liston
+2198,Free Play Arcade - Denton,"505 W Hickory St., Denton, TX 76201",On Premise,76201,Nathan Zaremba,BG1021989,Denton,Denton,Michael Weldon
+2200,Funkytown Donuts - Fort Worth,"132 E 4th St., Fort Worth, TX 76104",On Premise,76104,Taylor Coward,BG1022191,Tarrant,Fort Worth,James Liston
+2201,Jon Lillie's Steakhouse - Waco,"5102 N 19th St., Waco, TX 76708",On Premise,76708,Mark Molkenbuhr,MB1011231,McLennan,Waco,David Cash
+2204,Taco Heads - Henderson,"1921 N Henderson Ave, Dallas, TX 75206",On Premise,75206,Mason Lowe,Is Null,Dallas,Dallas,Joe Fronczek
+2206,Hot Spot - Lovelady,"240 N Commerce St., Lovelady, TX 75851",Off Premise,75851,Jami Ontiveros,BG1012191,Houston,Lovelady,David Cash
+2209,Corky&#146;s Gaming Bistro - Grapevine,"3520 N Grapevine Mills Blvd., Grapevine, TX 76051",On Premise,76051,Nathan Zaremba,RM1019370,Tarrant,Grapevine,Justin Stryker
+2211,D & Q Mini Mart - Houston,"806 Richmond Ave., HOUSTON, TX 77006",Off Premise,77006,Jami Ontiveros,BF635429,Harris,HOUSTON,David Cash
+2213,The Corner Pub - Conroe,"304 N Main St., CONROE, TX 77301",On Premise,77301,Jami Ontiveros,MB603893,Montgomery,CONROE,David Cash
+2217,Tipsy Oak - Arlington,"301 E Front St., Arlington, TX 76011",On Premise,76011,Taylor Coward,MB1024001,Tarrant,Arlington,James Liston
+2226,Mutts Canine Cantina - Clearfork,"5317 Clearfork Main ST., Fort Worth, TX 76109",On Premise,76109,Taylor Coward,MB1019858,Tarrant,Fort Worth,James Liston
+2238,Longhorn Ballroom - Dallas,"216 Corinth St, Dallas, TX 75207",On Premise,75207,House Accounts DFW,MB993421,Dallas,Dallas,Joe Fronczek
+2244,The Benchmark American Brasserie,"4115 N Kings Hwy #111, Texarkana, TX 75503",On Premise,75503,Ronnie Esposito,RM1016801,Bowie,Texarkana,East Texas Drivers
+2245,Moody Gardens - Galveston,"7 Hope Blvd, Galveston, TX 77554",On Premise,77554,Jami Ontiveros,MB219738,Galveston,Galveston,David Cash
+2257,Central Market #747 - Midway,"4349 W NW HWY, Dallas, TX 75220",Off Premise,75220,Brandon Byrd,BF1009305,Dallas,Dallas,Joe Fronczek
+2263,Drink of Ages Pub - Houston,"1005 Waugh Dr., Houston, TX 77019",On Premise,77019,Jami Ontiveros,BG936303,Harris,HOUSTON,David Cash
+2265,Zuroma Bar & Grill - N. Richland Hills,"8851 Ice House Dr., North Richland Hills, TX 76180",On Premise,76180,Nathan Zaremba,MB786022,Tarrant,North Richland Hills,James Liston
+2266,Commerce St. Draft House - Jacksonville,"401 E Commerce ST., Jacksonville, TX 75757",On Premise,75757,Ronnie Esposito,BG996364,Cherokee,Jacksonville,East Texas Drivers
+2270,Big Little Market - Irving,"5240 N O'Conner, Irving, TX 75039",On Premise,75039,Justin Page,BQ974052,Dallas,Irving,Jose Vital
+2272,Barrel and Bones - Fort Worth,"2600 W. 7th St, Fort Worth, TX 75056",On Premise,75056,Taylor Coward,MB711084,Tarrant,Fort Worth,James Liston
+2277,Whistle Britches - Plano,"2405 Dallas Pkwy, Dallas, TX 75093",On Premise,75093,Hudson Boyd,RM881376,Collin,Dallas,Ronald Streng
+2903,Palios On tap,"3673 WESTERN CENTER BOULEVARD SUITE 503, Fort Worth, TX 76137",On Premise,76137,Taylor Coward,BG1011212,Tarrant,Fort Worth,Jose Vital
+2905,Al's Discount Liquor,"200 N HWY 287 North Suite B, Decatur, Tex 76234",Off Premise,76234,Jeff Martin,P 998212,Wise,Decatur,Justin Stryker
+2915,Cork & Pig - Irving,"5224 N O'Connor BLVD, Irving, TX 75039",On Premise,75039,Nathan Zaremba,MB1029927,Dallas,Irving,Ronald Streng
+2922,Crafted - Plano,"6121 W Park BLVD, Plano, TX 75093",On Premise,75093,Brian Schick,BF949800,Collin,Plano,Justin Stryker
+2923,Basement Brewers,"521 Clay st, Kerrville, TX 78028",On Premise,78028,Josh Jennings,bg991783,Kerr,Kerrville,Joe Castro
+2924,Total Wine #528 - Euless,"2501 Rio Grande Blvd., Euless, TX 76039",Off Premise,76039,Jack Stephenson,BF1011251,Tarrant,Euless,Ronald Streng
+2927,Thom's Market - Spyglass Dr.,"1500A Spyglass Dr., AUSTIN, TX 78746",On Premise,78746,Tim Vela,BQ1026774,Travis,AUSTIN,Joe Castro
+3444,A D Beer Wine,"565 W. Oates Road, # 115, Garland, TX 75043",Off Premise,75043,Brandon Byrd,BQ803035,Dallas,Garland,Jose Vital
+3446,1001 Wine and Spirits,"1001 Ross Avenue, Dallas, TX 75247",Off Premise,75247,Brandon Byrd,BF711791,Dallas,Dallas,James Hall
+3447,Buy Low Food Mart & Beer,"1401 E. Arapaho Road, Richardson, TX 75080",Off Premise,75080,Brandon Byrd,BF648847,Dallas,Richardson,Jose Vital
+3451,Brewed,"801 West Magnolia Avenue, Fort Worth, TX 76104",On Premise,76104,Taylor Coward,BG816027,Tarrant,Fort Worth,Joe Fronczek
+3453,Bowlounge,"167 Turtle Creek Blvd., Dallas, TX 75207",On Premise,75207,Harrison Boyland,MB835451,Dallas,Dallas,Joe Fronczek
+3455,Bowen House,"2614 Boll Street, Dallas, TX 75204",On Premise,75204,Harrison Boyland,MB862254,Dallas,Dallas,Joe Fronczek
+3456,Boulevardier,"408 N. Bishop, # 108, Dallas, TX 75208",On Premise,75208,Harrison Boyland,RM805600,Dallas,Dallas,Joe Fronczek
+3466,Beverage Zone,"3555 Murphy Road, Suite 101, Dallas, TX 75082",Off Premise,75082,Brian Schick,BQ938036,Collin,Dallas,Jose Vital
+3468,Beer and Wine World,"26 E. Debbie Lane, Suite 102, Mansfield, TX 76063",Off Premise,76063,Taylor Coward,BQ728219,Tarrant,Mansfield,James Liston
+3470,The Bearded Lady,"1223 7th Avenue, Fort Worth, TX 76104",On Premise,76104,Taylor Coward,MB808362,Tarrant,Fort Worth,Joe Fronczek
+3471,Bear Creek Spirits and Wine,"7101 Colleyville Blvd., Colleyville, TX 76034",Off Premise,76034,Jeff Martin,BF762372,Tarrant,Colleyville,Justin Stryker
+3474,Barcadia - Ft. Worth,"816 Matisse Drive, Fort Worth, TX 76107",On Premise,76107,Taylor Coward,MB763348,Tarrant,Fort Worth,Joe Fronczek
+3478,Ballpark Beverage,"2100 E. Lamar Blvd, Arlington, TX 76006",Off Premise,76006,Justin Page,BQ615999,Tarrant,Arlington,Justin Stryker
+3489,Alamo Drafthouse - Richardson,"100 S. Central Expwy, #14, Richardson, TX 75080",On Premise,75080,Harrison Boyland,RM845630,Dallas,Richardson,Jose Vital
+3495,Cadillac Pizza Pub,"112 S. Kentucky Street, McKinney, TX 75071",On Premise,75071,Hudson Boyd,RM751112,Collin,McKinney,Ronald Streng
+3498,East Side Social Club,"117 E. Oak Street, Denton, TX 76201",On Premise,76201,Nathan Zaremba,N848376,Denton,Denton,James Liston
+3499,East 1st Grocery,"1811 E. Cesar Chavez, AUSTIN, TX 78702",Off Premise,78702,Tim Vela,BQ703083,Travis,AUSTIN,Manny Chavez
+3505,Dancing Bear Pub,"1117 Speight Ave, Waco, TX 76706",On Premise,76706,Mark Molkenbuhr,BF306476,McLennan,Waco,Jose Vital
+3506,Dan's Food Store,"1008 W. Davis St., Dallas, TX 75208",Off Premise,75208,Brandon Byrd,BQ786524,Dallas,Dallas,Joe Fronczek
+3509,Dallas Beer Kitchen,"1802 Greenville Ave., Suite 110, Dallas, TX 75206",On Premise,75206,Mason Lowe,MB947240,Dallas,Dallas,Joe Fronczek
+3512,Craft and Growler,"3601 Parry Ave., Dallas, TX 75226",On Premise,75226,Mason Lowe,BG820668,Dallas,Dallas,Joe Fronczek
+3516,Corner Stop,"2203 Greenville Ave., Dallas, TX 75206",Off Premise,75206,Brandon Byrd,BF833650,Dallas,Dallas,Joe Fronczek
+3524,Choice Beverage,"4600 W. Eldorado Pkwy., Suite 700, McKinney, TX 75070",Off Premise,75070,Brian Schick,BQ753252,Collin,McKinney,Ronald Streng
+3527,Chevron Z to A & Company,"5701 McCommas Blvd., Dallas, TX 75206",Off Premise,75206,Brandon Byrd,BQ431113,Dallas,Dallas,Joe Fronczek
+3531,Central Market #055 - Southlake,"1425 Southlake, Blvd., Suite 100A, Southlake, TX 76092",Off Premise,76092,Jeff Martin,BG853449,Tarrant,Southlake,Michael Weldon
+3532,Central Market #653 - Preston,"10720 Preston Road, Suite 1018, Dallas, TX 75230",Off Premise,75230,Brandon Byrd,BG836376,Dallas,Dallas,Justin Stryker
+3533,Central Market #546 _- Plano,"320 Coit Road, Plano, TX 75075",Off Premise,75075,Brian Schick,BQ507576,Collin,Plano,Jose Vital
+3534,Central Market #545 - Ft. Worth,"4651 West Freeway, Fort Worth, TX 76107",Off Premise,76107,Justin Page,BG543866,Tarrant,Fort Worth,Joe Fronczek
+3535,Central Market #552 - Lovers,"5750 E. Lovers Lane, Dallas, TX 75206",Off Premise,75206,Brandon Byrd,BG517385,Dallas,Dallas,James Hall
+3537,Castle Spirits,"2540 King Aurthur Blvd., Lewisville, TX 75056",Off Premise,75056,Jeff Martin,BQ803035,Denton,Lewisville,Michael Weldon
+3546,Quick Treat,"2011 W. Spring Creek Pkwy, Plano, TX 75023",On Premise,75023,Brian Schick,BF733965,Collin,Plano,Ronald Streng
+3547,Press Box Grill,"1623 Main Street, Suite 191, Dallas, TX 75201",On Premise,75201,Mason Lowe,MB751542,Dallas,Dallas,James Hall
+3550,The Pour House - Dallas,"1300 W. Davis, Dallas, TX 75208",On Premise,75208,Harrison Boyland,RM821285,Dallas,Dallas,Joe Fronczek
+3551,Pogo's Inwood,"5360 W. Lovers Lane, Dallas, TX 75209",Off Premise,75209,Brandon Byrd,P217336,Dallas,Dallas,Ronald Streng
+3559,Parkit Market,"4724 Greenville Ave, Dallas, TX 75206",Off Premise,75206,Brandon Byrd,BF484990,Dallas,Dallas,James Hall
+3560,Paradise Spirits & Wines,"1217 FM 407, West Corral City, TX 76226",Off Premise,76226,Jeff Martin,P885216,Denton,West Corral City,Justin Stryker
+3563,O's Spirits,"2705 NE 28th Street, Suite 100, Fort Worth, TX 76111",Off Premise,76111,Justin Page,BF642215,Tarrant,Fort Worth,Joe Fronczek
+3565,One Stop Beer & Wine,"456 Country Club Road, Suite 132, Wylie, TX 75098",Off Premise,75098,Brian Schick,BQ819604,Collin,Wylie,Jose Vital
+3570,Oak St. Draft House,"308 E. Oak Street, Denton, TX 76201",On Premise,76201,Nathan Zaremba,N797302,Denton,Denton,James Liston
+3572,NRH Beer and Wine,"6705 Mid Cities Blvd., North Richland Hills, TX 76182",Off Premise,76182,Justin Page,BQ798933,Tarrant,North Richland Hills,Ronald Streng
+3574,North Oak Cliff Beer & Wine,"1301 W. Davis Street, Dallas, TX 75208",Off Premise,75208,Brandon Byrd,BF793135,Dallas,Dallas,Joe Fronczek
+3583,Midway Mart,"406 West Hickory, Denton, TX 76201",Off Premise,76201,Jeff Martin,BQ308007,Denton,Denton,James Liston
+3584,Metzler's - Teasley,"628 Londonderry Lane, Denton, TX 76201",On Premise,76201,Jeff Martin,BG411020,Denton,Denton,James Liston
+3586,Mellow Mushroom - Denton,"217 E. Hickory Street, Denton, TX 76201",On Premise,76201,Nathan Zaremba,RM765130,Denton,Denton,James Liston
+3588,Mellow Mushroom - Southlake,"2820 E. Southlake Blvd., Southlake, TX 76092",On Premise,76092,Nathan Zaremba,MB796994,Tarrant,Southlake,Justin Stryker
+3589,Mellow Mushroom - Rockwall,"550 I-30 East, Rockwall, TX 75087",On Premise,75087,Hudson Boyd,RM862319,Rockwall,Rockwall,Jose Vital
+3590,Mellow Mushroom - McKinney,"218 E. Louisiana Street, Suite 101, McKinney, TX 75069",On Premise,75069,Hudson Boyd,RM838791,Collin,McKinney,Ronald Streng
+3593,Market Street #566 - Plano,"1929 Preston Road, Plano, TX 75093",Off Premise,75093,Brian Schick,BQ715638,Collin,Plano,Michael Weldon
+3594,Market Street #561 - McKinney,"6100 W. Eldorado Pkwy., McKinney, TX 75070",Off Premise,75070,Brian Schick,BQ561652,Collin,McKinney,Ronald Streng
+3595,Market Street #562 - Frisco,"11999 Dallas Pkwy., Frisco, TX 75034",Off Premise,75034,Brian Schick,BQ697935,Denton,Frisco,Ronald Streng
+3596,Market Street #565 - Flower Mound,"3800 Long Prairie Road, Flower Mound, TX 75028",Off Premise,75028,Jeff Martin,BG858628,Denton,Flower Mound,James Liston
+3597,Market Street #564 - Coppell,"700 N. Denton Tap Road, Coppell, TX 75019",Off Premise,75019,Jeff Martin,BQ711775,Dallas,Coppell,James Liston
+3598,Market Street #560 - Colleyville,"5605 Colleyville Blvd., Colleyville, TX 76034",Off Premise,76034,Jeff Martin,BQ541472,Tarrant,Colleyville,Justin Stryker
+3599,Market Street #563 - Allen,"985 W. Bethany Drive, Allen, TX 75013",Off Premise,75013,Brian Schick,BF684527,Collin,Allen,Ronald Streng
+3600,Malone's Pub,"1303 Calhoun Street, Fort Worth, TX 76102",On Premise,76102,Taylor Coward,MB478079,Tarrant,Fort Worth,Joe Fronczek
+3606,LUCK,"3011 Gulden Street, #112, Dallas, TX 75212",On Premise,75212,Harrison Boyland,RM850861,Dallas,Dallas,Joe Fronczek
+3607,Lone Star Beer & Wine,"3065 N. Josey, # 62, Carrollton, TX 75007",Off Premise,75007,Jeff Martin,BQ636221,Denton,Carrollton,Jeff Martin
+3609,The Londoner - Rockwall,"308 N.Fannin Street, Rockwall, TX 75087",On Premise,75087,Hudson Boyd,RM867585,Rockwall,Rockwall,Jose Vital
+3611,British Lion,"5454 Main Street, Suite 123, Frisco, TX 75034",On Premise,75034,Hudson Boyd,N822584,Collin,Frisco,Ronald Streng
+3612,The Londoner - Colleyville,"5150 Colleyville Blvd., Colleyville, TX 76034",On Premise,76034,Nathan Zaremba,MB828229,Tarrant,Colleyville,Justin Stryker
+3614,The Londoner - Addison,"14930 Midway Road, Addison, TX 75001",On Premise,75001,Harrison Boyland,MB570614,Dallas,Addison,Jose Vital
+3618,The Libertine Bar,"2101 Greenville Ave., Dallas, TX 75206",On Premise,75206,Mason Lowe,MB632196,Dallas,Dallas,Joe Fronczek
+3623,Lakewood Medallion,"5748 Live Oak Street, Dallas, TX 75206",Off Premise,75206,Brandon Byrd,P897659,Dallas,Dallas,James Hall
+3624,Lakewood Growler,"6448 E. Mockingbird Lane, Dallas, TX 75214",On Premise,75214,Mason Lowe,BG860185,Dallas,Dallas,James Hall
+3625,Lake View Liquor,"7826 Garland Road, Dallas, TX 75218",Off Premise,75218,Brandon Byrd,P802852,Dallas,Dallas,James Hall
+3652,Kool Keg - Arlington,"207 S. East Street, Arlington, TX 76010",On Premise,76010,Taylor Coward,BQ766952,Tarrant,Arlington,Joe Fronczek
+3655,King's Liquors,"2810 West Berry Street, Fort Worth, TX 76109",Off Premise,76109,Justin Page,BF196425,Tarrant,Fort Worth,Joe Fronczek
+3656,Kelly's at the Village,"190 E. Stacy Road, Suite 1204, Allen, TX 75002",On Premise,75002,Hudson Boyd,RM807580,Collin,Allen,Ronald Streng
+3657,Kegs & Barrels - Plano,"1905 W. 15th Street, Plano, TX 75075",Off Premise,75075,Brian Schick,BF845200,Collin,Plano,Ronald Streng
+3661,Joe's Fast Lane,"1234 S. Broadway Street, Sulphur Springs, TX 75482",Off Premise,75482,Ronnie Esposito,BF828024,None,Sulphur Springs,East Texas Drivers
+3665,Jack Mac's Swill & Grill,"19009 Preston Road, Suite 209, Dallas, TX 75252",On Premise,75252,Hudson Boyd,RM812643,Collin,Dallas,Jose Vital
+3666,J. Macklin's Grill,"130 N Denton Tap Road #120, Coppell, TX 75019",On Premise,75019,Nathan Zaremba,RM728390,Dallas,Coppell,James Liston
+3669,Inwood Tavern,"7717 Inwood Road, Dallas, TX 75209",On Premise,75209,Harrison Boyland,MB879767,Dallas,Dallas,Ronald Streng
+3673,Hopdoddy - Preston Center,"6030 Luther Lane, Suite 100, Dallas, TX 75225",On Premise,75225,Harrison Boyland,RM819804,Dallas,Dallas,Jose Vital
+3675,Holy Grail,"8240 Preston Road, Suite 150, Plano, TX 75204",On Premise,75204,Hudson Boyd,RM729632,Collin,Plano,Ronald Streng
+3677,HG Sply Co. - Dallas,"2008 Greenville Ave., Dallas, TX 75206",On Premise,75206,Mason Lowe,MB828661,Dallas,Dallas,Joe Fronczek
+3678,Henderson Tap House,"2323 Henderson Ave. Ste 101-102, Dallas, TX 75206",On Premise,75206,Mason Lowe,MB864159,Dallas,Dallas,Joe Fronczek
+3679,HEB 16 Burleson,"165 NW John Jones Drive, Burleson, TX 76028",Off Premise,76028,Justin Page,BQ749563,Johnson,Burleson,Jose Vital
+3680,Haystack - Richardson,"100 S. Central Expressway, Suite17, Richardson, TX 75080",On Premise,75080,Harrison Boyland,RM840141,Dallas,Richardson,Jose Vital
+3684,Grub Burger Bar - Dallas,"4925 Greenville Ave., Dallas, TX 75206",On Premise,75206,Mason Lowe,MB847725,Dallas,Dallas,James Hall
+3689,Grapevine Beer & Wine,"2100 W. Northwest Hwy, Grapevine, TX 76051",Off Premise,76051,Jeff Martin,BQ697363,Tarrant,Grapevine,Justin Stryker
+3692,Goody Goody - Addison,"14851 Inwood Road, Addison, TX 75001",Off Premise,75001,Brandon Byrd,BF409430,Dallas,Addison,Jose Vital
+3695,Goody Goody - Oak Lawn,"3316 Oak Lawn, Dallas, TX 75219",Off Premise,75219,Brandon Byrd,BF568306,Dallas,Dallas,James Hall
+3696,Goody Goody - Little Elm,"103 FM 423, Little Elm, TX 75068",Off Premise,75068,Jeff Martin,BF671330,Denton,Little Elm,Michael Weldon
+3697,Goody Goody - Highland Village,"1950 Justin Rd, Highland Village, TX 75077",Off Premise,75077,Jeff Martin,BF455949,Denton,Highland Village,James Liston
+3698,Goody Goody - Greenville Ave.,"7124 Greenville Ave, Dallas, TX 75231",Off Premise,75231,Brandon Byrd,BF176178,Dallas,Dallas,Joe Fronczek
+3700,Goodfriend Burger,"1154 Peavy Road, Dallas, TX 75218",On Premise,75218,Mason Lowe,RM779581,Dallas,Dallas,James Hall
+3710,The Foundry,"2303 Pittman Street, Dallas, TX 75208",On Premise,75208,Harrison Boyland,RM794039,Dallas,Dallas,Joe Fronczek
+3711,Fossil Creek Liquor - Plano,"1100 S. Preston Road, Plano, TX 75093",Off Premise,75093,Brian Schick,BF848719,Collin,Plano,Ronald Streng
+3712,Fossil Creek Liquor - Lewisville,"755 State Hwy 121, Lewisville, TX 75067",Off Premise,75067,Jeff Martin,BF867715,Denton,Lewisville,James Liston
+3713,Fossil Creek Liquor - Ft. Worth,"1900 Western Center Blvd., Fort Worth, TX 76131",Off Premise,76131,Jeff Martin,BF497392,Tarrant,Fort Worth,Justin Stryker
+3718,Fish City Grill - Irving,"7750 North MacArthur Blvd., Irving, TX 75063",On Premise,75063,Nathan Zaremba,MB806974,Dallas,Irving,Ronald Streng
+3722,Thirteen Pies West 7th,"2949 Crockett Street, Fort Worth, TX 76107",On Premise,76107,Taylor Coward,MB751777,Tarrant,Fort Worth,Jose Vital
+3726,Fuel Up Mart,"4331 Kelly Elliott Road, Arlington, TX 76016",Off Premise,76016,Justin Page,BQ988569,Tarrant,Arlington,James Liston
+3732,Goody Goody - Colleyville,"4701 Colleyville Blvd., Colleyville, TX 76034",Off Premise,76034,Jeff Martin,BF783784,Tarrant,Colleyville,Justin Stryker
+3734,The Fillmore Pub,"1004 E. 15th Street, Plano, TX 75074",On Premise,75074,Hudson Boyd,RM663803,Collin,Plano,Ronald Streng
+3736,The Brass Tap - Ft. Worth,"901 Houston Street, Suite 102, Fort Worth, TX 76102",On Premise,76102,Taylor Coward,BG863361,Tarrant,Fort Worth,Joe Fronczek
+3739,The Bottle Shop - Ft. Worth,"2805 Crockett Street, Fort Worth, TX 76107",Off Premise,76107,Taylor Coward,BF764955,Tarrant,Fort Worth,Joe Fronczek
+3740,Texas Theatre,"231 W. Jefferson Road, Dallas, TX 75208",On Premise,75208,Harrison Boyland,RM825245,Dallas,Dallas,Joe Fronczek
+3742,Tex Max Beer & Wine,"3349 Western Center Blvd., Suite 151, Fort Worth, TX 76137",Off Premise,76137,Jeff Martin,BQ753085,Tarrant,Fort Worth,Justin Stryker
+3744,Taverna Rossa - Plano,"4005 Preston Road, Suite 512, Plano, TX 75093",On Premise,75093,Hudson Boyd,RM835068,Collin,Plano,Ronald Streng
+3754,Square Burger,"115 N. Kentucky Street, McKinney, TX 75069",On Premise,75069,Hudson Boyd,RM745616,Collin,McKinney,Ronald Streng
+3772,Spec's #164 - Granbury,"1150 Hwy 377 East, Granbury, TX 76048",Off Premise,76048,Justin Page,BF861848,Hood,Granbury,Joe Fronczek
+3773,Spec's #163 - The Colony,"4901 SH 121, The Colony, TX 75056",Off Premise,75056,Jack Stephenson,BF820022,Denton,The Colony,James Liston
+3774,Spec's #162 - Jacksboro,"1111 Jacksboro Hwy., Fort Worth, TX 76107",Off Premise,76107,Jack Stephenson,RM856085,Tarrant,Fort Worth,Joe Fronczek
+3775,Spec's #161 - Lowry Crossing,"4100 E. Hwy 380, Lowry Crossing, TX 75069",Off Premise,75069,Torie Shelton,BF817879,Collin,Lowry Crossing,Ronald Streng
+3776,Spec's #160 - Bryant Irvin,"4720 Bryant Irvin, Fort Worth, TX 76132",Off Premise,76132,Jack Stephenson,BF821316,Tarrant,Fort Worth,Joe Fronczek
+3778,Spec's #157 - Mr. G's,"1453 Coit Road, Plano, TX 75075",Off Premise,75075,Torie Shelton,BF800065,Collin,Plano,Ronald Streng
+3779,Spec's #155 - Eastchase Pkwy,"1600 Eastchase Pkwy., Suite 265, Fort Worth, TX 76120",Off Premise,76120,Jack Stephenson,BF812045,Tarrant,Fort Worth,Justin Stryker
+3780,Spec's #154 - Hulen,"2750 S. Hulen Street, Fort Worth, TX 76109",Off Premise,76109,Jack Stephenson,BF812958,Tarrant,Fort Worth,Joe Fronczek
+3781,Spec's #153 - Royal Lane,"5959 Royal Lane, Dallas, TX 75230",Off Premise,75230,Torie Shelton,BF812648,Dallas,Dallas,Joe Castro
+3782,Spec's #151 - Plano,"5930 West Park Blvd., Plano, TX 75093",Off Premise,75093,Torie Shelton,BF790988,Collin,Plano,Michael Weldon
+3783,Spec's #150 - NCX,"9500 N. Central Expwy., Suite 200, Dallas, TX 75231",Off Premise,75231,Torie Shelton,BF790289,Dallas,Dallas,Joe Fronczek
+3784,Spec's #141 - NCX Plano,"3404 N. Central Expwy., Suite 100, Plano, TX 75074",Off Premise,75074,Torie Shelton,BF860260,Collin,Plano,Ronald Streng
+3785,Spec's #127 - Dalworthington,"3200 W. Pioneer Pkwy, Arlington, TX 76013",Off Premise,76013,Jack Stephenson,BF841222,Tarrant,Arlington,Joe Fronczek
+3786,Spec's #116 - Westlake,"2341 HWY 377, Westlake, TX 76262",Off Premise,76262,Jack Stephenson,BF842593,Tarrant,Westlake,Justin Stryker
+3787,Spec's #115 - NW HWY,"1613 W. Northwest Hwy, Dallas, TX 75220",Off Premise,75220,Torie Shelton,BF841594,Dallas,Dallas,Ronald Streng
+3789,Social House - Addison,"5100 Beltline Road, Suite 410, Addison, TX 75254",On Premise,75254,Harrison Boyland,MB836734,Dallas,Addison,Jose Vital
+3793,Twin Liquor #92 - Routh Street,"2800 Routh Street, Suite 180, Dallas, TX 75201",Off Premise,75201,Brandon Byrd,BF1020915,Dallas,Dallas,Joe Fronczek
+3795,Twin Liquor #91 - Greenville,"5757 Greenville Ave., Dallas, TX 75206",Off Premise,75206,Brandon Byrd,BF1020913,Dallas,Dallas,James Hall
+3799,Sahay Market,"7777 Warren Pkwy, Suite 300, Frisco, TX 75034",Off Premise,75034,Brian Schick,BQ977321,Collin,Frisco,Ronald Streng
+3813,S&K Beverage,"101 W. Spring Creek Pkwy, Suite 741, Plano, TX 75023",Off Premise,75023,Brian Schick,BF846779,Collin,Plano,Ronald Streng
+3820,Ron's Corner - Bedford,"1833 Airport Freeway, Bedford, TX 76021",On Premise,76021,Nathan Zaremba,MB711084,Tarrant,Bedford,Justin Stryker
+3821,Rodeo Goat - Fort Worth,"2836 Bledsoe St, Fort Worth, TX 76107",On Premise,76107,Taylor Coward,MB818775,Tarrant,Fort Worth,Joe Fronczek
+3822,Richardson Beer & Wine,"515 W. Campbell Road, Suite 105, Richardson, TX 75080",Off Premise,75080,Brandon Byrd,BQ795130,Dallas,Richardson,Jose Vital
+3827,Zanata - Rockwall (Mac & Ted's Lighthouse,"202 E. Rusk A, Rockwall, TX 75087",On Premise,75087,Hudson Boyd,RM685262,Rockwall,Rockwall,Jose Vital
+3829,World of Beer - Arlington,"5005 S. Cooper Street, Suite 183, Arlington, TX 76017",On Premise,76017,Taylor Coward,MB782769,Tarrant,Arlington,Jose Vital
+3832,World Market #218 - Watauga,"7616 Denton, Hwy., Suite 516, Watauga, TX 76148",Off Premise,76148,Jeff Martin,BQ551146,Tarrant,Watauga,Justin Stryker
+3836,World Market #135 - Fort Worth,"4701 West Freeway, Suite 400, Fort Worth, TX 76107",Off Premise,76107,Justin Page,BQ481937,Tarrant,Fort Worth,Joe Fronczek
+3837,World Market #228 - Arlington,"239 Curtis Mathis Way, Arlington, TX 76018",Off Premise,76018,Justin Page,BQ657967,Tarrant,Arlington,James Liston
+3839,Wired Willy's (Wilcox Land Development db,"710 Carroll Street, Fort Worth, TX 76107",On Premise,76107,Taylor Coward,BQ559507,Tarrant,Fort Worth,Joe Fronczek
+3842,Wild Detectives,"314 W. 8th Street, Dallas, TX 75208",On Premise,75208,Harrison Boyland,N857066,Dallas,Dallas,Joe Fronczek
+3845,Whip In - Flower Mound,"2240 Morris Road, Suite 100, Flower Mound, TX 75028",On Premise,75028,Jeff Martin,B979588,Denton,Flower Mound,James Liston
+3846,WFM #346 - Highland Park,"4100 Lomo Alto Drive, Highland Park, TX 75219",Off Premise,75219,Brandon Byrd,BG516550,Dallas,Highland Park,James Hall
+3847,WFM #339 - Arlington,"801 E. Lamar Blvd., Arlington, TX 76011",Off Premise,76011,Justin Page,BQ578890,Tarrant,Arlington,Ronald Streng
+3848,WFM #336 - Plano,"2201 Preston Road, Suite C, Plano, TX 75093",Off Premise,75093,Brian Schick,BQ284920,Collin,Plano,Ronald Streng
+3849,WFM #332 - Colleyville,"4801 Colleyville, Rd, Colleyville, TX 76034",Off Premise,76034,Jeff Martin,BG873354,Tarrant,Colleyville,Justin Stryker
+3850,WFM #328 - Addison,"5100 Belt Line Road, Suite 1012, Addison, TX 75254",Off Premise,75254,Brandon Byrd,BG843831,Dallas,Addison,Jose Vital
+3851,WFM #318 - Fairview,"105 Stacy Road, Fairview, TX 75069",Off Premise,75069,Brian Schick,BQ755182,Collin,Fairview,Ronald Streng
+3852,WFM #317 - Park Lane,"8190 Park Lane, Suite 351, Dallas, TX 75207",Off Premise,75207,Brandon Byrd,BG738282,Dallas,Dallas,Jose Vital
+3853,WFM #312 - Preston Road,"11700 Preston Road, Suite 714, Dallas, TX 75230",Off Premise,75230,Brandon Byrd,BQ764700,Dallas,Dallas,Justin Stryker
+3854,WFM #316 - Abrams,"2118 Abrams Road, Dallas, TX 75214",Off Premise,75214,Brandon Byrd,BG715112,Dallas,Dallas,James Hall
+3855,Webb Chapel Beer & Wine,"1004 Webb Chapel Road, Carrollton, TX 75006",Off Premise,75006,Jeff Martin,BQ719477,Dallas,Carrollton,Jose Vital
+3864,Village Burger Bar - Allen,"957 Garden Park Drive, Allen, TX 75013",On Premise,75013,Hudson Boyd,BQ715638,Collin,Allen,Ronald Streng
+3866,Vickery Park - Plano,"1011 E. 15th Street, Plano, TX 75074",On Premise,75074,Hudson Boyd,N810006,Collin,Plano,Ronald Streng
+3872,Twisted Snifter,"111 N Main Street, Weatherford, TX 76086",On Premise,76086,Taylor Coward,BF795838,Parker,Weatherford,Ronald Streng
+3875,Truck Yard,"5624 Sears Street, Dallas, TX 75206",On Premise,75206,Mason Lowe,MB843941,Dallas,Dallas,Joe Fronczek
+3884,Total Wine #505 - Plano (NCX),"721 N. Central Expwy., Suite 200, Plano, TX 75075",Off Premise,75075,Torie Shelton,BF847383,Collin,Plano,Ronald Streng
+3885,Total Wine #501 - Northpark,"9350 N. Central Expwy., Dallas, TX 75231",Off Premise,75231,Torie Shelton,BF803063,Dallas,Dallas,James Hall
+3886,Total Wine #507 - Lewisville,"2325 S. Stemmons Frwy, Lewisville, TX 75067",Off Premise,75067,Jack Stephenson,BF864817,Denton,Lewisville,James Liston
+3887,Total Wine #502 - Hulen,"5200 S. Hulen Street, Fort Worth, TX 76132",Off Premise,76132,Jack Stephenson,P818999,Tarrant,Fort Worth,Joe Fronczek
+3891,Tom Thumb 3658 - N Collins,"2755 N Collins, Arlington, TX 76006",Off Premise,76006,Justin Page,BQ578602,Tarrant,Arlington,James Liston
+3892,Tom Thumb 3650 - Preston Rd.,"14999 Preston Rd, Dallas, TX 75240",Off Premise,75240,Brandon Byrd,BQ764650,Dallas,Dallas,Jose Vital
+3893,Tom Thumb 3641 - Custer,"3411 Custer Pkwy, Richardson, TX 75080",Off Premise,75080,Brian Schick,BQ649070,Collin,Richardson,Ronald Streng
+3894,Tom Thumb 3637 - W. Campbell,"1380 W. Campbell Rd, Richardson, TX 75080",Off Premise,75080,Brandon Byrd,BQ647913,Dallas,Richardson,Jose Vital
+3895,Tom Thumb 3621 - N Macarthur,"4010 N Macarthur Blvd, Irving, TX 75038",Off Premise,75038,Justin Page,BQ712824,Dallas,Irving,Ronald Streng
+3896,Tom Thumb 3608 - NW Hwy,"7700 NW Hwy, Dallas, TX 75225",Off Premise,75225,Brandon Byrd,BQ454479,Dallas,Dallas,James Hall
+3897,Tom Thumb 3597 - Preston,"11920 Preston Rd, Dallas, TX 75230",Off Premise,75230,Brandon Byrd,BQ765343,Dallas,Dallas,Justin Stryker
+3898,Tom Thumb 3582 - Preston Rd.,"18212 Preston Rd, Dallas, TX 75252",Off Premise,75252,Brian Schick,BQ741217,Collin,Dallas,Jose Vital
+3899,Tom Thumb 3579 - W McDermott,"900 W. McDermott Rd, Allen, TX 75013",Off Premise,75013,Brian Schick,BQ562943,Collin,Allen,Ronald Streng
+3901,Tom Thumb 3575 - Justin,"2301 Justin Rd, Flower Mound, TX 75028",Off Premise,75028,Jeff Martin,BQ455447,Denton,Flower Mound,James Liston
+3903,Tom Thumb 3572 - Flower Mound,"2600 Flower Mound, Rd, Flower Mound, TX 75028",Off Premise,75028,Jeff Martin,BQ455446,Denton,Flower Mound,James Liston
+3904,Tom Thumb 2990 - Inwood Road,"7117 Inwood Road, Dallas, TX 75209",Off Premise,75209,Brandon Byrd,BQ454477,Dallas,Dallas,Ronald Streng
+3905,Tom Thumb 2964 - N Goliad,"3070 N Goliad, Rockwall, TX 75087",Off Premise,75087,Brandon Byrd,BQ727642,Rockwall,Rockwall,Jose Vital
+3906,Tom Thumb 2963 - FM 423,"5550 FM 423, Frisco, TX 75034",Off Premise,75034,Jeff Martin,BQ835450,Denton,Frisco,Michael Weldon
+3907,Tom Thumb 2643 - Marsh Lane,"14280 Marsh Ln, Addison, TX 75001",Off Premise,75001,Brandon Byrd,BQ768798,Dallas,Addison,Jose Vital
+3908,Tom Thumb 2642 - E. Lovers Ln.,"5809 E Lovers Lane, Dallas, TX 75206",Off Premise,75206,Brandon Byrd,BQ454475,Dallas,Dallas,James Hall
+3909,Tom Thumb 2609 - Hurst,"612 Grapevine Hwy, Hurst, TX 76054",Off Premise,76054,Justin Page,BQ568624,Tarrant,Hurst,Justin Stryker
+3910,Tom Thumb 2595 - Legacy Dr.,"3945 Legacy Dr, Plano, TX 75023",Off Premise,75023,Brian Schick,BQ454648,Collin,Plano,Ronald Streng
+3911,Tom Thumb 2590 - N. Josey,"4112 N. Josey Ln, Carrollton, TX 75007",Off Premise,75007,Jeff Martin,BQ570798,Denton,Carrollton,Michael Weldon
+3912,Tom Thumb 2581 - Preston,"4848 Preston Rd, Frisco, TX 75034",Off Premise,75034,Brian Schick,BQ512658,Collin,Frisco,Ronald Streng
+3913,Tom Thumb 2580 - W. Southlake,"100 W. Southlake, Blvd #2, Southlake, TX 76092",Off Premise,76092,Jeff Martin,BF475580,Tarrant,Southlake,Justin Stryker
+3914,Tom Thumb 2574 - S. Hulen,"3100 S. Hulen, Fort Worth, TX 76109",Off Premise,76109,Justin Page,BQ455455,Tarrant,Fort Worth,Joe Fronczek
+3915,Tom Thumb 2570 - W Parker,"5968 West Parker Rd, Plano, TX 75093",Off Premise,75093,Brian Schick,BQ768672,Collin,Plano,Ronald Streng
+3916,Tom Thumb 1972 - Hwy North,"980 Hwy North 287, Mansfield, TX 76063",Off Premise,76063,Justin Page,BQ616056,Tarrant,Mansfield,James Liston
+3917,Tom Thumb 1925 - Lakeview,"8805 Lakeview Parkway, Rowlett, TX 75089",Off Premise,75089,Brandon Byrd,BQ563203,Rockwall,Rowlett,Jose Vital
+3918,Tom Thumb 1854 - Cross Timbers,"4301 Cross Timbers Road, Flower Mound, TX 75028",Off Premise,75028,Jeff Martin,BQ814298,Denton,Flower Mound,James Liston
+3919,Tom Thumb 1789 - Trophy Lake,"101 Trophy Lake Drive, Trophy Club, TX 76262",Off Premise,76262,Jeff Martin,BQ559507,Denton,Trophy Club,Justin Stryker
+3921,Tom Thumb 1783 - Arapaho Garland,"2645 Arapaho, Garland, TX 75044",Off Premise,75044,Brandon Byrd,BQ604772,Dallas,Garland,Jose Vital
+3922,Tom Thumb 1781 - Denton Tap,"106 N. Denton Tap Road, Coppell, TX 75019",Off Premise,75019,Jeff Martin,BQ647914,Dallas,Coppell,James Liston
+3924,Tom Thumb 2534 - E. Mockingbird,"6333 E. Mockingbird Lane, Dallas, TX 75214",Off Premise,75214,Brandon Byrd,BQ454473,Dallas,Dallas,James Hall
+3926,Tolbert's,"423 S. Main Street, Grapevine, TX 76051",On Premise,76051,Nathan Zaremba,BG836376,Tarrant,Grapevine,Justin Stryker
+3931,The Rustic,"3656 Howell, Dallas, TX 75204",On Premise,75204,Harrison Boyland,MB909089,Dallas,Dallas,Joe Fronczek
+3934,The Pub - McKinney,"204 W. Virginia Street, McKinney, TX 75069",On Premise,75069,Hudson Boyd,RM742716,Collin,McKinney,Ronald Streng
+3936,The Porch,"2912 N. Henderson Ave., Dallas, TX 75206",On Premise,75206,Mason Lowe,MB652229,Dallas,Dallas,Joe Fronczek
+3943,The Local Oak,"409 N. Zang Blvd., Dallas, TX 75208",On Premise,75208,Harrison Boyland,RM837967,Dallas,Dallas,Joe Fronczek
+3944,The Local,"2800 Bledsoe Street, Fort Worth, TX 76107",On Premise,76107,Taylor Coward,MB851274,Tarrant,Fort Worth,Joe Fronczek
+3954,Liquor Galore,"2124 Tin Top Road. Suite 100, Weatherford, TX 76086",Off Premise,76086,Taylor Coward,BF714156,Parker,Weatherford,Ronald Streng
+3957,Velvet Taco - Dallas,"3012 N. Henderson Avenue, Dallas, TX 75206",On Premise,75206,Harrison Boyland,MB780247,Dallas,Dallas,Joe Fronczek
+3958,The Boiled Owl,"909 W. Magnolia, Fort Worth, TX 76104",On Premise,76104,Taylor Coward,MB781942,Tarrant,Fort Worth,Joe Fronczek
+3959,Total Wine #506 - Preston Road,"8700 Preston Road, Suite 113, Plano, TX 75024",Off Premise,75024,Torie Shelton,BF847379,Collin,Plano,Ronald Streng
+3967,Goody Goody - Lake Dallas,"104 N. Stemmons Fwy., Lake Dallas, TX 75065",Off Premise,75065,Jeff Martin,BF530945,Denton,Lake Dallas,James Liston
+3972,Broadway Tobacco,"5335 Broadway, Garland, TX 75043",Off Premise,75043,Brandon Byrd,BQ874471,Dallas,Garland,Jose Vital
+3976,Twin Liquor #88 - Oasis Liquor,"538 Centennial, Richardson, TX 75081",Off Premise,75081,Brandon Byrd,BF1021300,Dallas,Richardson,Jose Vital
+3978,Off the Record Bar,"2720 Elm Street, Dallas, TX 75226",On Premise,75226,Mason Lowe,MB766173,Dallas,Dallas,Joe Fronczek
+3984,Total Wine #508 - Arlington South,"981 I-20 W, Arlington, TX 76017",Off Premise,76017,Jack Stephenson,BF881752,Tarrant,Arlington,Joe Fronczek
+3988,Goody Goody - Camp Bowie,"6393 Camp Bowie Blvd, Fort Worth, TX 76116",Off Premise,76116,Justin Page,BF685272,Tarrant,Fort Worth,Joe Fronczek
+3989,Albertsons #4270 - Glade Rd.,"4000 Glade Road, Colleyville, TX 76034",Off Premise,76034,Jeff Martin,BQ275633,Tarrant,Colleyville,Justin Stryker
+3990,WFM #330 - Highland Village,"4041 Waller Creek, Highland Village, TX 75077",Off Premise,75077,Jeff Martin,BG881868,Denton,Highland Village,Ronald Streng
+3999,Fossil Creek Liquor - Saginaw,"1205 Saginaw Blvd, Saginaw, TX 76179",Off Premise,76179,Jeff Martin,BF525166,Tarrant,Saginaw,Justin Stryker
+4001,Metzler's - University,"1115 E. University Drive, Denton, TX 76201",On Premise,76201,Jeff Martin,BG706046,Denton,Denton,James Liston
+4003,Spec's #128 - Addison,"15055 Inwood Road, Addison, TX 75001",Off Premise,75001,Torie Shelton,BF841224,Dallas,Addison,Jose Vital
+4006,Fossil Creek Liquor - Colleyville,"8070 Precint Line Road, Colleyville, TX 76034",Off Premise,76034,Jeff Martin,BF799844,Tarrant,Colleyville,Justin Stryker
+4007,Stonedeck Pizza Pub,"2613 Elm Street, Dallas, TX 75226",On Premise,75226,Mason Lowe,MB872437,Dallas,Dallas,Joe Fronczek
+4016,BFF Bakery & Bistro - Mansfield,"1601 E. Debbie Lane _2105, Mansfield, TX 76063",On Premise,76063,Taylor Coward,RM853411,Tarrant,Mansfield,James Liston
+4017,Drunken Donkey - Lewisville,"310 W. Round Grove Rd., Suite 109, Lewisville, TX 75067",On Premise,75067,Nathan Zaremba,RM862594,Denton,Lewisville,James Liston
+4024,Fossil Creek Liquor - Lake Dallas,"304 Swisher Rd., Lake Dallas, TX 75065",Off Premise,75065,Jeff Martin,BF755640,Denton,Lake Dallas,James Liston
+4032,Fossil Creek Liquor - Dalworthington,"4130 S. Bowen Road, Dalworthington Gardens, TX 76016",Off Premise,76016,Justin Page,BF755631,Tarrant,Dalworthington Gardens,James Liston
+4039,Republic Street Bar,"201 E. Hattie Street, Fort Worth, TX 76104",On Premise,76104,Taylor Coward,MB859767,Tarrant,Fort Worth,Joe Fronczek
+4044,Shellmans,"2300 Highland Village Road, #100, Highland Village, TX 75077",Off Premise,75077,Jeff Martin,BF628819,Denton,Highland Village,James Liston
+4045,Matador Meat & Wine,"8308 Preston Rd. Suite 102, Plano, TX 75024",Off Premise,75024,Brian Schick,BQ822093,Collin,Plano,Ronald Streng
+4046,Mirage Fine Spirits,"4405 Colleyville Blvd., Suite 110, Colleyville, TX 76034",Off Premise,76034,Jeff Martin,BF858364,Tarrant,Colleyville,Justin Stryker
+4047,Three Sheets - Rockwall,"2075 Summer Lee, Rockwall, TX 75032",On Premise,75032,Hudson Boyd,RM993989,Rockwall,Rockwall,Jose Vital
+4050,So-Cal Taco,"2140 Hall Johnson Rd., Suite #118, Grapevine, TX 76051",On Premise,76051,Nathan Zaremba,MB847560,Tarrant,Grapevine,Justin Stryker
+4053,BFF Bakery & Bistro - Lamar,"2150 E. Lamar Blvd., #100, Arlington, TX 76006",On Premise,76006,Taylor Coward,RM885428,Tarrant,Arlington,Justin Stryker
+4054,Kent & Co Wines,"1101 W. Magnolia Ave., Fort Worth, TX 76104",On Premise,76104,Taylor Coward,BG861659,Tarrant,Fort Worth,Joe Fronczek
+4055,Spec's #158 - Two Bucks,"4702 South Fwy, Fort Worth, TX 76115",Off Premise,76115,Jack Stephenson,BF812046,Tarrant,Fort Worth,Joe Fronczek
+4058,BJ's Restaurant - Hulen,"4720 South Hulen St., Fort Worth, TX 76132",On Premise,76132,Taylor Coward,MB785151,Tarrant,Fort Worth,Joe Fronczek
+4059,3 Stax Smokehouse,"4226 Preston Rd., Frisco, TX 75034",On Premise,75034,Hudson Boyd,RM817480,Collin,Frisco,Ronald Streng
+4062,Albertsons #4267 - Rufe Snow Dr,"6249 Rufe Snow Drive, Watauga, TX 76148",Off Premise,76148,Jeff Martin,BQ758837,Tarrant,Watauga,Justin Stryker
+4066,Dallas Craft Company - Colony,"4897 HWY 121, Suite 340, The Colony, TX 75056",On Premise,75056,Hudson Boyd,MB875043,Denton,The Colony,James Liston
+4067,Dr. Jeckyll's Beer Lab,"2420 W. Park Row Dr., Pantego, TX 76013",On Premise,76013,Taylor Coward,BG885942,Tarrant,Pantego,Joe Fronczek
+4069,Albertsons #4163 - S. Cooper St.,"5950 S. Cooper St., Arlington, TX 76017",Off Premise,76017,Justin Page,BQ611362,Tarrant,Arlington,James Liston
+4070,Albertsons #4032 - Alton Rd.,"3563 Alton Road, Fort Worth, TX 76109",Off Premise,76109,Justin Page,BQ737543,Tarrant,Fort Worth,Joe Fronczek
+4071,Albertsons #4151 - Western Center,"4400 Western Center Blvd., Fort Worth, TX 76137",Off Premise,76137,Jeff Martin,BQ711081,Tarrant,Fort Worth,Justin Stryker
+4072,Albertsons #4272 - Loop 820 E,"850 Loop 820 East, Fort Worth, TX 76112",Off Premise,76112,Justin Page,BQ242205,Tarrant,Fort Worth,James Liston
+4074,Mellow Mushroom - Flower Mound,"2450 Cross Timbers Rd., Suite 100, Flower Mound, TX 75028",On Premise,75028,Nathan Zaremba,RM876501,Denton,Flower Mound,James Liston
+4076,Albertsons #4142 - SW Plaza,"301 SW Plaza Shopping Center, Arlington, TX 76016",Off Premise,76016,Justin Page,BQ576756,Tarrant,Arlington,Joe Fronczek
+4081,Eureka!,"3700 McKinney Ave., Suite 126, Dallas, TX 75204",On Premise,75204,Harrison Boyland,MB890868,Dallas,Dallas,Joe Fronczek
+4086,Taps & Caps - Lewisville,"4740 SH 121, #500, Lewisville, TX 75056",On Premise,75056,Nathan Zaremba,BG881078,Denton,Lewisville,James Liston
+4090,State & Allen,"2400 Allen Street, Dallas, TX 75204",On Premise,75204,Harrison Boyland,MB565108,Dallas,Dallas,Joe Fronczek
+4093,Albertsons #4279 - NE Alsbury,"833 NE Alsbury Blvd., Burleson, TX 76028",Off Premise,76028,Justin Page,BQ239355,Tarrant,Burleson,Jose Vital
+4095,Seven Mart Food Store,"501 W. Davis Street, Dallas, TX 75208",Off Premise,75208,Brandon Byrd,BQ876951,Dallas,Dallas,Joe Fronczek
+4096,Albertsons #4105 - Frankford Rd.,"4625 Frankford Rd., Dallas, TX 75287",Off Premise,75287,Brian Schick,BQ767661,Collin,Dallas,Jose Vital
+4097,Antebellum Ale House,"321 E. Oak Street, Weatherford, TX 76086",On Premise,76086,Taylor Coward,N892393,Parker,Weatherford,Ronald Streng
+4099,Goody Goody - The Colony #11,"5285 Highway 121, The Colony, TX 75056",Off Premise,75056,Jeff Martin,BF478378,Denton,The Colony,James Liston
+4104,No Frills Grill - Burleson,"12846 S. Freeway, Burleson, TX 76102",On Premise,76102,Justin Page,MB890620,Tarrant,Burleson,Jose Vital
+4107,Dallas Grilled Cheese,"310 West 7th Street, Dallas, TX 75208",On Premise,75208,Harrison Boyland,RM891491,Dallas,Dallas,Joe Fronczek
+4110,Spec's #156 - Marsh Lane,"9972 Marsh Lane, Dallas, TX 75220",Off Premise,75220,Torie Shelton,BF882879,Dallas,Dallas,Ronald Streng
+4113,World Of Beer - Ft. Worth,"3252 W. 7th Street, Fort Worth, TX 76107",On Premise,76107,Taylor Coward,MB892170,Tarrant,Fort Worth,Joe Fronczek
+4114,Twin Liquor #93 - Riverfront,"506 S Riverfront Blvd., Dallas, TX 75207",Off Premise,75207,Brandon Byrd,BF1020918,Dallas,Dallas,James Hall
+4115,Plano Liquor,"601 W Parker Rd #107, Plano, TX 75023",Off Premise,75023,Brian Schick,BF849288,Collin,Plano,Ronald Streng
+4116,On Rotation Brewhouse,"7328 Gaston Avenue Suite 110, Dallas, TX 75214",On Premise,75214,Mason Lowe,BG891647,Dallas,Dallas,James Hall
+4117,Albertsons #4198 - N Beach Street,"10800 N Beach Street, Fort Worth, TX 76248",Off Premise,76248,Jeff Martin,BQ710930,Tarrant,Fort Worth,Justin Stryker
+4119,Albertsons #4262 - Airport Fwy,"1300 Airport Freeway, Bedford, TX 76022",Off Premise,76022,Justin Page,BQ616332,Tarrant,Bedford,Justin Stryker
+4123,Public School 214,"3700 McKinney Avenue, Dallas, TX 75204",On Premise,75204,Harrison Boyland,MB894786,Dallas,Dallas,Joe Fronczek
+4125,Pinstack - Plano,"6205 Dallas Parkway, Plano, TX 75024",On Premise,75024,Hudson Boyd,RM892531,Collin,Plano,Ronald Streng
+4127,Twin Liquor #90 - Plano,"3020 Legacy Dr., Suite 180, Plano, TX 75023",Off Premise,75023,Brian Schick,BF1021332,Collin,Plano,Ronald Streng
+4133,Tom Thumb 1785 - FM 3040,"1075 FM 3040 West, Lewisville, TX 75067",Off Premise,75067,Jeff Martin,BQ578686,Denton,Lewisville,James Liston
+4134,Social House - Ft. Worth,"840 Currie Street, Fort Worth, TX 76107",On Premise,76107,Taylor Coward,MB889557,Tarrant,Fort Worth,Joe Fronczek
+4136,Tom Thumb 3645 - E. 14th St.,"2200 E. 14th Street, Plano, TX 75074",Off Premise,75074,Brian Schick,BQ454314,Collin,Plano,Ronald Streng
+4139,Tom Thumb 2686 - W. Randol Mill,"1701 W. Randol Mill Rd., Arlington, TX 76012",Off Premise,76012,Justin Page,BQ579625,Tarrant,Arlington,James Liston
+4140,Tom Thumb 2578 - Firewheel,"2535 Firewheel Parkway, Garland, TX 75040",Off Premise,75040,Brandon Byrd,BQ604506,Dallas,Garland,Jose Vital
+4145,Hopdoddy - McKinney Ave,"3227 McKinney Ave, Suite C, Dallas, TX 75204",On Premise,75204,Harrison Boyland,MB868963,Dallas,Dallas,Joe Fronczek
+4148,Albertsons #4133 - FM 1382,"427 FM 1382 East, Cedar Hill, TX 75104",Off Premise,75104,Brandon Byrd,BQ829158,Dallas,Cedar Hill,Jose Vital
+4150,Albertsons #4278 - S Carrier Pkwy,"4126 S. Carrier Parkway, Grand Prairie, TX 75052",Off Premise,75052,Justin Page,BQ568589,Dallas,Grand Prairie,James Liston
+4158,Break Time,"4100 E. Park Blvd., Plano, TX 75074",Off Premise,75074,Brian Schick,BF871161,Collin,Plano,Jose Vital
+4162,Albertsons #4150 - Lake Worth,"6308 Lake Worth Blvd., Lake Worth, TX 76135",Off Premise,76135,Justin Page,BQ274202,Tarrant,Lake Worth,Justin Stryker
+4163,Albertsons #4223 - Clilfford St.,"9300 Clifford Street, Fort Worth, TX 76108",Off Premise,76108,Justin Page,BQ518674,Tarrant,Fort Worth,Joe Fronczek
+4164,Albertsons #4286 - W Freeway,"6700 W. Freeway, Fort Worth, TX 76116",Off Premise,76116,Justin Page,BQ281159,Tarrant,Fort Worth,Ronald Streng
+4165,Albertsons #4124 - Oakmont,"7400 Oakmont Blvd., Fort Worth, TX 76132",Off Premise,76132,Justin Page,BQ475441,Tarrant,Fort Worth,Joe Fronczek
+4177,Albertsons #4102 - N. Saginaw,"1201 N. Saginaw Blvd., Saginaw, TX 76179",Off Premise,76179,Jeff Martin,BQ521157,Tarrant,Saginaw,Justin Stryker
+4183,College Street Restaurant and Pub,"210 N. College St., Waxahachie, TX 75165",On Premise,75165,House Accounts DFW,RM722628,Ellis,Waxahachie,Brian Moody
+4189,Braindead Brewing,"2625 Main Street, Dallas, TX 75226",On Premise,75226,Mason Lowe,BG898097,Dallas,Dallas,Joe Fronczek
+4191,Old Texas Brewing Co.,"112 W. Ellison St., Burleson, TX 76028",On Premise,76028,Justin Page,RM839390,Johnson,Burleson,Jose Vital
+4192,Albertsons #4242 - Hwy 287,"6220 HWY 287, Arlington, TX 76017",Off Premise,76017,Justin Page,BQ576525,Tarrant,Arlington,James Liston
+4201,Fossil Creek Liquor - N Plano,"2240 Hwy 121, Plano, TX 75025",Off Premise,75025,Brian Schick,P867496,Collin,Plano,Ronald Streng
+4202,LA Burger - Richardson,"2000 N. Plano Road, Richardson, TX 75082",On Premise,75082,Harrison Boyland,BG899570,Dallas,Richardson,Jose Vital
+4207,Buffalo Bros Pizza Wings & Subs,"3015 S. University Dr., Fort Worth, TX 76109",On Premise,76109,Taylor Coward,MB722269,Tarrant,Fort Worth,Joe Fronczek
+4218,What's on Tap - Highland Village,"2570 Justin Rd., Suite 170, Highland Village, TX 75077",On Premise,75077,Nathan Zaremba,BG887952,Denton,Highland Village,James Liston
+4219,JJ's Fast Stop #294,"5401 Watuga Rd., Watauga, TX 76148",Off Premise,76148,Taylor Coward,BQ862464,Tarrant,Watauga,Justin Stryker
+4220,Albertsons #4269 - N Josey Ln,"2150 N. Josey Lane, Carrollton, TX 75006",Off Premise,75006,Jeff Martin,BQ569739,Dallas,Carrollton,Michael Weldon
+4226,Tom Thumb 1788 - Alma Dr.,"7801 Alma Dr., Plano, TX 75025",Off Premise,75025,Brian Schick,BQ603736,Collin,Plano,Ronald Streng
+4231,Wise Guys Pizzeria - Grapevine,"322 S. Parl Blvd., Unit 2, Grapevine, TX 76051",On Premise,76051,Nathan Zaremba,BG895832,Tarrant,Grapevine,Michael Weldon
+4232,Flamingo Beer Wine Beverages - Carrolton,"2810 E. Trinity Mills, Suite 219, Carrollton, TX 75006",Off Premise,75006,Jeff Martin,BQ626409,Dallas,Carrollton,Michael Weldon
+4233,Sandbar Cantina and Grill,"317 S. 2nd Avenue, Dallas, TX 75226",On Premise,75226,Mason Lowe,MB802527,Dallas,Dallas,Joe Fronczek
+4234,Fossil Creek Spirits - Westlake,"3 Village Circle #100, Westlake, TX 76262",Off Premise,76262,Jeff Martin,BF737876,Tarrant,Westlake,Justin Stryker
+4236,Lucy's Lot,"451 E. NW Highway, Grapevine, TX 76051",On Premise,76051,Nathan Zaremba,MB893131,Tarrant,Grapevine,Justin Stryker
+4237,Mark's Beer Barn,"2535 W. Prairie Street, Denton, TX 76201",Off Premise,76201,Jeff Martin,BQ811971,Denton,Denton,James Liston
+4238,World Market #323 - Garland,"550 Town Center Blvd., Garland, TX 75040",Off Premise,75040,Brandon Byrd,BQ630351,Dallas,Garland,Jose Vital
+4242,Kroger #599 - The Colony,"4620 StateHwy 121, Lewisville, TX 75056",Off Premise,75056,Jeff Martin,BQ898013,Denton,Lewisville,James Liston
+4250,Eskimo Hut Denton,"717 Sunset Street, Denton, TX 76201",Off Premise,76201,Jeff Martin,BG607864,Denton,Denton,James Liston
+4255,Rose City Draft House & Bar,"5393 S. Broadway, Tyler, TX 75705",On Premise,75705,Ronnie Esposito,N886485,Smith,Tyler,East Texas Drivers
+4256,Big D BBQ,"226 N. Walnut Creek Dr., Mansfield, TX 76063",On Premise,76063,Taylor Coward,BG895731,Tarrant,Mansfield,James Liston
+4259,Tom Thumb 3560 - Skillman,"8698 Skillman Street, Dallas, TX 75243",Off Premise,75243,Brandon Byrd,BQ764684,Dallas,Dallas,Joe Fronczek
+4271,Schrick's Liquor,"2801 Fort Worth Hwy., Hudson Oaks, TX 76087",Off Premise,76087,Taylor Coward,BF281270,Parker,Hudson Oaks,Justin Stryker
+4276,Albertsons #4296 - W Virgina,"6800 W. Virginia Street, McKinney, TX 75069",Off Premise,75069,Brian Schick,RM742716,Collin,McKinney,Ronald Streng
+4277,Albertsons #4234 - S. Central Expwy,"3001 S Central Expwy., McKinney, TX 75069",Off Premise,75069,Brian Schick,BQ562738,Collin,McKinney,Ronald Streng
+4281,Tom Thumb #4239 - S Westgate,"921 S. Westgate Way, Wylie, TX 75098",Off Premise,75098,Brian Schick,BQ648530,Collin,Wylie,Jose Vital
+4285,CiboDinivo,"1868 Sylvan Ave., Dallas, TX 75208",On Premise,75208,Harrison Boyland,BG891260,Dallas,Dallas,Joe Fronczek
+4289,East Hampton Sandwich Company,"1605 S. University Dr., Fort Worth, TX 76107",On Premise,76107,Taylor Coward,MB884345,Tarrant,Fort Worth,Joe Fronczek
+4290,Champps Kitchen & Bar,"885 W. John Carpenter Fwy., Irving, TX 75039",On Premise,75039,Nathan Zaremba,MB875515,Dallas,Irving,Ronald Streng
+4294,Albertsons #4289 - Garland Rd.,"9540 Garland Rd. #320, Dallas, TX 75218",Off Premise,75218,Brandon Byrd,BQ767332,Dallas,Dallas,James Hall
+4296,Albertsons #4152 - W. University,"2321 W. University Dr., Denton, TX 76201",Off Premise,76201,Jeff Martin,BQ273982,Denton,Denton,James Liston
+4297,Albertsons #4191 - FM 2181,"4351 FM 2181, Corinth, TX 76205",Off Premise,76205,Jeff Martin,BQ512167,Denton,Corinth,James Liston
+4298,World Market - Tyler,"8970 S. Broadway Ave., Ste. 136, Tyler, TX 75703",Off Premise,75703,Ronnie Esposito,BQ857792,Smith,Tyler,East Texas Drivers
+4301,Spec's #165 - S. Cooper,"3909 S. Cooper St., Arlington, TX 76015",Off Premise,76015,Jack Stephenson,BF889634,Tarrant,Arlington,James Liston
+4304,Albertsons #4260 - E Buckingham,"2165 E. Buckingham Rd., Richardson, TX 75081",Off Premise,75081,Brandon Byrd,BQ648555,Dallas,Richardson,Jose Vital
+4312,Albertsons #4265 - Broadway,"5710 Broadway Blvd., Garland, TX 75043",Off Premise,75043,Brandon Byrd,BQ604517,Dallas,Garland,Jose Vital
+4319,Melissa Beverage,"2315 Sam Rayburn Hwy., Melissa, TX 75454",Off Premise,75454,Brian Schick,BQ634166,Collin,Melissa,Jose Vital
+4324,Vintage Grille & Museum,"202 Fort Worth Hwy., Weatherford, TX 76086",On Premise,76086,Taylor Coward,RM891644,Parker,Weatherford,Ronald Streng
+4334,Celt Irish Pub,"100 N. Tennessee Street, McKinney, TX 75069",On Premise,75069,Hudson Boyd,RM874970,Collin,McKinney,Ronald Streng
+4343,Craft Pride,"61 Rainey St., Austin, TX 78701",On Premise,78701,Tim Vela,BG808443,Travis,AUSTIN,Joe Castro
+4347,Little Elm Crafthouse,"850 West Eldorado Parkway, Suite 700, Little Elm, TX 75068",On Premise,75068,Hudson Boyd,BG910344,Denton,Little Elm,Michael Weldon
+4349,Noble Rey Brewing Company,"2636 Farrington Street, Dallas, TX 75207",On Premise,75207,Harrison Boyland,BG910959,Dallas,Dallas,Joe Fronczek
+4350,Ron's Corner - Addison,"4145 Belt Line Road, Suite 200, Addison, TX 75001",On Premise,75001,Harrison Boyland,MB839346,Dallas,Addison,Jose Vital
+4352,Aspen Creek,"4300 W Airport Fwy, Irving, TX 75062",On Premise,75062,Nathan Zaremba,BQ123456,Dallas,Irving,Ronald Streng
+4355,The Liquor Outpost #1 - University Drive,"1010 W University Drive, Denton, TX 76201",Off Premise,76201,Jeff Martin,BF897125,Denton,Denton,James Liston
+4367,AJ'S On Main,"651 South Main Street, Grapevine, TX 76051",On Premise,76051,Nathan Zaremba,MB834646,Tarrant,Grapevine,Justin Stryker
+4374,Barley & Board,"100 W. Oak Street, Suite 160, Denton, TX 76201",On Premise,76201,Nathan Zaremba,MB911884,Denton,Denton,James Liston
+4377,Cedar Springs Tap House,"4123 Cedar Springs Rd., Dallas, TX 75219",On Premise,75219,Harrison Boyland,MB880587,Dallas,Dallas,James Hall
+4378,Lone Star Attitude Burger Co.,"113 W. Hickory Street, Denton, TX 76201",On Premise,76201,Nathan Zaremba,RM839263,Denton,Denton,James Liston
+4379,The Brass Tap - Allen,"2540 N Watters Rd., Suite 180, Allen, TX 75013",On Premise,75013,Hudson Boyd,N896720,Collin,Allen,Ronald Streng
+4381,Village Burger Bar - Inwood,"12300 Inwood Rd., Suite 210, Dallas, TX 75244",On Premise,75244,Harrison Boyland,RM850377,Dallas,Dallas,Justin Stryker
+4382,WFM #356 - McKinney Ave,"2510 McKinney Avenue, Dallas, TX 75201",Off Premise,75201,Brandon Byrd,BG915259,Dallas,Dallas,Joe Fronczek
+4387,Hurst Beverage,"781 W. Bedford Euless Rd., Hurst, TX 76053",Off Premise,76053,Justin Page,BQ577307,Tarrant,Hurst,Ronald Streng
+4392,Lucky Lou's,"1207 Hickory St., Denton, TX 76201",On Premise,76201,Nathan Zaremba,MB909159,Denton,Denton,James Liston
+4401,The Bearded Monk,"122 E McKinney St, Denton, TX 76201",On Premise,76201,Nathan Zaremba,BG918790,Denton,Denton,James Liston
+4402,Empire Craft Beer and Wine - Plano,"901 Spring Creek pkwy Suite 145A, Plano, TX 75023",Off Premise,75023,Brian Schick,BF910272,Collin,Plano,Ronald Streng
+4403,AB Beer and Wine - Royse City,"125 E Main Street, Royse City, TX 75189",Off Premise,75189,Brandon Byrd,BF971975,Rockwall,Royse City,Jose Vital
+4406,Foster's Place Restaurant & Pub,"15244 TX Hwy 11 E, Pickton, TX 75471",On Premise,75471,House Accounts DFW,N761072,Hopkins,Pickton,East Texas Drivers
+4407,Weiss Enterprises Inc.,"P.O. Box 150406, Dallas, TX 75315",On Premise,75315,House Accounts DFW,BG542157,Dallas,Dallas,Charles_3
+4413,Bar Louie - Arlington,"4001 Bagpiper Way, Arlington, TX 76018",On Premise,76018,Taylor Coward,MB853373,Tarrant,Arlington,James Liston
+4416,Tom Thumb 3576 - Grapevine,"4000 William D Tate, Grapevine, TX 76051",Off Premise,76051,Jeff Martin,Is Null,Tarrant,Grapevine,Justin Stryker
+4419,Shep's Place,"816 S Main St, Weatherford, TX 76086",On Premise,76086,Taylor Coward,RM915732,Parker,Weatherford,Ronald Streng
+4428,PK's - Alta Mesa,"507 Alta Mere Dr, Fort Worth, TX 76114",Off Premise,76114,Justin Page,BF917389,Tarrant,Fort Worth,Joe Fronczek
+4431,Tom Thumb 2526 - Arapaho Richardson,"39 Arapaho Village, Richardson, TX 75080",Off Premise,75080,Brandon Byrd,BQ649117,Dallas,Richardson,Jose Vital
+4440,"Stockyards Hotel, LLC.","109 E Exchange Ave, Ft. Worth, TX 76164",On Premise,76164,Taylor Coward,MB489158,Tarrant,Ft. Worth,Joe Fronczek
+4442,Tom Thumb 0232 - Alton Rd,"3563 Alton Rd, Fort Worth, TX 76109",Off Premise,76109,Justin Page,BQ647914,Tarrant,Fort Worth,Joe Fronczek
+4444,Tom Thumb 1780 - Keller Pkwy,"1000 Keller Pkwy, Keller, TX 76248",Off Premise,76248,Jeff Martin,BQ463094,Tarrant,Keller,Justin Stryker
+4445,Tom Thumb 3622 - Camp Bowie,"6377 Camp Bowie Blvd, Fort Worth, TX 76116",Off Premise,76116,Justin Page,BQ455454,Tarrant,Fort Worth,Joe Fronczek
+4446,Tom Thumb 3625 - Park Blvd,"302 S. Park Blvd, Grapevine, TX 76051",Off Premise,76051,Jeff Martin,BQ455347,Tarrant,Grapevine,Michael Weldon
+4447,Tom Thumb 1786 - Carrier Pkwy,"4215 S. Carrier Pkwy, Grand Prairie, TX 75052",Off Premise,75052,Justin Page,BQ568806,Dallas,Grand Prairie,James Liston
+4448,Tom Thumb 3617 - W. Park Row,"2611 W. Park Row, Arlington, TX 76013",Off Premise,76013,Justin Page,BQ580481,Tarrant,Arlington,Joe Fronczek
+4450,Richardson Food Truck Park,"522 Bishop Ave, Richardson, TX 75081",On Premise,75081,Harrison Boyland,N914710,Dallas,Richardson,Jose Vital
+4451,Ringo's Pub,"5865 Kincaid Rd, Plano, TX 75024",On Premise,75024,Hudson Boyd,N723607,Collin,Plano,Ronald Streng
+4456,Total Wine #511 - S. Loop 288,"1800 South Loop 288, Denton, TX 76205",Off Premise,76205,Jack Stephenson,P915740,Denton,Denton,James Liston
+4464,The Liquor Outpost,"771 W Round Grove Rd #150, Lewisville, TX 75067",Off Premise,75067,Jeff Martin,P921729,Denton,Lewisville,James Liston
+4472,Pouring Glory,"1001 Bryan Avenue, Fort Worth, TX 76104",On Premise,76104,Taylor Coward,BG921674,Tarrant,Fort Worth,Joe Fronczek
+4478,Harley's #20,"1401 W. Marshalll Avenue, Longview, TX 756045",Off Premise,756045,Ronnie Esposito,P692935,Gregg,Longview,East Texas Drivers
+4479,Harley's #23,"4697 Estes Parkway, Longview, TX 75603",Off Premise,75603,Ronnie Esposito,P692940,Gregg,Longview,East Texas Drivers
+4484,Bottle Giant,"1751 Eastchase Pkwy., Fort Worth, TX 76120",Off Premise,76120,Justin Page,BF553504,Tarrant,Fort Worth,James Liston
+4487,Tillman's Roadhouse,"324 W 7th Street, Dallas, TX 75208",On Premise,75208,Harrison Boyland,RM794186,Dallas,Dallas,Joe Fronczek
+4488,Cork N Bottle - Royse City,"520 IH 30 East, Royse City, TX 75189",Off Premise,75189,Brandon Byrd,BQ887116,Rockwall,Royse City,Jose Vital
+4490,Patina Green Home and Market,"116 N.Tennessee Street, Suite 102, McKinney, TX 75069",Off Premise,75069,Brian Schick,BG902099,Collin,McKinney,Ronald Streng
+4492,Tom Thumb 2559 - Beltline,"3535 N. Beltline, Irving, TX 75062",Off Premise,75062,Justin Page,BQ814298,Dallas,Irving,Ronald Streng
+4496,Tom Thumb 1540 - Forest Ln,"3757 Forest ln, Dallas, TX 75234",Off Premise,75234,Brandon Byrd,BQ570798,Dallas,Dallas,Justin Stryker
+4498,Taps & Caps - Denton,"505 W. Hickory Street, Denton, TX 75056",On Premise,75056,Mason Lowe,BG917221,Denton,Denton,James Liston
+4501,Albertsons #4166 - Desoto,"1300 Beltline west, Desoto, TX 75115",Off Premise,75115,Brandon Byrd,RM742716,Dallas,Desoto,Jose Vital
+4502,Tom Thumb 3563 - Duncanville,"633 Wheatland Rd, Duncanville, TX 75116",Off Premise,75116,Brandon Byrd,BQ546127,Dallas,Duncanville,James Liston
+4503,Albertsons #4231 - Grand Prairie,"215 N Carrier Pkwy, Grand Prairie, TX 75050",Off Premise,75050,Justin Page,BQ568587,Dallas,Grand Prairie,Ronald Streng
+4505,Midway Craft House,"1115 W. Hickory Street, Suite 101, Denton, TX 76201",On Premise,76201,Nathan Zaremba,BG931022,Denton,Denton,James Liston
+4507,Albertsons #4129 - Mesquite,"2828 Motley, Mesquite, TX 75150",Off Premise,75150,Brandon Byrd,BQ841588,Dallas,Mesquite,Jose Vital
+4508,Albertsons #4187 - Mesquite,"1500 S Belt Line, Mesquite, TX 75149",Off Premise,75149,Brandon Byrd,BQ779677,Dallas,Mesquite,Jose Vital
+4509,Goodfriend Package Store,"1155 Peavy Road, Dallas, TX 75218",Off Premise,75218,Mason Lowe,BQ918198,Dallas,Dallas,James Hall
+4511,Tom Thumb 1973 - Snider Plaza,"7000Snider Plaza, University Park, TX 75205",Off Premise,75205,Brandon Byrd,BG765982,Dallas,University Park,Jose Vital
+4512,Tom Thumb 2503 - Villanova,"4001 Villanova Drive, Dallas, TX 75225",Off Premise,75225,Brandon Byrd,BQ767475,Dallas,Dallas,Jose Vital
+4514,Tom Thumb 3522 - Royal Lane,"5959 Royal Lane, Dallas, TX 75230",Off Premise,75230,Brandon Byrd,BQ764702,Dallas,Dallas,Justin Stryker
+4516,Tom Thumb 2588 - S MacArthur,"820 S. MacArthur Road, Coppell, TX 75019",Off Premise,75019,Jeff Martin,BQ650346,Dallas,Coppell,Ronald Streng
+4518,Tom Thumb 1784 - Pioneer Road,"1501 Pioneer Road, Mesquite, TX 75149",Off Premise,75149,Brandon Byrd,BQ778674,Dallas,Mesquite,Jose Vital
+4519,Omni Hotel - Ft Worth,"1300 Houston Street, Ft Worth, TX 76102",On Premise,76102,Taylor Coward,MB708988,Tarrant,Ft Worth,Joe Fronczek
+4520,World Market #184 - Oak Lawn,"3888 Oak Lawn Ave, Suite 111, Dallas, TX 75219",Off Premise,75219,Brandon Byrd,BQ518573,Dallas,Dallas,James Hall
+4523,Tom Thumb 2554 - Independence,"3100 Independence Pkwy, Plano, TX 75075",Off Premise,75075,Brian Schick,BQ454647,Collin,Plano,Ronald Streng
+4524,Dallas Craft Company - Keller,"1821 S. Main Street, Keller, TX 76248",On Premise,76248,Nathan Zaremba,MB932514,Tarrant,Keller,Justin Stryker
+4529,West Oak Coffee Bar,"114 W. Oak Street, Denton, TX 76201",On Premise,76201,Nathan Zaremba,BG891400,Denton,Denton,James Liston
+4530,OPA! Greek Taverna,"3801 Lakeview Pkwy., Suite 600, Rowlett, TX 75088",On Premise,75088,Hudson Boyd,RM837035,Dallas,Rowlett,Jose Vital
+4531,Free Play Arcade - Richardson,"1730 E. Belt Line Road, Richardson, TX 75081",On Premise,75081,Harrison Boyland,RM926876,Dallas,Richardson,Jose Vital
+4533,Velvet Taco - Fort Worth,"2700 W. 7th Street, Fort Worth, TX 76107",On Premise,76107,Taylor Coward,MB858904,Tarrant,Fort Worth,Joe Fronczek
+4534,Hannah's,"111 W. Mulberry Street, Denton, TX 76202",On Premise,76202,Nathan Zaremba,RM654872,Denton,Denton,James Liston
+4536,Proper,"409 W. Magnolia Avenue, Fort Worth, TX 76104",On Premise,76104,Taylor Coward,MB854395,Tarrant,Fort Worth,Joe Fronczek
+4540,Old Chicago - Fort Worth,"8933 N Freeway, Fort Worth, TX 76117",On Premise,76117,Nathan Zaremba,RM930172,Tarrant,Fort Worth,Justin Stryker
+4547,BB Bop Seoul Kitchen,"828 W. Davis Street, Dallas, TX 75208",On Premise,75208,Harrison Boyland,RM915288,Dallas,Dallas,Joe Fronczek
+4552,Ice House Beverages - E. Beltline,"940 E. Beltline Road, # 100, Richardson, TX 75081",Off Premise,75081,Brandon Byrd,BQ849418,Dallas,Richardson,Jose Vital
+4559,Little Red Wasp,"808 Main Street, Fort Worth, TX 76102",On Premise,76102,Taylor Coward,MB847693,Tarrant,Fort Worth,Joe Fronczek
+4564,Chubbs Liquor Beer & Wine,"13989 HWY 121 South, Trenton, TX 75490",Off Premise,75490,Brian Schick,BF827133,None,Trenton,Jose Vital
+4567,PK's - Camp Bowie,"3204 Camp Bowie, Suite 102, Fort Worth, TX 76107",Off Premise,76107,Justin Page,BF917618,Tarrant,Fort Worth,Joe Fronczek
+4568,Howdy Doody,"1625 Scripture Street, Denton, TX 76201",Off Premise,76201,Jeff Martin,BF856241,Denton,Denton,James Liston
+4578,Old Iron Post,"101 N. Travis Street, Sherman, TX 75091",On Premise,75091,Brian Schick,RM898525,Grayson,Sherman,Jose Vital
+4579,Fossil Creek Liquor - Denison,"2730 Hwy 75 South, Denison, TX 75020",Off Premise,75020,Brian Schick,BF735698,Grayson,Denison,Jose Vital
+4581,Green Market Natural Foods,"1909 Texoma Pkwy., Suite 2, Sherman, TX 75090",Off Premise,75090,Brian Schick,BQ838784,Grayson,Sherman,Jose Vital
+4583,Fossil Creek Liquor - Anna,"807 S. Central Expwy., Anna, TX 75409",Off Premise,75409,Brian Schick,BF624845,Collin,Anna,Jose Vital
+4585,Rex's Seafood - Farmers Market,"920 S. Harwood, Suite 150, Dallas, TX 75201",On Premise,75201,Mason Lowe,BG927860,Dallas,Dallas,James Hall
+4594,J.R. Bentley's,"406 W. Abram Street, Arlington, TX 76010",On Premise,76010,Taylor Coward,MB578811,Tarrant,Arlington,Joe Fronczek
+4605,The Horney Toad,"9530 Camp Bowie West, Fort Worth, TX 76116",On Premise,76116,Taylor Coward,MB782840,Tarrant,Fort Worth,Joe Fronczek
+4608,Justice Burger,"105 College Avenue, Weatherford, TX 76086",On Premise,76086,Taylor Coward,BG934702,Parker,Weatherford,Ronald Streng
+4609,II Brothers' Grill,"8308 Preston Road, Suite #198, Plano, TX 75024",On Premise,75024,Hudson Boyd,RM693593,Collin,Plano,Ronald Streng
+4611,Poag Mahone's Pub,"700 Carroll Street, Fort Worth, TX 76107",On Premise,76107,Taylor Coward,MB688966,Tarrant,Fort Worth,Joe Fronczek
+4615,MLK Food Store,"2915 E. MLK, Jr. Blvd., AUSTIN, TX 78702",On Premise,78702,Tim Vela,BQ716798,Travis,AUSTIN,Manny Chavez
+4616,Upper 90,"961 W. Magnolia Ave., Suite C, Fort Worth, TX 76104",On Premise,76104,Taylor Coward,MB895395,Tarrant,Fort Worth,Joe Fronczek
+4619,Rowlett Liquor,"6605 Dalrock Rd, Rowlett, TX 75089",Off Premise,75089,Brandon Byrd,BF916901,Dallas,Rowlett,Jose Vital
+4621,WFM #359 - Renner Road (Cityline),"1411 E. Renner Road, Richardson, TX 75082",Off Premise,75082,Brian Schick,BQ939112,Collin,Richardson,Jose Vital
+4622,Goody Goody - Anna,"824 S. Central Expressway, Anna, TX 75409",Off Premise,75409,Brian Schick,BF731501,Collin,Anna,Jose Vital
+4628,Mac's Corner,"1098 E. NW Hwy, Grapevine, TX 76051",Off Premise,76051,Jeff Martin,BQ674454,Tarrant,Grapevine,Justin Stryker
+4631,Gilley's Dallas,"1135 S. Lamar Street, Dallas, TX 75215",On Premise,75215,Mason Lowe,MB558794,Dallas,Dallas,James Hall
+4635,Stirups Liquor,"1842 FM 407 East, Suite 2, Bartonville, TX 76226",Off Premise,76226,Jeff Martin,BF865231,Denton,Bartonville,Justin Stryker
+4637,Taco Heads - Fort Worth,"1812 Montgomery St., Fort Worth, TX 76107",On Premise,76107,Taylor Coward,MB925336,Tarrant,Fort Worth,Joe Fronczek
+4638,Albertsons #0716 - Denison,"200 W Crawford St., Denison, TX 75020",Off Premise,75020,Brian Schick,BQ274232,Grayson,Denison,Jose Vital
+4642,Taverna Rossa - Southlake,"1151 E Southlake Blvd Suite 300, Southlake, TX 76092",On Premise,76092,Nathan Zaremba,MB938815,Tarrant,Southlake,Justin Stryker
+4644,T&P Tavern,"221 W. Lancaster Avenue, Fort Worth, TX 76102",On Premise,76102,Taylor Coward,MB690923,Tarrant,Fort Worth,Joe Fronczek
+4657,Hooters - Irving (080360429-duns),"2522 N. Belt Line Road, Irving, TX 75062",On Premise,75062,Nathan Zaremba,MB805281,Dallas,Irving,Ronald Streng
+4680,Downtown Sherman Preservation,"PO Box 2054, Sherman, TX 76091",On Premise,76091,House Accounts DFW,SB2446843,Grayson,Sherman,Jose Vital
+4681,Back Porch Grill & Tavern,"210 N Main Street, Grapevine, TX 76051",On Premise,76051,Nathan Zaremba,MB907263,Tarrant,Grapevine,Justin Stryker
+4682,Lone Star Conoco,"3928 Hwy 121, Bedford, TX 76021",Off Premise,76021,Justin Page,BQ625675,Tarrant,Bedford,Justin Stryker
+4684,Intrinsic Smokehouse & Brewery,"509 W. State Street, Garland, TX 75040",On Premise,75040,Hudson Boyd,BG918272,Dallas,Garland,Jose Vital
+4688,Hop & Vine,"5616 W. Loop 1604 N Ste 109, San Antonio, TX 78253",On Premise,78253,Josh Jennings,MB934646,Bexar,San Antonio,Charles_3
+4689,Brookshire Grocery #127 - Pottsboro,"11205 HWY 289 North, Pottsboro, TX 75076",Off Premise,75076,Brian Schick,BQ834466,Grayson,Pottsboro,Jose Vital
+4690,Albertsons #4290 - Azle,"480 Northwest Pkwy., Azle, TX 76020",Off Premise,76020,Jeff Martin,BQ443882,Tarrant,Azle,Justin Stryker
+4694,Albertsons #0226 - Sherman,"100 East Taylor Street, Sherman, TX 75090",Off Premise,75090,Brian Schick,BQ608225,Grayson,Sherman,Jose Vital
+4695,Fossil Creek Liquor - Little Elm,"27100 US Highway 380, Little Elm, TX 75068",Off Premise,75068,Jeff Martin,P855629,Denton,Little Elm,Michael Weldon
+4700,Street's Fine Chicken - Cedar Springs,"3857 Cedar Springs Road, Dallas, TX 75219",On Premise,75219,Harrison Boyland,MB942067,Dallas,Dallas,James Hall
+4701,Brookshire Grocery #54 - Bonham,"2228 Island Bayou Road, Bonham, TX 75418",Off Premise,75418,Brian Schick,BQ876067,Fannin,Bonham,Jose Vital
+4702,Albertsons #4106 - Euless,"1155 N. Main Street, Euless, TX 76039",Off Premise,76039,Justin Page,BQ567979,Tarrant,Euless,Ronald Streng
+4705,Earl's 377 Pizza,"427 Hwy 377, Argyle, TX 76226",On Premise,76226,Nathan Zaremba,RM942867,Denton,Argyle,Justin Stryker
+4707,Celtics Liquor,"4625 Boat Club Rd., Suite 265, Fort Worth, TX 76002",Off Premise,76002,Justin Page,BF888297,Tarrant,Fort Worth,Justin Stryker
+4710,Brookshire Grocery #131 - Anna,"1325 W White Street, Anna, TX 75049",Off Premise,75049,Brian Schick,BQ696744,Collin,Anna,Jose Vital
+4713,Albertsons #4294 - Cleburne,"210 W. Katherine P. Raines Rd., Cleburne, TX 76033",Off Premise,76033,Justin Page,BQ726805,Johnson,Cleburne,Jose Vital
+4716,Blaze Pizza - Arlington,"841 E. Lamar Blvd., Suite 841, Arlington, TX 76011",On Premise,76011,Taylor Coward,BG936623,Tarrant,Arlington,James Liston
+4722,Blatt Beer and Table,"7859 Walnut Hill Lane, Suite 170, Dallas, TX 75230",On Premise,75230,Harrison Boyland,RM934442,Dallas,Dallas,Joe Fronczek
+4725,Goody Goody - Rowlett,"3500 Lakeview Pkwy., Suite 100, Rowlett, TX 75088",Off Premise,75088,Brandon Byrd,BF928705,Dallas,Rowlett,Jose Vital
+4728,Goody Goody - Fort Worth,"4740 SW Loop 820, Fort Worth, TX 76109",Off Premise,76109,Justin Page,P679671,Tarrant,Fort Worth,Joe Fronczek
+4732,Eskimo Hut Lubbock,"5412 Slide Road, Suite 700, Lubbock, TX 75247",On Premise,75247,House Accounts DFW,BG922028,None,Lubbock,None
+4735,Spec's #00 - Smith Street,"2410 Smith Street, Houston, TX 75247",Off Premise,75247,House Accounts DFW,BF270903,Harris,HOUSTON,David Cash
+4736,Albertsons #4277 - Sycamore School,"3525 Sycamore School Road, Fort Worth, TX 76133",Off Premise,76133,Justin Page,BQ228472,Tarrant,Fort Worth,Jose Vital
+4737,The Ashen Rose,"2809 Lee Street, Greenville, TX 75401",On Premise,75401,Torie Shelton,RM909065,Hunt,Greenville,East Texas Drivers
+4740,Clearfork Food Truck Park,"1541 Merrimac Cr., Fort Worth, TX 76107",On Premise,76107,Taylor Coward,BG853178,Tarrant,Fort Worth,Joe Fronczek
+4742,Spec's #152 - Preston Road,"8123 Preston Road, Dallas, TX 75225",Off Premise,75225,Torie Shelton,BF842523,Dallas,Dallas,James Hall
+4744,Thirsty Growler,"5733 Hwy 121, Suite 230, The Colony, TX 75056",On Premise,75056,Hudson Boyd,BG932667,Denton,The Colony,James Liston
+4745,Old Chicago - Garland,"1380 W. Centerville Raod, Garland, TX 75041",On Premise,75041,Hudson Boyd,RM945692,Dallas,Garland,Jose Vital
+4750,Discount Beer & Wine,"2240 Walnut Hill Lane, Irving, TX 75038",Off Premise,75038,Justin Page,BQ750030,Dallas,Irving,Ronald Streng
+4756,Cork & Pig Tavern,"2869 Crockett Street, Fort Worth, TX 76107",On Premise,76107,Taylor Coward,MB841751,Tarrant,Fort Worth,Joe Fronczek
+4757,Grub Burger Bar - Plano,"8255 Preston Road, Suite 300, Plano, TX 75024",On Premise,75024,Hudson Boyd,RM947192,Collin,Plano,Ronald Streng
+4758,Texadelphia - Richardson,"100 S. Central Expwy., Suite 44, Richardson, TX 75080",On Premise,75080,Harrison Boyland,RM933334,Dallas,Richardson,Jose Vital
+4761,Rock & Brews,"5351 Nebraska Furniture Mart Dr., The Colony, TX 75056",On Premise,75056,Hudson Boyd,MB935584,Denton,The Colony,James Liston
+4763,Charlie's Burgers and Street Tacos,"213 E. Rusk Street, Rockwall, TX 75087",On Premise,75087,Hudson Boyd,BG880199,Rockwall,Rockwall,Jose Vital
+4766,Shipping and Receiving,"201 S. Calhoun Street, Suite 107, Fort Worth, TX 76104",On Premise,76104,Taylor Coward,MB833989,Tarrant,Fort Worth,Joe Fronczek
+4767,Spec's #167 - Lewisville,"2416 S. Stemmons Freeway, Lewisville, TX 75067",Off Premise,75067,Jack Stephenson,BF919844,Denton,Lewisville,James Liston
+4783,Mad Hatter Pub,"706 Carroll Street, Fort Worth, TX 76107",On Premise,76107,Taylor Coward,MB871180,Tarrant,Fort Worth,Joe Fronczek
+4792,Eskimo Hut Arlington,"1001 W Arkansas Ln., Suite 100, Arlington, TX 76013",Off Premise,76013,Justin Page,BG933993,Tarrant,Arlington,Joe Fronczek
+4793,Blaze Pizza - Fort Worth,"5925 Convair Drive, Suite 521, Fort Worth, TX 76109",On Premise,76109,Taylor Coward,BG949297,Tarrant,Fort Worth,Joe Fronczek
+4797,Chicotsky's Liquor Store,"3429 W. 7th Street, Fort Worth, TX 76107",Off Premise,76107,Justin Page,BF213929,Tarrant,Fort Worth,Joe Fronczek
+4798,Hopdoddy - Addison,"5100 Belt Line Road, Suite 502, Addison, TX 75254",On Premise,75254,Harrison Boyland,MB875004,Dallas,Addison,Jose Vital
+4799,Monkey King - Dallas,"2933 Main Street, Dallas, TX 75226",On Premise,75226,Mason Lowe,BG941281,Dallas,Dallas,Joe Fronczek
+4801,Whip In - Gaston Ave.,"7233 Gaston Avenue, Dallas, TX 75214",On Premise,75214,Brandon Byrd,BF190071,Dallas,Dallas,James Hall
+4804,Urban Crust,"1006 E 15th St., Plano, TX 75074",On Premise,75074,Hudson Boyd,RM710349,Collin,Plano,Ronald Streng
+4809,Ships,"1613 Greenville Avenue, Dallas, TX 75206",On Premise,75206,Mason Lowe,MB933357,Dallas,Dallas,Joe Fronczek
+4812,Bru City - Euless,"13000 Trinity Blvd., Suite 150, Euless, TX 76040",On Premise,76040,Nathan Zaremba,BG933449,Tarrant,Euless,Ronald Streng
+4828,Good Union Urban BBQ,"1150 State Street, Suite 150, Richardson, TX 75082",On Premise,75082,Harrison Boyland,RM927880,Collin,Richardson,Ronald Streng
+4830,City Limits,"4521 Texoma Parkway, Sherman, TX 75090",On Premise,75090,Brian Schick,RM615699,Grayson,Sherman,Jose Vital
+4831,Goody Goody - Garland Road,"7729 Garland Road, Dallas, TX 75218",Off Premise,75218,Brandon Byrd,BF949793,Dallas,Dallas,James Hall
+4838,Loy Lake Mobil,"3001 Loy Lake Road, Sherman, TX 75090",Off Premise,75090,Brian Schick,BF789428,Grayson,Sherman,Jose Vital
+4841,Pickles BBQ & Icehouse,"8247 Rufe Snow Dr., Suite 800, Watauga, TX 76148",On Premise,76148,Nathan Zaremba,MB886534,Tarrant,Watauga,Justin Stryker
+4843,Eastbound & Down Ice House,"3826 Ross Avenue, Dallas, TX 75204",On Premise,75204,Mason Lowe,MB939927,Dallas,Dallas,James Hall
+4856,What's on Tap - Keller,"201 Town Center Land, Keller, TX 76248",On Premise,76248,Nathan Zaremba,BG954292,Tarrant,Keller,Justin Stryker
+4863,Old Chicago - Waco,"4641 S. Jack Kultgen Expwy., Waco, TX 76711",On Premise,76711,Mark Molkenbuhr,MB956151,McLennan,Waco,James Hall
+4867,Amphibian Stage Productions,"120 S. Main Street, Fort Worth, TX 76104",On Premise,76104,Taylor Coward,BG826480,Tarrant,Fort Worth,Joe Fronczek
+4872,Flight on Eagle Mountain Lake,"9307 Boat Club Road, Suite B, Fort Worth, TX 76179",On Premise,76179,Jeff Martin,MB865745,Tarrant,Fort Worth,Justin Stryker
+4876,Cricket's Grill & Draft House,"221 May Street, Waco, TX 75247",On Premise,75247,Mark Molkenbuhr,MB466389,McLennan,Waco,East Texas Drivers
+4882,Juicy's LLC,"1229 Admiral Nimitz Circle, Dallas, TX 75247",On Premise,75247,House Accounts DFW,BG819183,Dallas,Dallas,James Hall
+4883,WFM #10332 - Fort Worth,"3720 Vision Drive, Fort Worth, TX 76109",Off Premise,76109,Justin Page,BG959000,Tarrant,Fort Worth,Joe Fronczek
+4884,Randol Mill Beverage,"9051 Randol Mill Road '121', Fort Worth, TX 76120",Off Premise,76120,Justin Page,P905193,Tarrant,Fort Worth,James Liston
+4888,HEB 714 Lakeway,"2000 RR 620, LAKEWAY, TX 78734",Off Premise,78734,Josh Jennings,BF909314,Travis,LAKEWAY,Manny Chavez
+4889,1ST Food Mart - 1st St,"1410 S 1ST STREET, AUSTIN, TX 78704",Off Premise,78704,Tim Vela,BQ793451,Travis,AUSTIN,Joe Castro
+4900,Alamo City Liquors -Thousand Oaks,"2943 THOUSAND OAKS SUITE 3, San Antonio, TX 78247",Off Premise,78247,Josh Jennings,BF613222,Bexar,San Antonio,Joe Castro
+4907,Angel's Icehouse - _Hwy 71,"21815 HWY 71 WEST, Spicewood, TX 78669",On Premise,78669,Josh Jennings,MB553470,Travis,Spicewood,Manny Chavez
+4923,Banger's Sausage House & Beer Garden,"79 RAINEY ST, AUSTIN, TX 78701",On Premise,78701,Tim Vela,BG808414,Travis,AUSTIN,Joe Castro
+4928,Barton Hill Food Mart - Lamar,"2900 S. LAMAR, AUSTIN, TX 78704",Off Premise,78704,Tim Vela,BQ718900,Travis,AUSTIN,Manny Chavez
+4929,Barton Hills Market 1 - Barton Hills,"1220 BARTON HILLS DR., AUSTIN, TX 78704",Off Premise,78704,Tim Vela,BQ745745,Travis,AUSTIN,Manny Chavez
+4930,Beatniks Market - Manchaca,"4415 MANCHACA ROAD, AUSTIN, TX 78745",Off Premise,78745,Tim Vela,BQ878699,Travis,AUSTIN,Manny Chavez
+4944,Bread Basket - 7th St.,"2150 _E 7TH ST, AUSTIN, TX 78702",Off Premise,78702,Tim Vela,BQ550573,Travis,AUSTIN,Brian Moody
+4945,Bread Basket WESTGATE,"8801 WESTGATE BLVD, AUSTIN, TX 78757",Off Premise,78757,Tim Vela,BQ774402,Travis,AUSTIN,Brian Moody
+4946,Bread Basket HOLLY ST,"1514 HOLLY ST, AUSTIN, TX 78702",Off Premise,78702,Tim Vela,BQ463324,Travis,AUSTIN,Brian Moody
+4948,Brodie Park Market BRODIE,"9001 BRODIE LN SUITE A1, AUSTIN, TX 78748",Off Premise,78748,Tim Vela,BQ737083,Travis,AUSTIN,Joe Castro
+4957,C Mart 6 VILLAGE CENTER,"7007 VILLAGE CENTER DR, AUSTIN, TX 78731",Off Premise,78731,Joshua Perez,BQ489108,Travis,AUSTIN,Joe Castro
+4981,Cmart Icehouse W KOENING,"1308 W KOENING LANE, AUSTIN, TX 78756",Off Premise,78756,Tim Vela,BQ809453,Travis,AUSTIN,Joe Castro
+4984,Congress Express S CONGRESS,"3630 S CONGRESS AVENUE, AUSTIN, TX 78704",Off Premise,78704,Tim Vela,BQ769069,Travis,AUSTIN,None
+5046,Growler Room BURNET RD.,"6800 BURNET ROAD SUITE 2, AUSTIN, TX 78757",On Premise,78757,Joshua Perez,BG826982,Travis,AUSTIN,Joe Castro
+5053,Halls Wine & Spirits GLADE RD.,"4200 GLADE ROAD, Colleyville, TX 76034",Off Premise,76034,Jeff Martin,BF759091,Tarrant_2,Colleyville,Michael Weldon
+5068,HEB 014 S FM 1626,"5401 SOUTH FM 1626, KYLE, TX 78640",Off Premise,78640,Josh Jennings,BF660034,Hays,KYLE,Joe Castro
+5072,HEB 029 WESTLAKE HILLS,"701 CAPITAL OF TX HWY BLDG C, WEST LAKE HILLS, TX 78746",Off Premise,78746,Tim Vela,BF679896,Travis,WEST LAKE HILLS,Manny Chavez
+5073,HEB 031 N HWY 183,"12860 HWY 183 NORTH, AUSTIN, TX 78750",Off Premise,78750,Joshua Perez,BF677732,Williamson,AUSTIN,Manny Chavez
+5079,HEB 068 W. SLAUGHTER,"5800 W. SLAUGHTER LN BLDG A, AUSTIN, TX 78749",Off Premise,78749,Tim Vela,BF625848,Travis,AUSTIN,Manny Chavez
+5082,HEB 628 Gas Station E. RIVERSIDE,"2508 E. RIVERSIDE DR, AUSTIN, TX 78741",Off Premise,78741,Tim Vela,BF121113,Travis,AUSTIN,Brian Moody
+5111,HEB 388 PARMER LN,"6001 PARMER LANE, AUSTIN, TX 78727",Off Premise,78727,Joshua Perez,BF319637,Travis,AUSTIN,Manny Chavez
+5114,HEB 404 Bee Caves,"12400 HWY 71 WEST, BEE CAVE, TX 78733",Off Premise,78733,Josh Jennings,BF439937,Travis,BEE CAVE,Manny Chavez
+5116,HEB 425 E. 41 ST,"1000 E. 41ST ST, AUSTIN, TX 78751",Off Premise,78751,Tim Vela,BF427470,Travis,AUSTIN,Joe Castro
+5120,HEB 451 Four Points RR 620,"7301 RR 620, AUSTIN, TX 78759",Off Premise,78759,Joshua Perez,BF449637,Travis,AUSTIN,Manny Chavez
+5125,HEB 479 FM N 685,"201 FM 685 NORTH, PFLUGUERVILLE, TX 78660",Off Premise,78660,Joshua Perez,BF469415,Travis,PFLUGUERVILLE,Manny Chavez
+5127,HEB 495 LOUIS HENNA,"603 LOUIS HENNA BLVD 'A', ROUND ROCK, TX 78664",Off Premise,78664,Joshua Perez,BF491123,Williamson,ROUND ROCK,Manny Chavez
+5128,600 Degrees Pizzeria & Draft House - 8th St,"124 E 8th street, GEORGETOWN, TX 75247",On Premise,75247,Joshua Perez,BG866552,Williamson,GEORGETOWN,Manny Chavez
+5135,HEB 580 WhiteStone/Parmer,"2800 E. WHITESTONE, CEDAR PARK, TX 78613",Off Premise,78613,Joshua Perez,BF539865,Williamson,CEDAR PARK,Manny Chavez
+5137,HEB 582 HASLER,"104 HASLER BLVD, BASTROP, TX 78602",Off Premise,78602,Josh Jennings,BF534419,Bastrop,BASTROP,Joe Castro
+5139,HEB 591 E. PALM VALLEY,"1700 E PALM VALLEY, ROUND ROCK, TX 78664",Off Premise,78664,Joshua Perez,BF664730,Williamson,ROUND ROCK,Manny Chavez
+5146,HEB 611 HWY 290,"598 HWY 290 EAST, DRIPPING SPRINGS, TX 78620",Off Premise,78620,Josh Jennings,BF749303,Hays,DRIPPING SPRINGS,Manny Chavez
+5154,HEB 639 E. 51ST,"1801 E. 51ST STREET, AUSTIN, TX 78723",Off Premise,78723,Tim Vela,BG836874,Travis,AUSTIN,Joe Castro
+5157,HEB 673 UNIVERSITY BLVD,"250 UNIVERSITY BLVD, ROUND ROCK, TX 78665",Off Premise,78665,Joshua Perez,BG855425,Williamson,ROUND ROCK,Manny Chavez
+5162,Hi Hat Public House _E. 6TH ST,"2121 E 6TH STREET SUITE 101, AUSTIN, TX 78702",On Premise,78702,Tim Vela,BG825592,Travis,AUSTIN,Joe Castro
+5173,Hopfields GUADALUPE ST.,"3110 GUADALUPE ST. #400, AUSTIN, TX 78705",On Premise,78705,Tim Vela,BG779606,Travis,AUSTIN,Joe Castro
+5177,Hu La Hu Market _S 1ST ST.,"4901 S 1ST STREET, AUSTIN, TX 78745",Off Premise,78745,Tim Vela,BQ898456,Travis,AUSTIN,Joe Castro
+5205,Lamar Express S. LAMAR,"2238 S LAMAR, AUSTIN, TX 78704",Off Premise,78704,Tim Vela,BQ794936,Travis,AUSTIN,Manny Chavez
+5222,Mean-Eyed Cat Bar W 5TH ST.,"1621 W 5TH STREET, AUSTIN, TX 78703",On Premise,78703,Tim Vela,MB852712,Travis,AUSTIN,Brian Moody
+5226,Mets Mart _W WILLIAM CANNON,"2800 W WILLIAM CANNON DR, AUSTIN, TX 78745",Off Premise,78745,Tim Vela,BQ532362,Travis,AUSTIN,Joe Castro
+5252,Northwest Food Mart NW MILITARY,"2395 NW MILITARY HWY, San Antonio, TX 78231",Off Premise,78231,Josh Jennings,BQ650089,Bexar,San Antonio,Joe Castro
+5263,Oltorf Food Mart OLTORF,"2225 E. OLTORF, AUSTIN, TX 78741",Off Premise,78741,Tim Vela,BQ706405,Travis,AUSTIN,None
+5285,RBM Food Mart MANOR RD.,"2601 MANOR ROAD, AUSTIN, TX 78722",Off Premise,78722,Tim Vela,BF719443,Travis,AUSTIN,Manny Chavez
+5287,Red's Porch S. LAMAR,"3508 S. LAMAR #200, AUSTIN, TX 78704",On Premise,78704,Tim Vela,MB735593,Travis,AUSTIN,Manny Chavez
+5317,Southwest Parkway Market SW PKWY,"4601 SOUTHWEST PARKWAY STE 110, AUSTIN, TX 78735",Off Premise,78735,Josh Jennings,BF710824,Travis,AUSTIN,Joe Castro
+5321,Spec's #106 - Creekside,"255 Creekside Way, NEW BRAUNFELS, TX 78130",Off Premise,78130,Josh Jennings,BF826799,Comal,NEW BRAUNFELS,Joe Castro
+5326,Spec's #100 - De Zavala,"5219 De Zavala Rd., San Antonio, TX 78749",Off Premise,78749,Josh Jennings,BF812044,Bexar,San Antonio,Joe Castro
+5328,Spec's #60 - Airport,"5775 Airport Blvd. Ste. 100, AUSTIN, TX 78752",Off Premise,78752,Joshua Perez,BF645237,Travis,AUSTIN,Manny Chavez
+5329,Spec's #075 - Killeen,"2500 E. Central Texas Expressway, Ste. C, KILLEEN, TX 76543",Off Premise,76543,House Accounts ATX,BF770253,Bell,KILLEEN,Charles_3
+5331,Spec's #61 - US 290,"4960 W. US 290 Service Road, AUSTIN, TX 78735",Off Premise,78735,Tim Vela,BF659906,Travis,AUSTIN,Manny Chavez
+5333,Spec's #114 - Barnes Drive,"510 Barnes Dr., SAN MARCOS, TX 78666",Off Premise,78666,Josh Jennings,BF862641,Hays,SAN MARCOS,Joe Castro
+5344,HEB 091 STORE E. RIVERSIDE,"2508 E. RIVERSIDE DR, AUSTIN, TX 78741",Off Premise,78741,Tim Vela,BF121113,Travis,AUSTIN,Brian Moody
+5345,Star Bar W. 6TH,"600 W 6TH STREET, AUSTIN, TX 78701",On Premise,78701,Tim Vela,MB729918,Travis,AUSTIN,Joe Castro
+5348,Chupacabra,"401 S Main St. Ste 103, Salado, TX 76571",On Premise,76571,Tim Vela,BG902288,Bell,Salado,Manny Chavez
+5352,Stop N Tote E 5TH Gulu Inc,"2715 E 5TH STREET, AUSTIN, TX 78702",Off Premise,78702,Tim Vela,BQ903719,Travis,AUSTIN,Joe Castro
+5363,Texas Market LAMAR,"720 LAMAR PLACE, AUSTIN, TX 78752",Off Premise,78752,Tim Vela,BQ406427,Travis,AUSTIN,Joe Castro
+5373,The Dig Pub CYPRESS CREEK,"401 CYPRESS CREEK RD. SUITE 600, CEDAR PARK, TX 78613",On Premise,78613,Joshua Perez,BG665890,Williamson,CEDAR PARK,Manny Chavez
+5391,Thom's Market BARTON SPRINGS,"1418 BARTON SPRINGS RD, AUSTIN, TX 78704",Off Premise,78704,Tim Vela,BQ669629,Travis,AUSTIN,Manny Chavez
+5402,Total Wine #509 BRODIE LN,"5601 Brodie Ln. #800, Sunset Valley, TX 78745",Off Premise,78745,Tim Vela,BF901584,Travis,Sunset Valley,Brian Moody
+5478,Whichcraft Beer Store S. LAMAR,"2110 S LAMAR SUITE F, AUSTIN, TX 78704",Off Premise,78704,Tim Vela,BQ869405,Travis,AUSTIN,Manny Chavez
+5499,Sunrise Mini Mart #A,"1809 W Anderson lane, AUSTIN, TX 78757",Off Premise,78757,Joshua Perez,bq500814,Travis,AUSTIN,Manny Chavez
+5502,Spec's #66 - Temple,"3550 S. General Bruce Drive, Temple, TX 76504",Off Premise,76504,House Accounts ATX,BF742209,Bell,Temple,Charles_3
+5507,WFM #10316 - DOMAIN DR.,"11920 domain drive, AUSTIN, TX 78758",Off Premise,78758,Joshua Perez,BG860717,Travis,AUSTIN,Manny Chavez
+5508,WFM #10384 - Arbor Trails W. WILLIAM CANNON,"4301 w. William cannon #800, AUSTIN, TX 78749",Off Premise,78749,Tim Vela,BG807678,Travis,AUSTIN,Manny Chavez
+5509,WFM #10145 - N. LAMAR,"525 n. lamar, AUSTIN, TX 78703",Off Premise,78703,Tim Vela,BG573867,Travis,AUSTIN,Manny Chavez
+5514,WFM #10393 - Bee Cave HILL COUNTRY,"12601 Hill Country Blvd, BEE CAVE, TX 78738",Off Premise,78738,Josh Jennings,BG804047,Travis,BEE CAVE,Manny Chavez
+5515,Brew Market & Cafe Airport,"3842 Airport Blvd, AUSTIN, TX 78722",Off Premise,78722,Tim Vela,BF454013,Travis,AUSTIN,Manny Chavez
+5541,Central Market Cafe 420 Westgate,"4521 Westgate Blvd, AUSTIN, TX 78745",Off Premise,78745,Tim Vela,BG438574,Travis,AUSTIN,Manny Chavez
+5558,Total Wine #510 PECAN PARK,"11066 PECAN PARK BLVD, CEDAR PARK, TX 78613",Off Premise,78613,Joshua Perez,BF912473,Williamson,CEDAR PARK,Brian Moody
+5605,Total Wine #504 The Rim,"17530 La Cantera Pkwy, San Antonio, TX 78257",Off Premise,78257,Josh Jennings,BF858101,Bexar,San Antonio,Joe Castro
+5611,WFM #10075 - E. BASSE RD.,"255 E. Basse Rd., Suite 130, San Antonio, TX 78209",Off Premise,78209,Josh Jennings,BG420366,Bexar,San Antonio,Joe Castro
+5637,HEB 659 LAKELINE,"14028 N. US 183, AUSTIN, TX 78717",Off Premise,78717,Joshua Perez,BF812359,Williamson,AUSTIN,Manny Chavez
+5642,Thom's Market Riverside,"160 E. Riverside Dr., AUSTIN, TX 78704",Off Premise,78704,Tim Vela,BQ926887,Travis,AUSTIN,Manny Chavez
+5674,Spec's #113 - Bandera,"11751 Bandera Road, San Antonio, TX 78250",Off Premise,78250,Josh Jennings,BF872400,Bexar,San Antonio,Joe Castro
+5687,Spec's #62 - North Mopac,"10515 N Mopac Expressway, AUSTIN, TX 78759",Off Premise,78759,Joshua Perez,BF662093,Travis,AUSTIN,Manny Chavez
+5688,Spec's #63 - University Oaks,"201 University Oaks Blvd., ROUND ROCK, TX 78664",Off Premise,78664,Joshua Perez,BF675377,Williamson,ROUND ROCK,Manny Chavez
+5689,Spec's #64 - IH 35 South,"9900 IH 35 Service Road South, AUSTIN, TX 78748",Off Premise,78748,Josh Jennings,BF710652,Travis,AUSTIN,Joe Castro
+5690,Spec's #65 - Shops Parkway,"13015 Shops Parkway, BEE CAVE, TX 78738",Off Premise,78738,Josh Jennings,BF724811,Travis,BEE CAVE,Manny Chavez
+5691,Spec's #69 - Live Oak,"14623 IH 35 North, Live Oak, TX 78233",Off Premise,78233,Josh Jennings,BF724639,Bexar,Live Oak,Joe Castro
+5694,Spec's #77 - RR 620,"10601 RR 620 N., AUSTIN, TX 78726",Off Premise,78726,Joshua Perez,BF763856,Travis,AUSTIN,Manny Chavez
+5696,Spec's #95 - West University,"1013 West University Ave., GEORGETOWN, TX 78628",Off Premise,78628,Joshua Perez,BF774213,Williamson,GEORGETOWN,Manny Chavez
+5706,Eureka! - Austin,"200 East 6th St., AUSTIN, TX 78701",On Premise,78701,Tim Vela,MB940266,Travis,AUSTIN,Brian Moody
+5709,Total Wine #503 NW LOOP 410,"125 NW loop 410, San Antonio, TX 78216",Off Premise,78216,Josh Jennings,BF858101,Bexar,San Antonio,Joe Castro
+5710,Bread Basket Plum Creek FM 2770,"5671 FM 2770, KYLE, TX 78640",Off Premise,78640,Josh Jennings,BF858412,Hays,KYLE,Joe Castro
+5712,MELLOW MUSHROOM PIZZA N IH 35,"2600 N INTERSTATE 35, ROUND ROCK, TX 78681",On Premise,78681,Joshua Perez,MB922944,Williamson,ROUND ROCK,Manny Chavez
+5725,The Growling-San Marcos,"700 N LBJ Ste 111, SAN MARCOS, TX 78666",On Premise,78666,Josh Jennings,BG924091,Hays,SAN MARCOS,Joe Castro
+5730,Hop and Vine,"5619 Loop 1604 North West Suite 109, San Antonio, TX 78253",On Premise,78253,Josh Jennings,MB934646,Bexar,San Antonio,Joe Castro
+5761,Leander Beer Market,"106 W Willis St, LEANDER, TX 78641",On Premise,78641,Joshua Perez,BG882747,Williamson,LEANDER,Manny Chavez
+5776,The Hoppy Monk,"1010 N. Loop 1604 E, San Antonio, TX 78232",On Premise,78232,Josh Jennings,MB871142,Bexar,San Antonio,Joe Castro
+5779,Red Horn Coffee House & Brewing Co. - Parmer,"13010 W. Parmer Ln, CEDAR PARK, TX 78613",On Premise,78613,Joshua Perez,BH2736630,Williamson,CEDAR PARK,Manny Chavez
+5792,Hopdoddy Burger Bar IH 35-RR,"2800 NORTH IH 35, ROUND ROCK, TX 78681",On Premise,78681,Joshua Perez,MB925205,Travis,ROUND ROCK,Joe Castro
+5804,Whip In I35,"1950 South Interstate HWY 35, AUSTIN, TX 78704",On Premise,78704,Tim Vela,BG710851,Travis,AUSTIN,Joe Castro
+5806,Mellow Mushroom San Antonio,"115 North East Loop 1604, San Antonio, TX 78232",On Premise,78232,Josh Jennings,MB820290,Bexar,San Antonio,Joe Castro
+5813,Pinballz Lake Creek Sphon & Associates INC,"13729 Research Blvd Ste. 1350, AUSTIN, TX 78750",On Premise,78750,Joshua Perez,MB941152,Travis,AUSTIN,Manny Chavez
+5832,Big Hops Growler Bitters J&J Martindale Ventures L,"226 W Bitters Rd Ste. 108, San Antonio, TX 78216",On Premise,78216,Josh Jennings,BG831666,Bexar,San Antonio,Joe Castro
+5845,Mad Pecker Brewing CO.,"6025 Tezel Rd #122, San Antonio, TX 78250",On Premise,78250,Josh Jennings,BG911592,Bexar,San Antonio,Joe Castro
+5855,The Growler Exchange,"8313 Broadway St, San Antonio, TX 78209",On Premise,78209,Josh Jennings,BG933742,Bexar,San Antonio,Joe Castro
+5864,The Friendly Spot,"943 South Alamo, San Antonio, TX 78205",On Premise,78205,Josh Jennings,BG702780,Bexar,San Antonio,Joe Castro
+5866,The Hideout Pub,"12164 N. Mopac Expressway, AUSTIN, TX 78758",On Premise,78758,Joshua Perez,MB624880,Travis,AUSTIN,Manny Chavez
+5873,Bread Basket Manchaca,"11410 Manchaca Rd, AUSTIN, TX 78759",Off Premise,78759,Tim Vela,BQ918759,Travis,AUSTIN,Brian Moody
+5890,HEB 694 New Braunfels Plus,"2965 North Interstate 35 Frontage Road, NEW BRAUNFELS, TX 78130",Off Premise,78130,Josh Jennings,BF943752,Comal,NEW BRAUNFELS,Joe Castro
+5897,HEB 696 Hutto,"5000 Gattis School Rd, Hutto, TX 78634",Off Premise,78634,Joshua Perez,BF960857,Williamson,Hutto,Manny Chavez
+5907,Whichcraft Simond Ave,"1900 Simond Ave. Ste. 200, AUSTIN, TX 78723",On Premise,78723,Tim Vela,BG962646,Travis,AUSTIN,Manny Chavez
+5926,RAVENSCROFT MARKET,"11200 MANCHACA RD, AUSTIN, TX 78748",Off Premise,78748,Tim Vela,BQ992978,Travis,AUSTIN,Joe Castro
+5949,On The Rocks,"3550 Lakeline Blvd., LEANDER, TX 78641",Off Premise,78641,Joshua Perez,BF865048,Williamson,LEANDER,Manny Chavez
+5958,Eskimo Hut - San Antonio,"18866 Stone Oak Parkway, San Antonio, TX 78258",On Premise,78258,Josh Jennings,BG928932,Bexar,San Antonio,Joe Castro
+5996,2222 Market,"1112 West Koenig Lane, AUSTIN, TX 78756",On Premise,78756,Joshua Perez,BQ893589,Travis,AUSTIN,Joe Castro
+5997,2400 Food Mart,"2400 Burleson Road, AUSTIN, TX 78741",Off Premise,78741,Tim Vela,BQ669394,Travis,AUSTIN,Joe Castro
+6031,King Food Mart,"2907 South 1st., AUSTIN, TX 78704",Off Premise,78704,Tim Vela,BF480285,Travis,AUSTIN,Joe Castro
+6039,Mour - Shore District,"1414 Shore District Dr., AUSTIN, TX 78741",On Premise,78741,Tim Vela,BG938534,Travis,AUSTIN,Joe Castro
+6063,This n That,"1729 East Riverside Drive, AUSTIN, TX 78741",Off Premise,78741,Tim Vela,BQ730903,Travis,AUSTIN,Brian Moody
+6079,Stout House,"11851 Bandera Road #119, Helotes, TX 78023",On Premise,78023,Josh Jennings,MB951221,Bexar,Helotes,Joe Castro
+6087,Alamo Drafthouse - Stone Oak,"22806 Hwy 281 North, San Antonio, TX 78258",On Premise,78258,Josh Jennings,MB1029307,Bexar,San Antonio,Joe Castro
+6088,Attagirl Ice,"726 Mistletoe Ave, San Antonio, TX 78212",On Premise,78212,Josh Jennings,BG889317,Bexar,San Antonio,Joe Castro
+6094,Halcyon Stella Public House,"1414 South Alamo Street #101, San Antonio, TX 78210",On Premise,78210,Josh Jennings,MB827171,Bexar,San Antonio,Joe Castro
+6098,Pizza Italia,"3023 Thousand Oaks, San Antonio, San Antonio, TX 78247",On Premise,78247,Josh Jennings,BG401605,Bexar,San Antonio,Joe Castro
+6105,The Point Park & Eats,"24188 Boerne Stage Road, San Antonio, TX 78255",On Premise,78255,Josh Jennings,BG780995,Bexar,San Antonio,Joe Castro
+6133,Clarksville Mkt,"1001 W Lynn St, AUSTIN, TX 78703",Off Premise,78703,Tim Vela,MB955467,Travis,AUSTIN,Manny Chavez
+6153,Total Wine #522 Arboretum,"10001 Research Blvd, Suite 300, AUSTIN, TX 78759",Off Premise,78759,Joshua Perez,BF968621,Travis,AUSTIN,Manny Chavez
+6157,Red's Porch-Quarry,"4200 Braker Lane, Suite B, AUSTIN, TX 78759",On Premise,78759,Joshua Perez,MB986876,Travis,AUSTIN,Joe Castro
+6166,All American Discount Liq,"411 Brazos St, Ste. 100, AUSTIN, TX 78701",Off Premise,78701,Tim Vela,"BF961167, P 961166",Travis,AUSTIN,Joe Castro
+6169,Patio Dolcetto,"322 Cheatham St., Ste A, SAN MARCOS, TX 78666",On Premise,78666,Josh Jennings,BG866316,Hays,SAN MARCOS,Joe Castro
+6177,Stella Mueller,"1905 Aldrich St, AUSTIN, TX 78723",On Premise,78723,Tim Vela,MB968763,Travis,AUSTIN,Manny Chavez
+6179,Total Wine #514 Mueller,"1201 Barbara Jordan, Ste. 900, AUSTIN, TX 78723",Off Premise,78723,Tim Vela,P 961945,Travis,AUSTIN,Manny Chavez
+6183,Total Wine #520 Forum,"8356 Agora Parkway, Selma, TX 78154",Off Premise,78154,Josh Jennings,BF978981,Travis,Selma,Joe Castro
+6191,Urban Eat Drink,"110 S. Harris St., ROUND ROCK, TX 78664",On Premise,78664,Joshua Perez,MB939109,Williamson,ROUND ROCK,Manny Chavez
